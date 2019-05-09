@@ -1,6 +1,5 @@
 import pandas as pd
 import numpy as np
-from data_exploration import load_from_csv
 from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
 from sklearn.linear_model import LogisticRegression
 from sklearn.ensemble import RandomForestClassifier
@@ -22,6 +21,24 @@ from keras.callbacks import TensorBoard
 import matplotlib
 matplotlib.use("Agg")
 from matplotlib import pyplot as plt
+
+def load_from_csv(path, delimiter=','):
+    """
+    Load csv file and return a NumPy array of its data
+
+    Parameters
+    ----------
+    path: str
+        The path to the csv file to load
+    delimiter: str (default: ',')
+        The csv field delimiter
+
+    Return
+    ------
+    D: array
+        The NumPy array of the data contained in the file
+    """
+    return pd.read_csv(path, delimiter=delimiter, encoding = "latin_1")
 
 def generate_dataset():
 	df = load_from_csv("week_data_0997.csv").dropna()
