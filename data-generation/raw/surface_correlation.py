@@ -1,38 +1,54 @@
+import sys
 import pandas as pd
 import numpy as np
-import seaborn as sns
-import matplotlib.pyplot as plt
 
-raw_df = pd.read_csv('correlation.csv', index_col=False, names=['player', 'surface', 'ratio'])
+surfaces = ['Grass', 'Hard', 'Clay', 'Carpet']
 
 
-surfaces = ['Grass', 'Hard', 'Carpet', 'Clay']
+def compute_surfaces_correlation(source, destination):
+    """
+     Computes the correlation between the different surfaces.
+     It is done by computing the correlation between the win ratio
+     of the players on each surface.
+     Args:
+     ----
+        :source: str
+            Source filename containing the raw dataset with the matches.
+        :destination: str
+            Destination filename that will contain the correlation matrix.
+    """
+    df = pd.read_csv(source, index_col=None, header=0, low_memory=False)
 
-# Trim NaN and None surfaces
-raw_df = raw_df.dropna()
-raw_df = raw_df[raw_df.surface != 'None']
+    min_support = 10
+
+    winners = df['winner_id'].unique()
+    losers = df['loser_id'].unique()
+
+    players = np.unique(np.concatenate((winners, losers)))
+    dic = {s: {p: np.nan for p in players} for s in surfaces}
+
+    for p in players:
+        for s in surfaces:
+            wins = df[(df.winner_id == p) & (df.surface == s)].shape[0]
+            loses = df[(df.loser_id == p) & (df.surface == s)].shape[0]
+            if (wins + loses >= min_support):
+                dic[s][p] = wins/(wins+loses)
+
+    _df = pd.DataFrame(dic)
+
+    corr = _df.dropna().corr().values
+    corr[0:3, 0:3] = _df.drop('Carpet', axis=1).dropna().corr().values
+
+    corr_df = pd.DataFrame(data=corr,
+                           index=surfaces,
+                           columns=surfaces)
+    corr_df.to_csv(destination, index=False)
+
+    return df
 
 
-dic = {s: {p: np.nan for p in raw_df.player.unique()} for s in surfaces}
+if __name__ == '__main__':
+    source = str(sys.argv[1])
+    dest = str(sys.argv[2])
 
-for _, entry in raw_df.iterrows():
-    dic[entry['surface']][entry['player']] = entry['ratio']
-
-
-df_with_carpet = pd.DataFrame(dic).dropna()
-corr = df_with_carpet.corr()
-print(corr)
-
-sns.heatmap(corr,
-            xticklabels=corr.columns,
-            yticklabels=corr.columns)
-
-
-df_without_carpet = pd.DataFrame(dic).drop('Carpet', axis=1).dropna()
-corr = df_without_carpet.corr()
-print(corr)
-
-sns.heatmap(corr,
-            xticklabels=corr.columns,
-            yticklabels=corr.columns)
-plt.savefig("figures/corr.pdf")
+    compute_surfaces_correlation(source=source, destination=dest)
