@@ -47,6 +47,9 @@ class TournamentMaker:
         players = self._get_players(date, n_players)
         oppositions = self._generate_oppositions(players)
 
+        self._debug("Generated oppositions: {}".format(oppositions))
+        oppositions.to_csv("oppositions_{}_{}_{}".format(surface, n_players, date), index=False)
+
         return oppositions
 
     def _get_players(self, date, n_players):
@@ -61,6 +64,9 @@ class TournamentMaker:
         players = scrape_ranking_at_week(closest_prior_week, n_players)  # Rankings at that week
         self._debug("Nb Rankings scraped: {}".format(len(players)))
         self._debug("Rankings scraped: \n{}".format(players))
+        fname = "rankings_{}_{}.csv".format(n_players, date)
+        self._debug("Saved in: {}\n".format(fname))
+        players.to_csv(fname, index=False)
 
         return players
 
@@ -105,20 +111,32 @@ class TournamentMaker:
             players[col] = np.NaN
 
         for i, p in players.iterrows():
+            first, last = self._parse_name(p["name"])
             try:
-                rows_as_loser = self.db['loser_name'].str.contains(
-                    p["name"], regex=False, case=False)
+                rows_as_loser = (self.db['loser_name'].str.contains(
+                    first, regex=False, case=False) & self.db['loser_name'].str.contains(
+                        last, regex=False, case=False))
                 df = self.db[rows_as_loser][loser_labels]
                 players.ix[i, ['name'] + to_infer] = df.iloc[-1, :].tolist()
             except:
                 try:
-                    rows_as_winner = self.db['winner_name'].str.contains(
-                        p["name"], regex=False, case=False)
+                    rows_as_winner = (self.db['winner_name'].str.contains(
+                        first, regex=False, case=False) & self.db['winner_name'].str.contains(
+                            last, regex=False, case=False))
                     df = self.db[rows_as_winner][winner_labels]
                     players.ix[i, ['name'] + to_infer] = df.iloc[-1, :].tolist()
                 except:
+                    players.drop(i, inplace=True)
                     print("Error: {} Not Found".format(p["name"]))
+        players.index = pd.RangeIndex(len(players.index))
         return players
+
+    def _parse_name(self, fullname):
+        split_name = fullname.replace("-", " ").split()
+        first_name = split_name[0]
+        last_name = split_name[-1]
+
+        return first_name, last_name
 
     def _debug(self, msg):
         if self.debug_mode:
@@ -127,7 +145,7 @@ class TournamentMaker:
 
 if __name__ == '__main__':
 
-    db_file = 'raw/raw_2001_2018.csv'
+    db_file = 'raw/raw_2019.csv'
     db = pd.read_csv(db_file, index_col=None, header=0, low_memory=False)
     db['date'] = pd.to_datetime(db['date'], format="%d/%m/%Y")
 
@@ -143,7 +161,7 @@ if __name__ == '__main__':
     date = args.date
     n_players = args.players
 
-    tm = TournamentMaker(db=db)
+    tm = TournamentMaker(db=db, debug=True)
 
     # Generate oppositions
     print("[1/3] Generate Oppositions...")
@@ -157,7 +175,7 @@ if __name__ == '__main__':
     print("[2/3] Generate dataset...")
     print("(On {} cores)".format(n_cores))
     fname_generation = "raw_tournament_{}_{}_{}".format(surface, n_players, date)
-    df_split = np.array_split(tournament_df, 10)  # Split the dataset
+    df_split = np.array_split(tournament_df, n_cores)  # Split the dataset
     pool = multiprocessing.Pool(n_cores)
     generate = functools.partial(
         dm.generate, output=fname_generation)
