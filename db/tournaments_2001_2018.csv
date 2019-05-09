@@ -1,0 +1,2630 @@
+2001-580,Australian Open,Hard,Outdoor,128,Grand Slam
+2001-741,Nottingham,Grass,Outdoor,32,International
+2001-338,Sydney,Hard,Outdoor,32,International
+2001-360,Casablanca,Clay,Outdoor,32,International
+2001-404,Indian Wells Masters,Hard,,64,
+2001-407,Rotterdam,Hard,Indoor,32,International Gold
+2001-402,Memphis,Hard,Indoor,48,International Gold
+2001-403,Miami Masters,Hard,,96,
+2001-560,US Open,Hard,Outdoor,128,Grand Slam
+2001-408,Milan,Carpet,Indoor,32,International
+2001-409,Atlanta,Clay,Outdoor,32,International
+2001-319,Kitzbuhel,Clay,Outdoor,48,International Gold
+2001-311,Queen's Club,Grass,,56,
+2001-314,Gstaad,Clay,Outdoor,32,International
+2001-315,Newport,Grass,Outdoor,32,International
+2001-316,Bastad,Clay,Outdoor,32,International
+2001-317,Amsterdam,Clay,Outdoor,32,International
+2001-520,Roland Garros,Clay,,128,
+2001-357,Stuttgart Masters,Hard,,48,
+2001-352,Paris Masters,Carpet,,48,
+2001-451,Doha,Hard,Outdoor,32,International
+2001-359,Bogota,Clay,Outdoor,32,International
+2001-891,Chennai,Hard,Outdoor,32,International
+2001-890,Shanghai,Hard,Outdoor,32,International
+2001-773,Bucharest,Clay,Outdoor,32,International
+2001-481,Copenhagen,Hard,Indoor,32,International
+2001-416,Rome Masters,Clay,,64,
+2001-414,Hamburg Masters,Clay,,64,
+2001-410,Monte Carlo Masters,Clay,,64,
+2001-419,Indianapolis,Hard,Outdoor,56,International Gold
+2001-418,Washington,Hard,Outdoor,56,International Gold
+2001-308,Munich,Clay,Outdoor,32,International
+2001-301,Auckland,Hard,Outdoor,32,International
+2001-306,St. Poelten,Clay,,32,
+2001-568,St. Petersburg,Hard,Indoor,32,International
+2001-468,Estoril,Clay,Outdoor,32,International
+2001-499,Delray Beach,Hard,Outdoor,32,International
+2001-496,Marseille,Hard,Indoor,32,International
+2001-495,Dubai,Hard,Outdoor,32,International Gold
+2001-429,Stockholm,Hard,Indoor,32,International
+2001-422,Cincinnati Masters,Hard,,64,
+2001-423,Los Angeles,Hard,Outdoor,32,International
+2001-421,Canada Masters,Hard,,64,
+2001-424,San Jose,Hard,Indoor,32,International
+2001-425,Barcelona,Clay,Outdoor,56,International
+2001-807,Acapulco,Clay,Outdoor,32,International Gold
+2001-339,Adelaide,Hard,Outdoor,32,International
+2001-336,Hong Kong,Hard,Outdoor,32,International
+2001-337,Vienna,Hard,Indoor,32,International Gold
+2001-329,Tokyo,Hard,Outdoor,56,International Gold
+2001-328,Basel,Carpet,Indoor,32,International
+2001-505,Vina del Mar,Clay,Outdoor,32,International
+2001-506,Buenos Aires,Clay,Outdoor,32,International
+2001-500,Halle,Grass,Outdoor,32,International
+2001-375,Lyon,Carpet,Indoor,32,International Gold
+2001-475,Sopot - WS,Clay,,32,
+2001-573,Mallorca,Clay,Outdoor,32,International
+2001-540,Wimbledon,Grass,Outdoor,128,Grand Slam
+2001-717,Houston,Clay,Outdoor,32,International
+2001-439,Umag,Clay,Outdoor,32,International
+2001-438,Moscow,Carpet,Indoor,32,International
+2001-433,Scottsdale,Hard,Outdoor,32,International
+2001-533,Costa Do Sauipe,Hard,,32,
+2001-321,Stuttgart,Clay,Outdoor,48,International Gold
+2001-325,Palermo,Clay,Outdoor,32,International
+2001-440,'s-Hertogenbosch,Grass,Outdoor,32,International
+2001-441,Long Island,Hard,Outdoor,32,International
+2001-73,Tashkent,Hard,Outdoor,32,International
+2001-615,Dusseldorf,Clay,,64,
+2001-605,Masters Cup,Hard,Indoor,8,Masters Cup
+2001-D001,Davis Cup WG R1: AUS vs ECU,Grass,,4,
+2001-D002,Davis Cup WG R1: BRA vs MAR,Clay,,4,
+2001-D003,Davis Cup WG R1: SWE vs CZE,Carpet,,4,
+2001-D004,Davis Cup WG R1: SVK vs RUS,Hard,,4,
+2001-D005,Davis Cup WG R1: BEL vs FRA,Clay,,4,
+2001-D006,Davis Cup WG R1: SUI vs USA,Hard,,4,
+2001-D007,Davis Cup WG R1: GER vs ROU,Carpet,,4,
+2001-D008,Davis Cup WG R1: NED vs ESP,Carpet,,4,
+2001-D009,Davis Cup G1 R1: POR vs UKR,Clay,,4,
+2001-D010,Davis Cup G1 R1: FIN vs SLO,Carpet,,4,
+2001-D011,Davis Cup G1 QF: ARG vs MEX,Clay,,4,
+2001-D012,Davis Cup G1 QF: BAH vs PER,Hard,,4,
+2001-D013,Davis Cup G1 QF: INA vs UZB,Hard,,4,
+2001-D014,Davis Cup G1 QF: KOR vs NZL,Carpet,,4,
+2001-D015,Davis Cup G1 QF: JPN vs THA,Hard,,4,
+2001-D016,Davis Cup G1 QF: CHN vs IND,Hard,,4,
+2001-D017,Davis Cup G2 R1: HUN vs MON,Clay,,4,
+2001-D018,Davis Cup G2 R1: IRL vs DEN,Carpet,,4,
+2001-D019,Davis Cup G2 R1: TUR vs GRE,Hard,,4,
+2001-D020,Davis Cup G2 R1: MDA vs ARM,Carpet,,4,
+2001-D021,Davis Cup G2 R1: EST vs NOR,Carpet,,4,
+2001-D022,Davis Cup G2 R1: LUX vs CIV,Carpet,,4,
+2001-D023,Davis Cup G2 R1: POL vs ISR,Clay,,4,
+2001-D024,Davis Cup G2 R1: RSA vs YUG,Hard,,4,
+2001-D025,Davis Cup G2 QF: URU vs COL,Clay,,4,
+2001-D026,Davis Cup G2 QF: CRC vs AHO,Hard,,4,
+2001-D027,Davis Cup G2 QF: GUA vs DOM,Hard,,4,
+2001-D028,Davis Cup G2 QF: PAR vs VEN,Clay,,4,
+2001-D029,Davis Cup G2 QF: KUW vs LIB,Hard,,4,
+2001-D030,Davis Cup G2 QF: HKG vs IRI,Hard,,4,
+2001-D031,Davis Cup G2 QF: SYR vs MAS,Hard,,4,
+2001-D032,Davis Cup G2 QF: TPE vs PAK,Clay,,4,
+2001-D033,Davis Cup G1 SF: ARG vs CAN,Clay,,4,
+2001-D034,Davis Cup G1 SF: BAH vs CHI,Hard,,4,
+2001-D035,Davis Cup G1 QF: GBR vs POR,Carpet,,4,
+2001-D036,Davis Cup G1 QF: CRO vs AUT,Carpet,,4,
+2001-D037,Davis Cup G1 QF: BLR vs ZIM,Carpet,,4,
+2001-D038,Davis Cup G1 QF: FIN vs ITA,Carpet,,4,
+2001-D039,Davis Cup G2 SF: URU vs AHO,Clay,,4,
+2001-D040,Davis Cup G2 SF: GUA vs VEN,Hard,,4,
+2001-D041,Davis Cup G2 SF: LIB vs HKG,Clay,,4,
+2001-D042,Davis Cup G2 SF: MAS vs TPE,Hard,,4,
+2001-D043,Davis Cup G1 SF: NZL vs UZB,Carpet,,4,
+2001-D044,Davis Cup G1 SF: JPN vs IND,Hard,,4,
+2001-D045,Davis Cup G1 PO: KOR vs INA,Hard,,4,
+2001-D046,Davis Cup G1 PO: THA vs CHN,Hard,,4,
+2001-D047,Davis Cup G2 PO: COL vs CRC,Clay,,4,
+2001-D048,Davis Cup G2 PO: PAR vs DOM,Clay,,4,
+2001-D049,Davis Cup G2 PO: KUW vs IRI,Hard,,4,
+2001-D050,Davis Cup G2 PO: SYR vs PAK,Hard,,4,
+2001-D051,Davis Cup WG QF: BRA vs AUS,Clay,,4,
+2001-D052,Davis Cup WG QF: SWE vs RUS,Hard,,4,
+2001-D053,Davis Cup WG QF: SUI vs FRA,Carpet,,4,
+2001-D054,Davis Cup WG QF: NED vs GER,Carpet,,4,
+2001-D055,Davis Cup G2 QF: DEN vs HUN,Hard,,4,
+2001-D056,Davis Cup G2 QF: GRE vs ARM,Clay,,4,
+2001-D057,Davis Cup G2 QF: LUX vs NOR,Clay,,4,
+2001-D058,Davis Cup G2 QF: ISR vs RSA,Hard,,4,
+2001-D059,Davis Cup G2 PO: MON vs IRL,Clay,,4,
+2001-D060,Davis Cup G2 PO: MDA vs TUR,Clay,,4,
+2001-D061,Davis Cup G2 PO: CIV vs EST,Hard,,4,
+2001-D062,Davis Cup G2 PO: YUG vs POL,Clay,,4,
+2001-D063,Davis Cup G2 F: URU vs VEN,Clay,,4,
+2001-D064,Davis Cup G1 PO: MEX vs CAN,Clay,,4,
+2001-D065,Davis Cup G1 PO: MEX vs PER,Carpet,,4,
+2001-D066,Davis Cup G2 SF: GRE vs DEN,Clay,,4,
+2001-D067,Davis Cup G2 SF: LUX vs ISR,Clay,,4,
+2001-D068,Davis Cup WG SF: AUS vs SWE,Hard,,4,
+2001-D069,Davis Cup WG SF: NED vs FRA,Carpet,,4,
+2001-D070,Davis Cup WG PO: ARG vs BLR,Clay,,4,
+2001-D071,Davis Cup WG PO: BEL vs MAR,Carpet,,4,
+2001-D072,Davis Cup WG PO: CZE vs ROU,Carpet,,4,
+2001-D073,Davis Cup WG PO: ECU vs GBR,Clay,,4,
+2001-D074,Davis Cup WG PO: ITA vs CRO,Clay,,4,
+2001-D075,Davis Cup WG PO: SVK vs CHI,Carpet,,4,
+2001-D076,Davis Cup WG PO: ESP vs UZB,Clay,,4,
+2001-D077,Davis Cup WG PO: USA vs IND,Hard,,4,
+2001-D078,Davis Cup G1 PO: INA vs CHN,Hard,,4,
+2001-D080,Davis Cup WG F: AUS vs FRA,Grass,,4,
+2001-D081,Davis Cup G1 PO: AUT vs UKR,Hard,,4,
+2001-D082,Davis Cup G1 PO: ZIM vs SLO,Hard,,4,
+2002-499,Delray Beach,Hard,Outdoor,32,International
+2002-495,Dubai,Hard,Outdoor,32,International Gold
+2002-496,Marseille,Hard,Indoor,32,International
+2002-419,Indianapolis,Hard,Outdoor,56,International Gold
+2002-73,Tashkent,Hard,Outdoor,32,International
+2002-407,Rotterdam,Hard,Indoor,32,International Gold
+2002-404,Indian Wells Masters,Hard,,64,
+2002-403,Miami Masters,Hard,,96,
+2002-402,Memphis,Hard,Indoor,32,International Gold
+2002-408,Milan,Carpet,Indoor,32,International
+2002-337,Vienna,Hard,Indoor,32,International Gold
+2002-336,Hong Kong,Hard,Outdoor,32,International
+2002-339,Adelaide,Hard,Outdoor,32,International
+2002-1536,Madrid Masters,Hard,Indoor,48,Masters
+2002-533,Costa Do Sauipe,Hard,,32,
+2002-573,Mallorca,Clay,Outdoor,32,International
+2002-475,Sopot,Clay,,32,
+2002-308,Munich,Clay,Outdoor,32,International
+2002-301,Auckland,Hard,Outdoor,32,International
+2002-306,St. Poelten,Clay,,32,
+2002-375,Lyon,Carpet,Indoor,32,International
+2002-481,Copenhagen,Hard,Indoor,32,International
+2002-717,Houston,Clay,Outdoor,32,International
+2002-438,Moscow,Carpet,Indoor,32,International
+2002-439,Umag,Clay,Outdoor,32,International
+2002-433,Scottsdale,Hard,Outdoor,32,International
+2002-506,Buenos Aires,Clay,Outdoor,32,International
+2002-505,Vina del Mar,Clay,Outdoor,32,International
+2002-500,Halle,Grass,Outdoor,32,International
+2002-338,Sydney,Hard,Outdoor,32,International
+2002-540,Wimbledon,Grass,Outdoor,128,Grand Slam
+2002-468,Estoril,Clay,Outdoor,32,International
+2002-319,Kitzbuhel,Clay,Outdoor,48,International Gold
+2002-311,Queen's Club,Grass,,56,
+2002-317,Amersfoort,Clay,Outdoor,32,International
+2002-316,Bastad,Clay,Outdoor,32,International
+2002-315,Newport,Grass,Outdoor,32,International
+2002-314,Gstaad,Clay,Outdoor,32,International
+2002-429,Stockholm,Hard,Indoor,32,International
+2002-580,Australian Open,Hard,Outdoor,128,Grand Slam
+2002-425,Barcelona,Clay,Outdoor,56,International Gold
+2002-424,San Jose,Hard,Indoor,32,International
+2002-421,Canada Masters,Hard,,64,
+2002-423,Los Angeles,Hard,Outdoor,32,International
+2002-422,Cincinnati Masters,Hard,,64,
+2002-352,Paris Masters,Carpet,,48,
+2002-414,Hamburg Masters,Clay,,64,
+2002-451,Doha,Hard,Outdoor,32,International
+2002-773,Bucharest,Clay,Outdoor,32,International
+2002-416,Rome Masters,Clay,,64,
+2002-410,Monte Carlo Masters,Clay,Outdoor,64,Masters
+2002-328,Basel,Carpet,Indoor,32,International
+2002-329,Tokyo,Hard,Outdoor,56,International Gold
+2002-325,Palermo,Clay,Outdoor,32,International
+2002-321,Stuttgart,Clay,Outdoor,32,International
+2002-520,Roland Garros,Clay,,128,
+2002-741,Nottingham,Grass,Outdoor,32,International
+2002-891,Chennai,Hard,Outdoor,32,International
+2002-560,US Open,Hard,Outdoor,128,Grand Slam
+2002-441,Long Island,Hard,Outdoor,48,International
+2002-440,'s-Hertogenbosch,Grass,Outdoor,32,International
+2002-568,St. Petersburg,Hard,Indoor,32,International
+2002-807,Acapulco,Clay,Outdoor,32,International Gold
+2002-360,Casablanca,Clay,Outdoor,32,International
+2002-418,Washington,Hard,Outdoor,56,International Gold
+2002-782,Wrexham CH,Hard,,32,
+2002-615,Dusseldorf,Clay,,64,
+2002-605,Masters Cup,Hard,Indoor,8,Masters Cup
+2002-D001,Davis Cup WG R1: FRA vs NED,Clay,,4,
+2002-D002,Davis Cup WG R1: CZE vs BRA,Carpet,,4,
+2002-D003,Davis Cup WG R1: ESP vs MAR,Clay,,4,
+2002-D004,Davis Cup WG R1: USA vs SVK,Hard,,4,
+2002-D005,Davis Cup WG R1: RUS vs SUI,Clay,,4,
+2002-D006,Davis Cup WG R1: GBR vs SWE,Carpet,,4,
+2002-D007,Davis Cup WG R1: CRO vs GER,Carpet,,4,
+2002-D008,Davis Cup WG R1: ARG vs AUS,Clay,,4,
+2002-D009,Davis Cup G1 R1: ZIM vs POR,Hard,,4,
+2002-D010,Davis Cup G1 R1: AUT vs ISR,Clay,,4,
+2002-D011,Davis Cup G2 R1: UKR vs BUL,Clay,,4,
+2002-D012,Davis Cup G2 R1: LAT vs CIV,Clay,,4,
+2002-D013,Davis Cup G2 R1: MDA vs DEN,Clay,,4,
+2002-D014,Davis Cup G2 R1: NOR vs EGY,Clay,,4,
+2002-D015,Davis Cup G2 R1: YUG vs RSA,Clay,,4,
+2002-D016,Davis Cup G2 R1: LUX vs HUN,Hard,,4,
+2002-D017,Davis Cup G2 R1: ARM vs IRL,Clay,,4,
+2002-D018,Davis Cup G2 R1: SLO vs GHA,Clay,,4,
+2002-D019,Davis Cup G1 QF: THA vs UZB,Hard,,4,
+2002-D020,Davis Cup G1 QF: KOR vs JPN,Carpet,,4,
+2002-D021,Davis Cup G1 QF: NZL vs INA,Carpet,,4,
+2002-D022,Davis Cup G1 QF: LIB vs IND,Hard,,4,
+2002-D023,Davis Cup G2 QF: CHN vs KUW,Hard,,4,
+2002-D024,Davis Cup G2 QF: KAZ vs PHI,Hard,,4,
+2002-D025,Davis Cup G2 QF: MAS vs PAK,Hard,,4,
+2002-D026,Davis Cup G2 QF: HKG vs TPE,Hard,,4,
+2002-D027,Davis Cup G1 QF: BAH vs VEN,Hard,,4,
+2002-D028,Davis Cup G1 QF: CAN vs MEX,Carpet,,4,
+2002-D029,Davis Cup G2 QF: GUA vs PER,Hard,,4,
+2002-D030,Davis Cup G2 QF: PAR vs AHO,Clay,,4,
+2002-D031,Davis Cup G2 QF: COL vs CUB,Clay,,4,
+2002-D032,Davis Cup G2 QF: TRI vs URU,Hard,,4,
+2002-D033,Davis Cup G2 SF: CHN vs KAZ,Hard,,4,
+2002-D034,Davis Cup G2 SF: PAK vs TPE,Grass,,4,
+2002-D035,Davis Cup G1 SF: THA vs JPN,Hard,,4,
+2002-D036,Davis Cup G1 SF: NZL vs IND,Hard,,4,
+2002-D037,Davis Cup G1 QF: ITA vs FIN,Clay,,4,
+2002-D038,Davis Cup G1 QF: ZIM vs BLR,Hard,,4,
+2002-D039,Davis Cup G1 QF: ROU vs AUT,Carpet,,4,
+2002-D040,Davis Cup G1 QF: BEL vs GRE,Carpet,,4,
+2002-D041,Davis Cup WG QF: FRA vs CZE,Carpet,,4,
+2002-D042,Davis Cup WG QF: USA vs ESP,Grass,,4,
+2002-D043,Davis Cup WG QF: RUS vs SWE,Clay,,4,
+2002-D044,Davis Cup WG QF: ARG vs CRO,Clay,,4,
+2002-D045,Davis Cup G1 SF: VEN vs ECU,Hard,,4,
+2002-D046,Davis Cup G1 SF: CAN vs CHI,Carpet,,4,
+2002-D047,Davis Cup G2 SF: PAR vs PER,Clay,,4,
+2002-D048,Davis Cup G2 SF: COL vs URU,Clay,,4,
+2002-D049,Davis Cup G2 PO: GUA vs AHO,Hard,,4,
+2002-D050,Davis Cup G2 PO: CUB vs TRI,Hard,,4,
+2002-D051,Davis Cup G2 PO: PHI vs KUW,Clay,,4,
+2002-D052,Davis Cup G2 PO: HKG vs MAS,Hard,,4,
+2002-D053,Davis Cup G1 PO: UZB vs KOR,Hard,,4,
+2002-D054,Davis Cup G1 PO: INA vs LIB,Hard,,4,
+2002-D055,Davis Cup G2 F: PAK vs CHN,Grass,,4,
+2002-D056,Davis Cup G2 F: URU vs PER,Clay,,4,
+2002-D057,Davis Cup WG SF: FRA vs USA,Clay,,4,
+2002-D058,Davis Cup WG SF: RUS vs ARG,Carpet,,4,
+2002-D059,Davis Cup G1 PO: LIB vs KOR,Clay,,4,
+2002-D060,Davis Cup WG PO: AUS vs IND,Hard,,4,
+2002-D061,Davis Cup WG PO: ZIM vs BEL,Hard,,4,
+2002-D062,Davis Cup WG PO: BRA vs CAN,Clay,,4,
+2002-D063,Davis Cup WG PO: GER vs VEN,Hard,,4,
+2002-D064,Davis Cup WG PO: GBR vs THA,Carpet,,4,
+2002-D065,Davis Cup WG PO: FIN vs NED,Carpet,,4,
+2002-D066,Davis Cup WG PO: SVK vs ROU,Carpet,,4,
+2002-D067,Davis Cup WG PO: MAR vs SUI,Clay,,4,
+2002-D068,Davis Cup G2 QF: CIV vs BUL,Hard,,4,
+2002-D069,Davis Cup G2 QF: DEN vs NOR,Hard,,4,
+2002-D070,Davis Cup G2 QF: LUX vs YUG,Hard,,4,
+2002-D071,Davis Cup G2 QF: SLO vs IRL,Clay,,4,
+2002-D072,Davis Cup G1 PO: BLR vs POR,Carpet,,4,
+2002-D073,Davis Cup G1 PO: ECU vs BAH,Clay,,4,
+2002-D074,Davis Cup G1 PO: MEX vs CHI,Carpet,,4,
+2002-D075,Davis Cup G2 PO: LAT vs UKR,Clay,,4,
+2002-D076,Davis Cup G2 PO: EGY vs MDA,Clay,,4,
+2002-D077,Davis Cup G2 PO: RSA vs HUN,Hard,,4,
+2002-D078,Davis Cup G2 PO: GHA vs ARM,Hard,,4,
+2002-D079,Davis Cup G1 PO: BAH vs MEX,Hard,,4,
+2002-D080,Davis Cup G2 SF: NOR vs CIV,Clay,,4,
+2002-D081,Davis Cup G2 SF: LUX vs SLO,Hard,,4,
+2002-D082,Davis Cup G1 PO: ITA vs POR,Carpet,,4,
+2002-D083,Davis Cup G1 PO: ISR vs GRE,Hard,,4,
+2002-D084,Davis Cup WG F: FRA vs RUS,Clay,,4,
+2003-481,Copenhagen,Hard,Indoor,32,International
+2003-520,Roland Garros,Clay,,128,
+2003-414,Hamburg Masters,Clay,,64,
+2003-416,Rome Masters,Clay,,64,
+2003-410,Monte Carlo Masters,Clay,Outdoor,64,Masters
+2003-807,Acapulco,Clay,Outdoor,32,International Gold
+2003-560,US Open,Hard,Outdoor,128,Grand Slam
+2003-360,Casablanca,Clay,Outdoor,32,International
+2003-424,San Jose,Hard,Indoor,32,International
+2003-425,Barcelona,Clay,Outdoor,56,International Gold
+2003-422,Cincinnati Masters,Hard,,64,
+2003-423,Los Angeles,Hard,Outdoor,32,International
+2003-580,Australian Open,Hard,Outdoor,128,Grand Slam
+2003-429,Stockholm,Hard,,32,
+2003-891,Chennai,Hard,Outdoor,32,International
+2003-890,Shanghai,Hard,,32,
+2003-468,Estoril,Clay,,32,
+2003-741,Nottingham,Grass,Outdoor,32,International
+2003-329,Tokyo,Hard,Outdoor,48,International Gold
+2003-328,Basel,Carpet,Indoor,32,International
+2003-325,Palermo,Clay,Outdoor,32,International
+2003-321,Stuttgart,Clay,Outdoor,48,International Gold
+2003-495,Dubai,Hard,,32,
+2003-496,Marseille,Hard,Indoor,32,International
+2003-499,Delray Beach,Hard,Outdoor,32,International
+2003-773,Bucharest,Clay,Outdoor,32,International
+2003-475,Sopot,Clay,Outdoor,32,International
+2003-419,Indianapolis,Hard,Outdoor,48,International
+2003-418,Washington,Hard,Outdoor,48,International Gold
+2003-352,Paris Masters,Carpet,,48,
+2003-433,Scottsdale,Hard,Outdoor,32,International
+2003-439,Umag,Clay,Outdoor,32,International
+2003-438,Moscow,Carpet,Indoor,32,International
+2003-500,Halle,Grass,Outdoor,32,International
+2003-506,Buenos Aires,Clay,Outdoor,32,International
+2003-505,Vina del Mar,Clay,Outdoor,32,International
+2003-311,Queen's Club,Grass,,56,
+2003-316,Bastad,Clay,Outdoor,32,International
+2003-317,Amersfoort,Clay,Outdoor,32,International
+2003-314,Gstaad,Clay,Outdoor,32,International
+2003-315,Newport,Grass,Outdoor,32,International
+2003-319,Kitzbuhel,Clay,Outdoor,48,International Gold
+2003-540,Wimbledon,Grass,Outdoor,128,Grand Slam
+2003-440,'s-Hertogenbosch,Grass,Outdoor,32,International
+2003-441,Long Island,Hard,Outdoor,32,International
+2003-1720,Bangkok,Hard,Indoor,32,International
+2003-408,Milan,Carpet,Indoor,32,International
+2003-402,Memphis,Hard,Indoor,32,International Gold
+2003-1536,Madrid Masters,Hard,Indoor,48,Masters
+2003-404,Indian Wells Masters,Hard,,64,
+2003-421,Canada Masters,Hard,,64,
+2003-341,Metz,Hard,Indoor,32,International
+2003-533,Costa Do Sauipe,Hard,Outdoor,32,International
+2003-717,Houston,Clay,Outdoor,32,International
+2003-403,Miami Masters,Hard,,96,
+2003-407,Rotterdam,Hard,Indoor,32,International Gold
+2003-306,St. Poelten,Clay,,32,
+2003-301,Auckland,Hard,Outdoor,32,International
+2003-308,Munich,Clay,Outdoor,32,International
+2003-573,Valencia,Clay,,32,
+2003-375,Lyon,Carpet,Indoor,32,International
+2003-451,Doha,Hard,Outdoor,32,International
+2003-568,St. Petersburg,Hard,Indoor,32,International
+2003-338,Sydney,Hard,Outdoor,32,International
+2003-339,Adelaide,Hard,Outdoor,32,International
+2003-337,Vienna,Hard,,32,
+2003-615,Dusseldorf,Clay,,64,
+2003-605,Masters Cup,Hard,Outdoor,8,Masters Cup
+2003-D001,Davis Cup WG R1: ROU vs FRA,Carpet,,4,
+2003-D002,Davis Cup WG R1: NED vs SUI,Carpet,,4,
+2003-D003,Davis Cup WG R1: AUS vs GBR,Clay,,4,
+2003-D004,Davis Cup WG R1: SWE vs BRA,Carpet,,4,
+2003-D005,Davis Cup WG R1: CRO vs USA,Carpet,,4,
+2003-D006,Davis Cup WG R1: ESP vs BEL,Clay,,4,
+2003-D007,Davis Cup WG R1: ARG vs GER,Clay,,4,
+2003-D008,Davis Cup WG R1: CZE vs RUS,Clay,,4,
+2003-D009,Davis Cup G1 R1: ECU vs CHI,Clay,,4,
+2003-D010,Davis Cup G1 R1: PER vs BAH,Clay,,4,
+2003-D011,Davis Cup G1 R1: IND vs JPN,Grass,,4,
+2003-D012,Davis Cup G1 R1: NZL vs PAK,Hard,,4,
+2003-D013,Davis Cup G1 R1: UZB vs INA,Hard,,4,
+2003-D014,Davis Cup G1 R1: THA vs KOR,Carpet,,4,
+2003-D015,Davis Cup G1 R1: NOR vs AUT,Hard,,4,
+2003-D016,Davis Cup G1 R1: BLR vs ISR,Carpet,,4,
+2003-D017,Davis Cup G2 R1: MEX vs AHO,Carpet,,4,
+2003-D018,Davis Cup G2 R1: PAR vs HAI,Clay,,4,
+2003-D019,Davis Cup G2 R1: CUB vs COL,Hard,,4,
+2003-D020,Davis Cup G2 R1: URU vs DOM,Clay,,4,
+2003-D021,Davis Cup G2 R1: IRI vs LIB,Clay,,4,
+2003-D022,Davis Cup G2 R1: HKG vs TJK,Hard,,4,
+2003-D023,Davis Cup G2 R1: TPE vs KAZ,Carpet,,4,
+2003-D024,Davis Cup G2 R1: CHN vs PHI,Hard,,4,
+2003-D025,Davis Cup G2 R1: POR vs MON,Clay,,4,
+2003-D026,Davis Cup G2 R1: RSA vs POL,Hard,,4,
+2003-D027,Davis Cup G2 R1: GHA vs SLO,Hard,,4,
+2003-D028,Davis Cup G2 R1: DEN vs TUN,Hard,,4,
+2003-D029,Davis Cup G2 R1: BUL vs UKR,Carpet,,4,
+2003-D030,Davis Cup G2 R1: YUG vs CIV,Carpet,,4,
+2003-D031,Davis Cup G2 R1: IRL vs EGY,Hard,,4,
+2003-D032,Davis Cup G2 R1: AND vs GRE,Carpet,,4,
+2003-D033,Davis Cup WG QF: FRA vs SUI,Hard,,4,
+2003-D034,Davis Cup WG QF: SWE vs AUS,Hard,,4,
+2003-D035,Davis Cup WG QF: ESP vs CRO,Clay,,4,
+2003-D036,Davis Cup WG QF: ARG vs RUS,Clay,,4,
+2003-D037,Davis Cup WG SF: AUS vs SUI,Hard,,4,
+2003-D038,Davis Cup WG SF: ESP vs ARG,Clay,,4,
+2003-D039,Davis Cup WG F: AUS vs ESP,Grass,,4,
+2003-D040,Davis Cup G1 R2: ECU vs VEN,Clay,,4,
+2003-D041,Davis Cup G1 R2: CAN vs PER,Carpet,,4,
+2003-D042,Davis Cup G1 R2: IND vs NZL,Grass,,4,
+2003-D043,Davis Cup G1 R2: UZB vs THA,Hard,,4,
+2003-D044,Davis Cup G1 R2: LUX vs SVK,Hard,,4,
+2003-D045,Davis Cup G1 R2: AUT vs FIN,Carpet,,4,
+2003-D046,Davis Cup G1 R2: BLR vs ZIM,Carpet,,4,
+2003-D047,Davis Cup G1 R2: MAR vs ITA,Clay,,4,
+2003-D048,Davis Cup G2 R2: PAR vs MEX,Clay,,4,
+2003-D049,Davis Cup G2 R2: DOM vs CUB,Clay,,4,
+2003-D050,Davis Cup G2 F: DOM vs PAR,Hard,,4,
+2003-D051,Davis Cup G2 R2: LIB vs HKG,Hard,,4,
+2003-D052,Davis Cup G2 R2: CHN vs TPE,Hard,,4,
+2003-D053,Davis Cup G2 F: TPE vs HKG,Hard,,4,
+2003-D054,Davis Cup G2 R2: RSA vs POR,Hard,,4,
+2003-D055,Davis Cup G2 R2: DEN vs SLO,Hard,,4,
+2003-D056,Davis Cup G2 R2: YUG vs BUL,Clay,,4,
+2003-D057,Davis Cup G2 R2: GRE vs IRL,Clay,,4,
+2003-D058,Davis Cup G2 R3: DEN vs RSA,Carpet,,4,
+2003-D059,Davis Cup G2 R3: GRE vs YUG,Clay,,4,
+2003-D060,Davis Cup G2 PO: AHO vs HAI,Hard,,4,
+2003-D061,Davis Cup G2 PO: URU vs COL,Clay,,4,
+2003-D062,Davis Cup G2 PO: POL vs MON,Clay,,4,
+2003-D063,Davis Cup G2 PO: TUN vs GHA,Clay,,4,
+2003-D064,Davis Cup G2 PO: UKR vs CIV,Clay,,4,
+2003-D065,Davis Cup G2 PO: AND vs EGY,Carpet,,4,
+2003-D066,Davis Cup G1 PO: JPN vs PAK,Carpet,,4,
+2003-D067,Davis Cup G1 PO: INA vs KOR,Hard,,4,
+2003-D068,Davis Cup G1 PO: PAK vs KOR,Grass,,4,
+2003-D069,Davis Cup G1 PO: VEN vs CHI,Hard,,4,
+2003-D070,Davis Cup G1 PO: VEN vs BAH,Hard,,4,
+2003-D071,Davis Cup G1 PO: NOR vs FIN,Clay,,4,
+2003-D072,Davis Cup G1 PO: ISR vs ZIM,Hard,,4,
+2003-D073,Davis Cup G1 PO: NOR vs LUX,Clay,,4,
+2003-D074,Davis Cup G1 PO: ZIM vs ITA,Hard,,4,
+2003-D075,Davis Cup G2 PO: TJK vs IRI,Clay,,4,
+2003-D076,Davis Cup G2 PO: PHI vs KAZ,Clay,,4,
+2003-D077,Davis Cup WG PO: AUT vs BEL,Clay,,4,
+2003-D078,Davis Cup WG PO: CAN vs BRA,Carpet,,4,
+2003-D079,Davis Cup WG PO: THA vs CZE,Hard,,4,
+2003-D080,Davis Cup WG PO: GER vs BLR,Clay,,4,
+2003-D081,Davis Cup WG PO: MAR vs GBR,Clay,,4,
+2003-D082,Davis Cup WG PO: NED vs IND,Hard,,4,
+2003-D083,Davis Cup WG PO: ECU vs ROU,Clay,,4,
+2003-D084,Davis Cup WG PO: SVK vs USA,Clay,,4,
+2004-360,Casablanca,Clay,Outdoor,32,International
+2004-505,Vina del Mar,Clay,Outdoor,32,International
+2004-506,Buenos Aires,Clay,Outdoor,32,International
+2004-500,Halle,Grass,Outdoor,32,International
+2004-468,Estoril,Clay,,32,
+2004-325,Palermo,Clay,Outdoor,32,International
+2004-328,Basel,Carpet,Indoor,32,International
+2004-329,Tokyo,Hard,Outdoor,48,International Gold
+2004-429,Stockholm,Hard,Indoor,32,International
+2004-425,Barcelona,Clay,Outdoor,56,International Gold
+2004-424,San Jose,Hard,Indoor,32,International
+2004-423,Los Angeles,Hard,Outdoor,32,International
+2004-422,Cincinnati Masters,Hard,,64,
+2004-421,Canada Masters,Hard,,64,
+2004-499,Delray Beach,Hard,Outdoor,32,International
+2004-496,Marseille,Hard,Indoor,32,International
+2004-495,Dubai,Hard,,32,
+2004-773,Bucharest,Clay,Outdoor,32,International
+2004-375,Lyon,Carpet,Indoor,32,International
+2004-451,Doha,Hard,Outdoor,32,International
+2004-1720,Bangkok,Hard,Indoor,32,International
+2004-337,Vienna,Hard,Indoor,32,International Gold
+2004-339,Adelaide,Hard,Outdoor,32,International
+2004-338,Sydney,Hard,Outdoor,32,International
+2004-410,Monte Carlo Masters,Clay,Outdoor,64,Masters
+2004-416,Rome Masters,Clay,,64,
+2004-414,Hamburg Masters,Clay,,64,
+2004-418,Washington,Hard,Outdoor,32,International
+2004-419,Indianapolis,Hard,Outdoor,48,International
+2004-560,US Open,Hard,Outdoor,128,Grand Slam
+2004-341,Metz,Hard,Indoor,32,International
+2004-568,St. Petersburg,Carpet,Indoor,32,International
+2004-96,Athens Olympics,Hard,,64,
+2004-807,Acapulco,Clay,Outdoor,32,International Gold
+2004-741,Nottingham,Grass,Outdoor,32,International
+2004-747,Beijing,Hard,Outdoor,32,International
+2004-1536,Madrid Masters,Hard,Indoor,48,Masters
+2004-520,Roland Garros,Clay,,128,
+2004-441,Long Island,Hard,Outdoor,32,International
+2004-440,'s-Hertogenbosch,Grass,Outdoor,32,International
+2004-308,Munich,Clay,Outdoor,32,International
+2004-717,Houston,Clay,Outdoor,32,International
+2004-301,Auckland,Hard,Outdoor,32,International
+2004-306,St. Poelten,Clay,,32,
+2004-580,Australian Open,Hard,Outdoor,128,Grand Slam
+2004-404,Indian Wells Masters,Hard,,96,
+2004-407,Rotterdam,Hard,Indoor,32,International Gold
+2004-403,Miami Masters,Hard,,96,
+2004-402,Memphis,Hard,Indoor,32,International Gold
+2004-408,Milan,Carpet,Indoor,32,International
+2004-573,Valencia,Clay,,32,
+2004-475,Sopot,Clay,Outdoor,32,International
+2004-321,Stuttgart,Clay,Outdoor,48,International Gold
+2004-352,Paris Masters,Carpet,,48,
+2004-438,Moscow,Carpet,Indoor,32,International
+2004-439,Umag,Clay,Outdoor,32,International
+2004-533,Costa Do Sauipe,Clay,Outdoor,32,International
+2004-433,Scottsdale,Hard,,32,
+2004-540,Wimbledon,Grass,Outdoor,128,Grand Slam
+2004-890,Shanghai,Hard,,32,
+2004-891,Chennai,Hard,Outdoor,32,International
+2004-319,Kitzbuhel,Clay,Outdoor,48,International Gold
+2004-315,Newport,Grass,Outdoor,32,International
+2004-314,Gstaad,Clay,Outdoor,32,International
+2004-317,Amersfoort,Clay,Outdoor,32,International
+2004-316,Bastad,Clay,Outdoor,32,International
+2004-311,Queen's Club,Grass,,56,
+2004-615,Dusseldorf,Clay,,64,
+2004-605,Masters Cup,Hard,Outdoor,8,Masters Cup
+2004-D001,Davis Cup WG R1: AUS vs SWE,Hard,,4,
+2004-D002,Davis Cup WG R1: USA vs AUT,Hard,,4,
+2004-D003,Davis Cup WG R1: BLR vs RUS,Carpet,,4,
+2004-D004,Davis Cup WG R1: MAR vs ARG,Hard,,4,
+2004-D005,Davis Cup WG R1: ROU vs SUI,Clay,,4,
+2004-D006,Davis Cup WG R1: FRA vs CRO,Clay,,4,
+2004-D007,Davis Cup WG R1: NED vs CAN,Clay,,4,
+2004-D008,Davis Cup WG R1: CZE vs ESP,Carpet,,4,
+2004-D009,Davis Cup WG QF: USA vs SWE,Hard,,4,
+2004-D010,Davis Cup WG QF: BLR vs ARG,Carpet,,4,
+2004-D011,Davis Cup WG QF: SUI vs FRA,Hard,,4,
+2004-D012,Davis Cup WG QF: ESP vs NED,Clay,,4,
+2004-D013,Davis Cup WG SF: USA vs BLR,Hard,,4,
+2004-D014,Davis Cup WG SF: ESP vs FRA,Clay,,4,
+2004-D015,Davis Cup WG F: ESP vs USA,Clay,,4,
+2004-D016,Davis Cup G1 R1: LUX vs FIN,Hard,,4,
+2004-D017,Davis Cup G1 R1: ZIM vs GRE,Hard,,4,
+2004-D018,Davis Cup G1 R2: GER vs ISR,Hard,,4,
+2004-D019,Davis Cup G1 R2: LUX vs GBR,Hard,,4,
+2004-D020,Davis Cup G1 R2: BEL vs ZIM,Clay,,4,
+2004-D021,Davis Cup G1 R2: RSA vs SVK,Grass,,4,
+2004-D022,Davis Cup G1 PO: ISR vs FIN,Hard,,4,
+2004-D023,Davis Cup G1 PO: RSA vs GRE,Hard,,4,
+2004-D024,Davis Cup G1 R1: VEN vs PAR,Hard,,4,
+2004-D025,Davis Cup G1 R1: PER vs CHI,Clay,,4,
+2004-D026,Davis Cup G1 R2: BRA vs PAR,Clay,,4,
+2004-D027,Davis Cup G1 R2: CHI vs ECU,Clay,,4,
+2004-D028,Davis Cup G1 PO: VEN vs BRA,Hard,,4,
+2004-D029,Davis Cup G1 PO: ECU vs PER,Hard,,4,
+2004-D030,Davis Cup G1 PO: BRA vs PER,Clay,,4,
+2004-D031,Davis Cup G1 R1: THA vs PAK,Hard,,4,
+2004-D032,Davis Cup G1 R1: TPE vs UZB,Hard,,4,
+2004-D033,Davis Cup G1 R1: INA vs JPN,Hard,,4,
+2004-D034,Davis Cup G1 R1: NZL vs IND,Carpet,,4,
+2004-D035,Davis Cup G1 R2: THA vs UZB,Hard,,4,
+2004-D036,Davis Cup G1 R2: JPN vs IND,Hard,,4,
+2004-D037,Davis Cup G1 PO: TPE vs PAK,Hard,,4,
+2004-D038,Davis Cup G1 PO: INA vs NZL,Hard,,4,
+2004-D039,Davis Cup G1 PO: PAK vs NZL,Clay,,4,
+2004-D040,Davis Cup G2 R1: ITA vs GEO,Clay,,4,
+2004-D041,Davis Cup G2 R1: BUL vs EGY,Carpet,,4,
+2004-D043,Davis Cup G2 R1: SLO vs POL,Clay,,4,
+2004-D044,Davis Cup G2 R1: TUN vs POR,Hard,,4,
+2004-D045,Davis Cup G2 R1: SCG vs LAT,Carpet,,4,
+2004-D046,Davis Cup G2 R1: IRL vs HUN,Carpet,,4,
+2004-D047,Davis Cup G2 R1: NOR vs UKR,Hard,,4,
+2004-D048,Davis Cup G2 R2: ITA vs BUL,Clay,,4,
+2004-D049,Davis Cup G2 R2: POL vs ALG,Clay,,4,
+2004-D050,Davis Cup G2 R2: POR vs SCG,Clay,,4,
+2004-D051,Davis Cup G2 R2: HUN vs NOR,Clay,,4,
+2004-D052,Davis Cup G2 F: ITA vs POL,Clay,,4,
+2004-D053,Davis Cup G2 F: HUN vs SCG,Clay,,4,
+2004-D054,Davis Cup G2 R1: PUR vs BAH,Hard,,4,
+2004-D055,Davis Cup G2 R1: JAM vs MEX,Hard,,4,
+2004-D056,Davis Cup G2 R1: HAI vs URU,Clay,,4,
+2004-D057,Davis Cup G2 R1: CUB vs DOM,Hard,,4,
+2004-D058,Davis Cup G2 R2: MEX vs BAH,Clay,,4,
+2004-D059,Davis Cup G2 R2: DOM vs URU,Hard,,4,
+2004-D060,Davis Cup G2 F: MEX vs DOM,Clay,,4,
+2004-D061,Davis Cup G2 R1: MAS vs KOR,Hard,,4,
+2004-D062,Davis Cup G2 R1: LIB vs IRI,Carpet,,4,
+2004-D063,Davis Cup G2 R1: PHI vs CHN,Clay,,4,
+2004-D064,Davis Cup G2 R1: HKG vs KUW,Hard,,4,
+2004-D065,Davis Cup G2 R2: KOR vs LIB,Hard,,4,
+2004-D066,Davis Cup G2 R2: CHN vs KUW,Hard,,4,
+2004-D067,Davis Cup G2 F: CHN vs KOR,Hard,,4,
+2004-D068,Davis Cup G2 PO: GEO vs EGY,Clay,,4,
+2004-D070,Davis Cup G2 PO: LAT vs TUN,Clay,,4,
+2004-D071,Davis Cup G2 PO: UKR vs IRL,Hard,,4,
+2004-D072,Davis Cup G2 PO: PUR vs JAM,Hard,,4,
+2004-D073,Davis Cup G2 PO: CUB vs HAI,Hard,,4,
+2004-D074,Davis Cup G2 PO: IRI vs MAS,Clay,,4,
+2004-D075,Davis Cup G2 PO: PHI vs HKG,Clay,,4,
+2004-D076,Davis Cup WG PO: AUS vs MAR,Grass,,4,
+2004-D077,Davis Cup WG PO: CHI vs JPN,Clay,,4,
+2004-D078,Davis Cup WG PO: CRO vs BEL,Carpet,,4,
+2004-D079,Davis Cup WG PO: PAR vs CZE,Clay,,4,
+2004-D080,Davis Cup WG PO: SVK vs GER,Hard,,4,
+2004-D081,Davis Cup WG PO: AUT vs GBR,Clay,,4,
+2004-D082,Davis Cup WG PO: ROU vs CAN,Clay,,4,
+2004-D083,Davis Cup WG PO: RUS vs THA,Clay,,4,
+2005-891,Chennai,Hard,Outdoor,32,International
+2005-890,Ho Chi Minh City,Carpet,,32,
+2005-416,Rome Masters,Clay,,64,
+2005-414,Hamburg Masters,Clay,,64,
+2005-419,Indianapolis,Hard,Outdoor,48,International
+2005-807,Acapulco,Clay,Outdoor,32,International Gold
+2005-410,Monte Carlo Masters,Clay,Outdoor,64,Masters
+2005-418,Washington,Hard,Outdoor,48,International Gold
+2005-360,Casablanca,Clay,Outdoor,32,International
+2005-451,Doha,Hard,Outdoor,32,International
+2005-1536,Madrid Masters,Hard,Indoor,48,Masters
+2005-520,Roland Garros,Clay,,128,
+2005-580,Australian Open,Hard,Outdoor,128,Grand Slam
+2005-325,Palermo,Clay,Outdoor,32,International
+2005-321,Stuttgart,Clay,Outdoor,48,International Gold
+2005-329,Tokyo,Hard,Outdoor,48,International Gold
+2005-328,Basel,Carpet,Indoor,32,International
+2005-352,Paris Masters,Carpet,,48,
+2005-424,San Jose,Hard,Indoor,32,International
+2005-422,Cincinnati Masters,Hard,,64,
+2005-423,Los Angeles,Hard,Outdoor,32,International
+2005-421,Canada Masters,Hard,,64,
+2005-429,Stockholm,Hard,Indoor,32,International
+2005-499,Delray Beach,Hard,Outdoor,32,International
+2005-773,Bucharest,Clay,Outdoor,32,International
+2005-319,Kitzbuhel,Clay,Outdoor,48,International Gold
+2005-314,Gstaad,Clay,Outdoor,32,International
+2005-315,Newport,Grass,Outdoor,32,International
+2005-316,Bastad,Clay,Outdoor,32,International
+2005-317,Amersfoort,Clay,Outdoor,32,International
+2005-311,Queen's Club,Grass,,56,
+2005-500,Halle,Grass,Outdoor,32,International
+2005-468,Estoril,Clay,,32,
+2005-505,Vina del Mar,Clay,Outdoor,32,International
+2005-506,Buenos Aires,Clay,Outdoor,32,International
+2005-747,Beijing,Hard,Outdoor,32,International
+2005-741,Nottingham,Grass,Outdoor,32,International
+2005-496,Marseille,Hard,,32,
+2005-495,Dubai,Hard,,32,
+2005-540,Wimbledon,Grass,Outdoor,128,Grand Slam
+2005-439,Umag,Clay,Outdoor,32,International
+2005-438,Moscow,Carpet,Indoor,32,International
+2005-341,Metz,Hard,Indoor,32,International
+2005-433,Scottsdale,Hard,Outdoor,32,International
+2005-533,Costa Do Sauipe,Clay,Outdoor,32,International
+2005-308,Munich,Clay,Outdoor,32,International
+2005-306,St. Poelten,Clay,,32,
+2005-301,Auckland,Hard,Outdoor,32,International
+2005-475,Sopot,Clay,Outdoor,32,International
+2005-573,Valencia,Clay,Outdoor,32,International
+2005-402,Memphis,Hard,Indoor,32,International Gold
+2005-403,Miami Masters,Hard,,96,
+2005-404,Indian Wells Masters,Hard,,96,
+2005-407,Rotterdam,Hard,Indoor,32,International Gold
+2005-408,Milan,Carpet,Indoor,32,International
+2005-717,Houston,Clay,Outdoor,32,International
+2005-425,Barcelona,Clay,Outdoor,56,International Gold
+2005-1720,Bangkok,Hard,Indoor,32,International
+2005-375,Lyon,Carpet,Indoor,32,International
+2005-3348,New Haven,Hard,Outdoor,48,International Gold
+2005-440,'s-Hertogenbosch,Grass,Outdoor,32,International
+2005-337,Vienna,Hard,Indoor,32,International Gold
+2005-338,Sydney,Hard,Outdoor,32,International
+2005-339,Adelaide,Hard,Outdoor,32,International
+2005-568,St. Petersburg,Carpet,Indoor,32,International
+2005-560,US Open,Hard,Outdoor,128,Grand Slam
+2005-615,Dusseldorf,Clay,,32,
+2005-605,Masters Cup,Carpet,Indoor,8,Masters Cup
+2005-D001,Davis Cup WG R1: SVK vs ESP,Hard,,4,
+2005-D002,Davis Cup WG R1: SUI vs NED,Hard,,4,
+2005-D003,Davis Cup WG R1: AUS vs AUT,Grass,,4,
+2005-D004,Davis Cup WG R1: ARG vs CZE,Clay,,4,
+2005-D005,Davis Cup WG R1: RUS vs CHI,Carpet,,4,
+2005-D006,Davis Cup WG R1: FRA vs SWE,Clay,,4,
+2005-D007,Davis Cup WG R1: ROU vs BLR,Clay,,4,
+2005-D008,Davis Cup WG R1: USA vs CRO,Hard,,4,
+2005-D009,Davis Cup WG QF: SVK vs NED,Hard,,4,
+2005-D010,Davis Cup WG QF: AUS vs ARG,Grass,,4,
+2005-D011,Davis Cup WG QF: RUS vs FRA,Clay,,4,
+2005-D012,Davis Cup WG QF: CRO vs ROU,Carpet,,4,
+2005-D013,Davis Cup WG SF: SVK vs ARG,Hard,,4,
+2005-D014,Davis Cup WG SF: CRO vs RUS,Carpet,,4,
+2005-D015,Davis Cup WG F: SVK vs CRO,Hard,,4,
+2005-D016,Davis Cup WG PO: AUT vs ECU,Hard,,4,
+2005-D017,Davis Cup WG PO: CAN vs BLR,Hard,,4,
+2005-D018,Davis Cup WG PO: CHI vs PAK,Clay,,4,
+2005-D019,Davis Cup WG PO: CZE vs GER,Clay,,4,
+2005-D020,Davis Cup WG PO: ITA vs ESP,Clay,,4,
+2005-D021,Davis Cup WG PO: IND vs SWE,Grass,,4,
+2005-D022,Davis Cup WG PO: SUI vs GBR,Clay,,4,
+2005-D023,Davis Cup WG PO: BEL vs USA,Clay,,4,
+2005-D024,Davis Cup G1 R1: VEN vs PER,Hard,,4,
+2005-D025,Davis Cup G1 R1: MEX vs ECU,Hard,,4,
+2005-D026,Davis Cup G1 R2: VEN vs CAN,Clay,,4,
+2005-D027,Davis Cup G1 R2: ECU vs PAR,Clay,,4,
+2005-D028,Davis Cup G1 PO: MEX vs PAR,Hard,,4,
+2005-D029,Davis Cup G1 PO: PER vs PAR,Clay,,4,
+2005-D030,Davis Cup G1 R1: SCG vs ZIM,Clay,,4,
+2005-D031,Davis Cup G1 R1: LUX vs ITA,Hard,,4,
+2005-D032,Davis Cup G1 R2: ISR vs GBR,Hard,,4,
+2005-D033,Davis Cup G1 R2: SCG vs BEL,Clay,,4,
+2005-D034,Davis Cup G1 R2: ITA vs MAR,Clay,,4,
+2005-D035,Davis Cup G1 R2: RSA vs GER,Hard,,4,
+2005-D036,Davis Cup G1 PO: LUX vs MAR,Hard,,4,
+2005-D037,Davis Cup G1 PO: ZIM vs ISR,Hard,,4,
+2005-D038,Davis Cup G1 PO: MAR vs RSA,Clay,,4,
+2005-D039,Davis Cup G1 R1: PAK vs THA,Grass,,4,
+2005-D040,Davis Cup G1 R1: TPE vs JPN,Hard,,4,
+2005-D041,Davis Cup G1 R1: INA vs UZB,Hard,,4,
+2005-D042,Davis Cup G1 R1: IND vs CHN,Grass,,4,
+2005-D043,Davis Cup G1 R2: PAK vs TPE,Grass,,4,
+2005-D044,Davis Cup G1 R2: IND vs UZB,Grass,,4,
+2005-D045,Davis Cup G1 PO: JPN vs THA,Carpet,,4,
+2005-D046,Davis Cup G1 PO: CHN vs INA,Hard,,4,
+2005-D047,Davis Cup G1 PO: THA vs INA,Hard,,4,
+2005-D048,Davis Cup G2 R1: GHA vs FIN,Hard,,4,
+2005-D049,Davis Cup G2 R1: BUL vs GEO,Carpet,,4,
+2005-D050,Davis Cup G2 R1: HUN vs MON,Hard,,4,
+2005-D051,Davis Cup G2 R1: UKR vs NOR,Carpet,,4,
+2005-D052,Davis Cup G2 R1: EST vs POR,Carpet,,4,
+2005-D053,Davis Cup G2 R1: ALG vs POL,Clay,,4,
+2005-D054,Davis Cup G2 R1: SLO vs CIV,Hard,,4,
+2005-D055,Davis Cup G2 R1: LAT vs GRE,Carpet,,4,
+2005-D056,Davis Cup G2 R2: FIN vs BUL,Clay,,4,
+2005-D057,Davis Cup G2 R2: UKR vs HUN,Hard,,4,
+2005-D058,Davis Cup G2 R2: POR vs ALG,Clay,,4,
+2005-D059,Davis Cup G2 R2: SLO vs LAT,Clay,,4,
+2005-D060,Davis Cup G2 F: UKR vs BUL,Hard,,4,
+2005-D061,Davis Cup G2 F: POR vs SLO,Clay,,4,
+2005-D062,Davis Cup G2 PO: GHA vs GEO,Hard,,4,
+2005-D063,Davis Cup G2 PO: NOR vs MON,Clay,,4,
+2005-D064,Davis Cup G2 PO: POL vs EST,Clay,,4,
+2005-D065,Davis Cup G2 PO: GRE vs CIV,Clay,,4,
+2005-D066,Davis Cup G2 R1: COL vs BRA,Clay,,4,
+2005-D067,Davis Cup G2 R1: AHO vs BAH,Hard,,4,
+2005-D068,Davis Cup G2 R1: CUB vs URU,Hard,,4,
+2005-D069,Davis Cup G2 R1: JAM vs DOM,Hard,,4,
+2005-D070,Davis Cup G2 R2: BRA vs AHO,Clay,,4,
+2005-D071,Davis Cup G2 R2: URU vs DOM,Clay,,4,
+2005-D072,Davis Cup G2 PO: COL vs BAH,Clay,,4,
+2005-D073,Davis Cup G2 PO: JAM vs CUB,Hard,,4,
+2005-D074,Davis Cup G2 R1: NZL vs KAZ,Hard,,4,
+2005-D075,Davis Cup G2 R1: IRI vs KUW,Clay,,4,
+2005-D076,Davis Cup G2 R1: POC vs LIB,Hard,,4,
+2005-D077,Davis Cup G2 R1: PHI vs KOR,Clay,,4,
+2005-D078,Davis Cup G2 R2: NZL vs KUW,Hard,,4,
+2005-D079,Davis Cup G2 R2: KOR vs POC,Hard,,4,
+2005-D080,Davis Cup G2 F: NZL vs KOR,Hard,,4,
+2005-D081,Davis Cup G2 PO: IRI vs KAZ,Clay,,4,
+2005-D082,Davis Cup G2 PO: LIB vs PHI,Clay,,4,
+2005-D083,Davis Cup G2 F: URU vs BRA,Clay,,4,
+2006-520,Roland Garros,Clay,,128,
+2006-328,Basel,Carpet,Indoor,32,International
+2006-451,Doha,Hard,Outdoor,32,International
+2006-352,Paris Masters,Carpet,,48,
+2006-773,Bucharest,Clay,Outdoor,32,International
+2006-573,Valencia,Clay,Outdoor,32,International
+2006-468,Estoril,Clay,,32,
+2006-2276,Zagreb,Carpet,Indoor,32,International
+2006-319,Kitzbuhel,Clay,Outdoor,48,International Gold
+2006-317,Amersfoort,Clay,Outdoor,32,International
+2006-315,Newport,Grass,Outdoor,32,International
+2006-314,Gstaad,Clay,Outdoor,32,International
+2006-433,Las Vegas,Hard,Outdoor,32,International
+2006-403,Miami Masters,Hard,,96,
+2006-402,Memphis,Hard,Indoor,32,International Gold
+2006-404,Indian Wells Masters,Hard,,96,
+2006-741,Nottingham,Grass,Outdoor,32,International
+2006-316,Bastad,Clay,Outdoor,32,International
+2006-440,'s-Hertogenbosch,Grass,Outdoor,32,International
+2006-360,Casablanca,Clay,Outdoor,32,International
+2006-500,Halle,Grass,Outdoor,32,International
+2006-891,Chennai,Hard,,32,
+2006-540,Wimbledon,Grass,Outdoor,128,Grand Slam
+2006-807,Acapulco,Clay,,32,
+2006-717,Houston,Clay,Outdoor,32,International
+2006-321,Stuttgart,Clay,Outdoor,48,International Gold
+2006-325,Palermo,Clay,Outdoor,32,International
+2006-329,Tokyo,Hard,Outdoor,48,International Gold
+2006-341,Metz,Hard,Indoor,32,International
+2006-438,Moscow,Carpet,Indoor,32,International
+2006-439,Umag,Clay,Outdoor,32,International
+2006-407,Rotterdam,Hard,Indoor,32,International Gold
+2006-506,Buenos Aires,Clay,Outdoor,32,International
+2006-505,Vina del Mar,Clay,Outdoor,32,International
+2006-1720,Bangkok,Hard,Indoor,32,International
+2006-475,Sopot,Clay,Outdoor,32,International
+2006-375,Lyon,Carpet,Indoor,32,International
+2006-499,Delray Beach,Hard,Outdoor,32,International
+2006-495,Dubai,Hard,,32,
+2006-496,Marseille,Hard,Indoor,32,International
+2006-1536,Madrid Masters,Hard,Indoor,48,Masters
+2006-337,Vienna,Hard,Indoor,32,International Gold
+2006-339,Adelaide,Hard,Outdoor,32,International
+2006-338,Sydney,Hard,Outdoor,32,International
+2006-533,Costa Do Sauipe,Clay,Outdoor,32,International
+2006-429,Stockholm,Hard,Indoor,32,International
+2006-580,Australian Open,Hard,Outdoor,128,Grand Slam
+2006-421,Canada Masters,Hard,,64,
+2006-423,Los Angeles,Hard,,32,
+2006-422,Cincinnati Masters,Hard,,64,
+2006-425,Barcelona,Clay,Outdoor,56,International Gold
+2006-424,San Jose,Hard,,32,
+2006-414,Hamburg Masters,Clay,,64,
+2006-418,Washington,Hard,Outdoor,48,International Gold
+2006-419,Indianapolis,Hard,Outdoor,48,International
+2006-568,St. Petersburg,Carpet,Indoor,32,International
+2006-560,US Open,Hard,Outdoor,128,Grand Slam
+2006-3348,New Haven,Hard,,48,
+2006-3465,Mumbai,Hard,Indoor,32,International
+2006-308,Munich,Clay,Outdoor,32,International
+2006-306,Poertschach,Clay,,32,
+2006-301,Auckland,Hard,Outdoor,32,International
+2006-311,Queen's Club,Grass,,56,
+2006-410,Monte Carlo Masters,Clay,Outdoor,64,Masters
+2006-747,Beijing,Hard,Outdoor,32,International
+2006-416,Rome Masters,Clay,,64,
+2006-615,Dusseldorf,Clay,,32,
+2006-605,Masters Cup,Hard,Indoor,8,Masters Cup
+2006-D001,Davis Cup WG R1: AUT vs CRO,Clay,,4,
+2006-D002,Davis Cup WG R1: ARG vs SWE,Clay,,4,
+2006-D003,Davis Cup WG R1: BLR vs ESP,Carpet,,4,
+2006-D004,Davis Cup WG R1: SUI vs AUS,Clay,,4,
+2006-D005,Davis Cup WG R1: GER vs FRA,Hard,,4,
+2006-D006,Davis Cup WG R1: NED vs RUS,Carpet,,4,
+2006-D007,Davis Cup WG R1: USA vs ROU,Hard,,4,
+2006-D008,Davis Cup WG R1: CHI vs SVK,Clay,,4,
+2006-D009,Davis Cup WG QF: CRO vs ARG,Carpet,,4,
+2006-D010,Davis Cup WG QF: AUS vs BLR,Hard,,4,
+2006-D011,Davis Cup WG QF: FRA vs RUS,Carpet,,4,
+2006-D012,Davis Cup WG QF: USA vs CHI,Grass,,4,
+2006-D013,Davis Cup WG SF: ARG vs AUS,Clay,,4,
+2006-D014,Davis Cup WG SF: RUS vs USA,Clay,,4,
+2006-D015,Davis Cup WG F: RUS vs ARG,Carpet,,4,
+2006-D016,Davis Cup WG PO: AUT vs MEX,Clay,,4,
+2006-D017,Davis Cup WG PO: GER vs THA,Clay,,4,
+2006-D018,Davis Cup WG PO: NED vs CZE,Carpet,,4,
+2006-D019,Davis Cup WG PO: ROU vs KOR,Clay,,4,
+2006-D020,Davis Cup WG PO: SVK vs BEL,Hard,,4,
+2006-D021,Davis Cup WG PO: ESP vs ITA,Clay,,4,
+2006-D022,Davis Cup WG PO: BRA vs SWE,Clay,,4,
+2006-D023,Davis Cup WG PO: SUI vs SCG,Hard,,4,
+2006-D024,Davis Cup G1 R1: PER vs BRA,Clay,,4,
+2006-D025,Davis Cup G1 R1: VEN vs MEX,Hard,,4,
+2006-D026,Davis Cup G1 R2: ECU vs BRA,Clay,,4,
+2006-D027,Davis Cup G1 R2: MEX vs CAN,Clay,,4,
+2006-D028,Davis Cup G1 PO: PER vs ECU,Clay,,4,
+2006-D029,Davis Cup G1 PO: CAN vs VEN,Hard,,4,
+2006-D030,Davis Cup G1 PO: VEN vs ECU,Hard,,4,
+2006-D031,Davis Cup G1 R1: KOR vs IND,Hard,,4,
+2006-D032,Davis Cup G1 R1: TPE vs PAK,Hard,,4,
+2006-D033,Davis Cup G1 R1: JPN vs CHN,Carpet,,4,
+2006-D034,Davis Cup G1 R1: UZB vs THA,Hard,,4,
+2006-D035,Davis Cup G1 R2: TPE vs KOR,Hard,,4,
+2006-D036,Davis Cup G1 R2: THA vs JPN,Hard,,4,
+2006-D037,Davis Cup G1 PO: IND vs PAK,Grass,,4,
+2006-D038,Davis Cup G1 PO: UZB vs CHN,Clay,,4,
+2006-D039,Davis Cup G1 PO: CHN vs PAK,Hard,,4,
+2006-D040,Davis Cup G1 R1: LUX vs POR,Hard,,4,
+2006-D041,Davis Cup G1 R1: ISR vs SCG,Hard,,4,
+2006-D042,Davis Cup G1 R2: MAR vs CZE,Clay,,4,
+2006-D043,Davis Cup G1 R2: ITA vs LUX,Clay,,4,
+2006-D044,Davis Cup G1 R2: GBR vs SCG,Carpet,,4,
+2006-D045,Davis Cup G1 R2: UKR vs BEL,Carpet,,4,
+2006-D046,Davis Cup G1 PO: GBR vs ISR,Grass,,4,
+2006-D047,Davis Cup G1 PO: MAR vs POR,Clay,,4,
+2006-D048,Davis Cup G1 PO: UKR vs GBR,Clay,,4,
+2006-D049,Davis Cup G2 R1: BOL vs PAR,Clay,,4,
+2006-D050,Davis Cup G2 R1: COL vs URU,Clay,,4,
+2006-D051,Davis Cup G2 R1: AHO vs GUA,Hard,,4,
+2006-D052,Davis Cup G2 R1: DOM vs JAM,Clay,,4,
+2006-D053,Davis Cup G2 R2: COL vs PAR,Clay,,4,
+2006-D054,Davis Cup G2 R2: AHO vs DOM,Hard,,4,
+2006-D055,Davis Cup G2 F: DOM vs COL,Hard,,4,
+2006-D056,Davis Cup G2 PO: URU vs BOL,Clay,,4,
+2006-D057,Davis Cup G2 PO: JAM vs GUA,Hard,,4,
+2006-D058,Davis Cup G2 R1: NZL vs LIB,Hard,,4,
+2006-D059,Davis Cup G2 R1: KUW vs KAZ,Hard,,4,
+2006-D060,Davis Cup G2 R1: HKG vs POC,Hard,,4,
+2006-D061,Davis Cup G2 R1: INA vs MAS,Hard,,4,
+2006-D062,Davis Cup G2 R2: KAZ vs NZL,Hard,,4,
+2006-D063,Davis Cup G2 R2: INA vs HKG,Hard,,4,
+2006-D064,Davis Cup G2 F: KAZ vs INA,Hard,,4,
+2006-D065,Davis Cup G2 PO: LIB vs KUW,Clay,,4,
+2006-D066,Davis Cup G2 PO: POC vs MAS,Hard,,4,
+2006-D067,Davis Cup G2 R1: ZIM vs NOR,Hard,,4,
+2006-D068,Davis Cup G2 R1: GRE vs MKD,Clay,,4,
+2006-D069,Davis Cup G2 R1: FIN vs IRL,Hard,,4,
+2006-D070,Davis Cup G2 R1: ALG vs SLO,Clay,,4,
+2006-D071,Davis Cup G2 R1: HUN vs EGY,Hard,,4,
+2006-D072,Davis Cup G2 R1: BUL vs CYP,Clay,,4,
+2006-D073,Davis Cup G2 R1: POL vs LAT,Carpet,,4,
+2006-D074,Davis Cup G2 R1: GEO vs RSA,Carpet,,4,
+2006-D075,Davis Cup G2 R2: NOR vs MKD,Clay,,4,
+2006-D076,Davis Cup G2 R2: FIN vs ALG,Clay,,4,
+2006-D077,Davis Cup G2 R2: BUL vs HUN,Clay,,4,
+2006-D078,Davis Cup G2 R2: POL vs GEO,Clay,,4,
+2006-D079,Davis Cup G2 F: MKD vs FIN,Clay,,4,
+2006-D080,Davis Cup G2 F: HUN vs GEO,Clay,,4,
+2006-D081,Davis Cup G2 PO: GRE vs ZIM,Clay,,4,
+2006-D082,Davis Cup G2 PO: IRL vs SLO,Grass,,4,
+2006-D083,Davis Cup G2 PO: EGY vs CYP,Clay,,4,
+2006-D084,Davis Cup G2 PO: LAT vs RSA,Clay,,4,
+2007-500,Halle,Grass,Outdoor,32,International
+2007-568,St. Petersburg,Carpet,Indoor,32,International
+2007-440,'s-Hertogenbosch,Grass,Outdoor,32,International
+2007-560,US Open,Hard,Outdoor,128,Grand Slam
+2007-741,Nottingham,Grass,Outdoor,32,International
+2007-360,Casablanca,Clay,Outdoor,32,International
+2007-317,Amersfoort,Clay,Outdoor,32,International
+2007-301,Auckland,Hard,,32,
+2007-520,Roland Garros,Clay,,128,
+2007-316,Bastad,Clay,Outdoor,32,International
+2007-314,Gstaad,Clay,Outdoor,32,International
+2007-315,Newport,Grass,Outdoor,32,International
+2007-311,Queen's Club,Grass,,56,
+2007-319,Kitzbuhel,Clay,Outdoor,48,International Gold
+2007-1536,Madrid Masters,Hard,Indoor,48,Masters
+2007-419,Indianapolis,Hard,Outdoor,32,International
+2007-418,Washington,Hard,Outdoor,48,International Gold
+2007-410,Monte Carlo Masters,Clay,Outdoor,56,Masters
+2007-414,Hamburg Masters,Clay,,56,
+2007-416,Rome Masters,Clay,,56,
+2007-891,Chennai,Hard,Outdoor,32,International
+2007-3465,Mumbai,Hard,Indoor,32,International
+2007-3348,New Haven,Hard,Outdoor,48,International Gold
+2007-451,Doha,Hard,Outdoor,32,International
+2007-773,Bucharest,Clay,Outdoor,32,International
+2007-352,Paris Masters,Hard,,48,
+2007-421,Canada Masters,Hard,,56,
+2007-422,Cincinnati Masters,Hard,,56,
+2007-423,Los Angeles,Hard,Outdoor,32,International
+2007-424,San Jose,Hard,Indoor,32,International
+2007-425,Barcelona,Clay,Outdoor,56,International Gold
+2007-429,Stockholm,Hard,Indoor,32,International
+2007-747,Beijing,Hard,Outdoor,32,International
+2007-495,Dubai,Hard,,32,
+2007-468,Estoril,Clay,,32,
+2007-540,Wimbledon,Grass,Outdoor,128,Grand Slam
+2007-308,Munich,Clay,Outdoor,32,International
+2007-306,Poertschach,Clay,,32,
+2007-2276,Zagreb,Carpet,Indoor,32,International
+2007-402,Memphis,Hard,Indoor,32,International Gold
+2007-337,Vienna,Hard,Indoor,32,International Gold
+2007-341,Metz,Hard,Indoor,32,International
+2007-439,Umag,Clay,Outdoor,32,International
+2007-438,Moscow,Hard,Indoor,32,International
+2007-807,Acapulco,Clay,Outdoor,32,International Gold
+2007-475,Sopot,Clay,Outdoor,32,International
+2007-338,Sydney,Hard,Outdoor,32,International
+2007-573,Valencia,Clay,,32,
+2007-375,Lyon,Carpet,Indoor,32,International
+2007-533,Costa Do Sauipe,Clay,Outdoor,32,International
+2007-580,Australian Open,Hard,Outdoor,128,Grand Slam
+2007-321,Stuttgart,Clay,Outdoor,32,International
+2007-496,Marseille,Hard,Indoor,32,International
+2007-329,Tokyo,Hard,Outdoor,48,International Gold
+2007-328,Basel,Hard,Indoor,32,International
+2007-407,Rotterdam,Hard,Indoor,32,International Gold
+2007-404,Indian Wells Masters,Hard,,96,
+2007-403,Miami Masters,Hard,,96,
+2007-717,Houston,Clay,Outdoor,32,International
+2007-1720,Bangkok,Hard,Indoor,32,International
+2007-339,Adelaide,Hard,Outdoor,32,International
+2007-433,Las Vegas,Hard,Outdoor,32,International
+2007-499,Delray Beach,Hard,,32,
+2007-506,Buenos Aires,Clay,,32,
+2007-615,Dusseldorf,Clay,,32,
+2007-605,Masters Cup,Hard,Indoor,8,Masters Cup
+2007-D001,Davis Cup WG R1: CHI vs RUS,Clay,,4,
+2007-D002,Davis Cup WG R1: FRA vs ROU,Hard,,4,
+2007-D003,Davis Cup WG R1: GER vs CRO,Hard,,4,
+2007-D004,Davis Cup WG R1: BEL vs AUS,Clay,,4,
+2007-D005,Davis Cup WG R1: CZE vs USA,Clay,,4,
+2007-D006,Davis Cup WG R1: SUI vs ESP,Carpet,,4,
+2007-D007,Davis Cup WG R1: BLR vs SWE,Hard,,4,
+2007-D008,Davis Cup WG R1: AUT vs ARG,Carpet,,4,
+2007-D009,Davis Cup WG PO: SRB vs AUS,Clay,,4,
+2007-D010,Davis Cup WG PO: AUT vs BRA,Carpet,,4,
+2007-D011,Davis Cup WG PO: PER vs BLR,Clay,,4,
+2007-D012,Davis Cup WG PO: ISR vs CHI,Hard,,4,
+2007-D013,Davis Cup WG PO: GBR vs CRO,Grass,,4,
+2007-D014,Davis Cup WG PO: CZE vs SUI,Carpet,,4,
+2007-D015,Davis Cup WG PO: JPN vs ROU,Carpet,,4,
+2007-D016,Davis Cup WG PO: SVK vs KOR,Clay,,4,
+2007-D017,Davis Cup WG QF: RUS vs FRA,Clay,,4,
+2007-D018,Davis Cup WG QF: BEL vs GER,Clay,,4,
+2007-D019,Davis Cup WG QF: USA vs ESP,Hard,,4,
+2007-D020,Davis Cup WG QF: SWE vs ARG,Carpet,,4,
+2007-D021,Davis Cup WG SF: RUS vs GER,Clay,,4,
+2007-D022,Davis Cup WG SF: SWE vs USA,Carpet,,4,
+2007-D023,Davis Cup WG F: USA vs RUS,Hard,,4,
+2007-D024,Davis Cup G1 R1: PER vs VEN,Clay,,4,
+2007-D025,Davis Cup G1 R1: CAN vs COL,Carpet,,4,
+2007-D026,Davis Cup G1 R2: PER vs MEX,Clay,,4,
+2007-D027,Davis Cup G1 R2: BRA vs CAN,Clay,,4,
+2007-D028,Davis Cup G1 PO: MEX vs VEN,Hard,,4,
+2007-D029,Davis Cup G1 PO: VEN vs COL,Hard,,4,
+2007-D030,Davis Cup G1 R1: TPE vs THA,Carpet,,4,
+2007-D031,Davis Cup G1 R1: CHN vs JPN,Hard,,4,
+2007-D032,Davis Cup G1 R1: UZB vs IND,Clay,,4,
+2007-D033,Davis Cup G1 R1: KOR vs KAZ,Carpet,,4,
+2007-D034,Davis Cup G1 R2: JPN vs THA,Carpet,,4,
+2007-D035,Davis Cup G1 R2: KOR vs UZB,Hard,,4,
+2007-D036,Davis Cup G1 PO: TPE vs CHN,Carpet,,4,
+2007-D037,Davis Cup G1 PO: KAZ vs IND,Hard,,4,
+2007-D038,Davis Cup G1 PO: KAZ vs CHN,Hard,,4,
+2007-D039,Davis Cup G1 R1: ISR vs LUX,Hard,,4,
+2007-D040,Davis Cup G1 R1: GEO vs POR,Carpet,,4,
+2007-D041,Davis Cup G1 R2: MKD vs SVK,Clay,,4,
+2007-D042,Davis Cup G1 R2: ISR vs ITA,Hard,,4,
+2007-D043,Davis Cup G1 R2: SRB vs GEO,Clay,,4,
+2007-D044,Davis Cup G1 R2: GBR vs NED,Hard,,4,
+2007-D045,Davis Cup G1 PO: ITA vs LUX,Hard,,4,
+2007-D046,Davis Cup G1 PO: MKD vs LUX,Hard,,4,
+2007-D047,Davis Cup G1 PO: NED vs POR,Hard,,4,
+2007-D048,Davis Cup G2 R1: ECU vs AHO,Clay,,4,
+2007-D049,Davis Cup G2 R1: URU vs JAM,Clay,,4,
+2007-D050,Davis Cup G2 R1: DOM vs ESA,Hard,,4,
+2007-D051,Davis Cup G2 R1: PAR vs CUB,Clay,,4,
+2007-D052,Davis Cup G2 R2: URU vs ECU,Clay,,4,
+2007-D053,Davis Cup G2 R2: PAR vs DOM,Clay,,4,
+2007-D054,Davis Cup G2 F: PAR vs URU,Clay,,4,
+2007-D055,Davis Cup G2 PO: JAM vs AHO,Hard,,4,
+2007-D056,Davis Cup G2 PO: ESA vs CUB,Clay,,4,
+2007-D057,Davis Cup G2 R1: PHI vs PAK,Hard,,4,
+2007-D058,Davis Cup G2 R1: NZL vs POC,Carpet,,4,
+2007-D059,Davis Cup G2 R1: KUW vs IRI,Hard,,4,
+2007-D060,Davis Cup G2 R1: HKG vs INA,Hard,,4,
+2007-D061,Davis Cup G2 R2: NZL vs PHI,Carpet,,4,
+2007-D062,Davis Cup G2 R2: KUW vs INA,Hard,,4,
+2007-D063,Davis Cup G2 F: KUW vs PHI,Hard,,4,
+2007-D064,Davis Cup G2 PO: POC vs PAK,Hard,,4,
+2007-D065,Davis Cup G2 PO: IRI vs HKG,Clay,,4,
+2007-D066,Davis Cup G2 R1: MAR vs DEN,Clay,,4,
+2007-D067,Davis Cup G2 R1: EST vs SLO,Carpet,,4,
+2007-D068,Davis Cup G2 R1: GRE vs UKR,Clay,,4,
+2007-D069,Davis Cup G2 R1: NGR vs POL,Hard,,4,
+2007-D070,Davis Cup G2 R1: LAT vs BUL,Carpet,,4,
+2007-D071,Davis Cup G2 R1: CYP vs FIN,Clay,,4,
+2007-D072,Davis Cup G2 R1: ALG vs MON,Clay,,4,
+2007-D073,Davis Cup G2 R1: NOR vs HUN,Hard,,4,
+2007-D074,Davis Cup G2 R2: SLO vs MAR,Hard,,4,
+2007-D075,Davis Cup G2 R2: GRE vs POL,Clay,,4,
+2007-D076,Davis Cup G2 R2: FIN vs LAT,Clay,,4,
+2007-D077,Davis Cup G2 R2: HUN vs MON,Clay,,4,
+2007-D078,Davis Cup G2 F: POL vs MAR,Carpet,,4,
+2007-D079,Davis Cup G2 F: LAT vs MON,Carpet,,4,
+2007-D080,Davis Cup G2 PO: DEN vs EST,Hard,,4,
+2007-D081,Davis Cup G2 PO: NGR vs UKR,Hard,,4,
+2007-D082,Davis Cup G2 PO: CYP vs BUL,Clay,,4,
+2007-D083,Davis Cup G2 PO: NOR vs ALG,Hard,,4,
+2008-338,Sydney,Hard,Outdoor,32,International
+2008-337,Vienna,Hard,Indoor,32,International Gold
+2008-339,Adelaide,Hard,Outdoor,32,International
+2008-440,s-Hertogenbosch,Grass,,32,
+2008-439,Umag,Clay,Outdoor,28,International
+2008-533,Costa Do Sauipe,Clay,Outdoor,32,International
+2008-433,Las Vegas,Hard,Outdoor,32,International
+2008-891,Chennai,Hard,Outdoor,32,International
+2008-96,Beijing Olympics,Hard,,64,
+2008-807,Acapulco,Clay,Outdoor,32,International Gold
+2008-375,Lyon,Carpet,Indoor,32,International
+2008-573,Valencia,Clay,,32,
+2008-773,Bucharest,Clay,Outdoor,32,International
+2008-500,Halle,Grass,Outdoor,32,International
+2008-505,Vina del Mar,Clay,Outdoor,32,International
+2008-506,Buenos Aires,Clay,Outdoor,32,International
+2008-308,Munich,Clay,Outdoor,32,International
+2008-306,Poertschach,Clay,,32,
+2008-301,Auckland,Hard,Outdoor,32,International
+2008-1536,Madrid Masters,Hard,Indoor,48,Masters
+2008-429,Stockholm,Hard,Indoor,32,International
+2008-540,Wimbledon,Grass,Outdoor,128,Grand Slam
+2008-423,Los Angeles,Hard,Outdoor,28,International
+2008-422,Cincinnati Masters,Hard,,56,
+2008-421,Canada Masters,Hard,,56,
+2008-425,Barcelona,Clay,Outdoor,56,International Gold
+2008-424,San Jose,Hard,Indoor,32,International
+2008-341,Metz,Hard,Indoor,32,International
+2008-1720,Bangkok,Hard,Indoor,28,International
+2008-311,Queen's Club,Grass,,56,
+2008-315,Newport,Grass,Outdoor,28,International
+2008-314,Gstaad,Clay,Outdoor,28,International
+2008-317,Amersfoort,Clay,Outdoor,28,International
+2008-316,Bastad,Clay,Outdoor,28,International
+2008-319,Kitzbuhel,Clay,Outdoor,32,International Gold
+2008-520,Roland Garros,Clay,,128,
+2008-418,Washington,Hard,Outdoor,32,International Gold
+2008-416,Rome Masters,Clay,,56,
+2008-414,Hamburg Masters,Clay,,56,
+2008-410,Monte Carlo Masters,Clay,,56,
+2008-580,Australian Open,Hard,Outdoor,128,Grand Slam
+2008-419,Indianapolis,Hard,Outdoor,32,International
+2008-747,Beijing,Hard,Outdoor,28,International
+2008-468,Estoril,Clay,,32,
+2008-328,Basel,Hard,Indoor,32,International
+2008-329,Tokyo,Hard,Outdoor,48,International Gold
+2008-321,Stuttgart,Clay,Outdoor,28,International
+2008-451,Doha,Hard,Outdoor,32,International
+2008-352,Paris Masters,Hard,,48,
+2008-741,Nottingham,Grass,Outdoor,32,International
+2008-2276,Zagreb,Hard,Indoor,32,International
+2008-496,Marseille,Hard,Indoor,32,International
+2008-495,Dubai,Hard,,32,
+2008-360,Casablanca,Clay,Outdoor,32,International
+2008-717,Houston,Clay,Outdoor,32,International
+2008-499,Delray Beach,Hard,Outdoor,32,International
+2008-568,St. Petersburg,Hard,Indoor,32,International
+2008-560,US Open,Hard,Outdoor,128,Grand Slam
+2008-403,Miami Masters,Hard,,96,
+2008-402,Memphis,Hard,Indoor,32,International Gold
+2008-404,Indian Wells Masters,Hard,,96,
+2008-407,Rotterdam,Hard,Indoor,32,International Gold
+2008-3348,New Haven,Hard,Outdoor,48,International Gold
+2008-475,Warsaw,Clay,Outdoor,32,International
+2008-615,Dusseldorf,Clay,,32,
+2008-605,Masters Cup,Hard,Indoor,8,Masters Cup
+2008-438,Moscow,Hard,Indoor,32,International
+2008-D001,Davis Cup G1 R1: TPE vs AUS,Hard,,4,
+2008-D002,Davis Cup G1 R1: KAZ vs THA,Hard,,4,
+2008-D003,Davis Cup G1 R1: IND vs UZB,Grass,,4,
+2008-D004,Davis Cup G1 R1: PHI vs JPN,Hard,,4,
+2008-D005,Davis Cup G1 R1: CAN vs MEX,Carpet,,4,
+2008-D006,Davis Cup G1 R1: URU vs COL,Clay,,4,
+2008-D007,Davis Cup G1 R1: MKD vs LAT,Clay,,4,
+2008-D008,Davis Cup G1 R1: SUI vs POL,Hard,,4,
+2008-D009,Davis Cup G2 R1: CHN vs LIB,Hard,,4,
+2008-D010,Davis Cup G2 R1: INA vs HKG,Hard,,4,
+2008-D011,Davis Cup G2 R1: OMA vs NZL,Hard,,4,
+2008-D012,Davis Cup G2 R1: KUW vs POC,Hard,,4,
+2008-D013,Davis Cup G2 R1: AHO vs ECU,Hard,,4,
+2008-D014,Davis Cup G2 R1: BOL vs DOM,Clay,,4,
+2008-D015,Davis Cup G2 R1: BAH vs VEN,Hard,,4,
+2008-D016,Davis Cup G2 R1: PAR vs ESA,Clay,,4,
+2008-D017,Davis Cup G2 R1: LUX vs DEN,Hard,,4,
+2008-D018,Davis Cup G2 R1: FIN vs RSA,Hard,,4,
+2008-D019,Davis Cup G2 R1: ALG vs HUN,Clay,,4,
+2008-D020,Davis Cup G2 R1: MON vs GRE,Clay,,4,
+2008-D021,Davis Cup G2 R1: UKR vs EGY,Hard,,4,
+2008-D022,Davis Cup G2 R1: IRL vs MAR,Carpet,,4,
+2008-D023,Davis Cup G2 R1: CYP vs SLO,Hard,,4,
+2008-D024,Davis Cup G2 R1: POR vs TUN,Clay,,4,
+2008-D025,Davis Cup WG R1: RUS vs SRB,Hard,,4,
+2008-D026,Davis Cup WG R1: CZE vs BEL,Carpet,,4,
+2008-D027,Davis Cup WG R1: ARG vs GBR,Clay,,4,
+2008-D028,Davis Cup WG R1: ISR vs SWE,Hard,,4,
+2008-D029,Davis Cup WG R1: GER vs KOR,Clay,,4,
+2008-D030,Davis Cup WG R1: PER vs ESP,Clay,,4,
+2008-D031,Davis Cup WG R1: ROU vs FRA,Hard,,4,
+2008-D032,Davis Cup WG R1: AUT vs USA,Clay,,4,
+2008-D033,Davis Cup G1 R2: CRO vs ITA,Hard,,4,
+2008-D034,Davis Cup G1 R2: MKD vs NED,Clay,,4,
+2008-D035,Davis Cup G1 R2: BLR vs SUI,Carpet,,4,
+2008-D036,Davis Cup G1 R2: SVK vs GEO,Clay,,4,
+2008-D037,Davis Cup WG QF: RUS vs CZE,Clay,,4,
+2008-D038,Davis Cup WG QF: ARG vs SWE,Clay,,4,
+2008-D039,Davis Cup WG QF: GER vs ESP,Hard,,4,
+2008-D040,Davis Cup WG QF: USA vs FRA,Hard,,4,
+2008-D041,Davis Cup WG SF: ARG vs RUS,Clay,,4,
+2008-D042,Davis Cup WG SF: ESP vs USA,Clay,,4,
+2008-D043,Davis Cup WG F: ARG vs ESP,Hard,,4,
+2008-D044,Davis Cup G1 R2: CHI vs CAN,Clay,,4,
+2008-D045,Davis Cup G1 R2: BRA vs COL,Clay,,4,
+2008-D046,Davis Cup G1 PO: MEX vs URU,Carpet,,4,
+2008-D047,Davis Cup G1 R2: AUS vs THA,Hard,,4,
+2008-D048,Davis Cup G1 R2: IND vs JPN,Grass,,4,
+2008-D049,Davis Cup G1 PO: BLR vs POL,Hard,,4,
+2008-D050,Davis Cup G1 PO: ITA vs LAT,Clay,,4,
+2008-D051,Davis Cup G1 PO: BLR vs GEO,Hard,,4,
+2008-D052,Davis Cup G2 R2: ECU vs DOM,Clay,,4,
+2008-D053,Davis Cup G2 R2: BAH vs PAR,Hard,,4,
+2008-D054,Davis Cup G2 F: PAR vs ECU,Hard,,4,
+2008-D055,Davis Cup G2 R2: INA vs CHN,Hard,,4,
+2008-D056,Davis Cup G2 R2: KUW vs NZL,Hard,,4,
+2008-D057,Davis Cup G2 F: NZL vs CHN,Hard,,4,
+2008-D058,Davis Cup G2 R2: RSA vs DEN,Hard,,4,
+2008-D059,Davis Cup G2 R2: MON vs ALG,Clay,,4,
+2008-D060,Davis Cup G2 R2: IRL vs UKR,Grass,,4,
+2008-D061,Davis Cup G2 R2: POR vs CYP,Clay,,4,
+2008-D062,Davis Cup G2 F: MON vs RSA,Clay,,4,
+2008-D063,Davis Cup G2 F: UKR vs POR,Hard,,4,
+2008-D064,Davis Cup G1 PO: KAZ vs TPE,Hard,,4,
+2008-D065,Davis Cup G1 PO: PHI vs UZB,Clay,,4,
+2008-D066,Davis Cup G1 PO: KAZ vs PHI,Clay,,4,
+2008-D067,Davis Cup G2 PO: FIN vs LUX,Clay,,4,
+2008-D068,Davis Cup G2 PO: GRE vs HUN,Clay,,4,
+2008-D069,Davis Cup G2 PO: EGY vs MAR,Clay,,4,
+2008-D070,Davis Cup G2 PO: TUN vs SLO,Clay,,4,
+2008-D071,Davis Cup G2 PO: HKG vs LIB,Hard,,4,
+2008-D072,Davis Cup G2 PO: OMA vs POC,Hard,,4,
+2008-D073,Davis Cup G2 PO: AHO vs BOL,Hard,,4,
+2008-D074,Davis Cup G2 PO: VEN vs ESA,Hard,,4,
+2008-D075,Davis Cup WG PO: CHI vs AUS,Clay,,4,
+2008-D076,Davis Cup WG PO: GBR vs AUT,Grass,,4,
+2008-D077,Davis Cup WG PO: SUI vs BEL,Hard,,4,
+2008-D078,Davis Cup WG PO: CRO vs BRA,Hard,,4,
+2008-D079,Davis Cup WG PO: ISR vs PER,Hard,,4,
+2008-D080,Davis Cup WG PO: NED vs KOR,Clay,,4,
+2008-D081,Davis Cup WG PO: ROU vs IND,Clay,,4,
+2008-D082,Davis Cup WG PO: SVK vs SRB,Hard,,4,
+2009-329,Tokyo,Hard,,32,
+2009-506,Buenos Aires,Clay,Outdoor,32,ATP250
+2009-500,Halle,Grass,Outdoor,32,ATP250
+2009-807,Acapulco,Clay,Outdoor,32,ATP500
+2009-717,Houston,Clay,Outdoor,32,ATP250
+2009-891,Chennai,Hard,Outdoor,32,ATP250
+2009-301,Auckland,Hard,Outdoor,28,ATP250
+2009-308,Munich,Clay,Outdoor,32,ATP250
+2009-5012,Johannesburg,Hard,,32,
+2009-438,Moscow,Hard,Indoor,32,ATP250
+2009-328,Basel,Hard,Indoor,32,ATP500
+2009-321,Stuttgart,Clay,Outdoor,32,ATP250
+2009-3348,New Haven,Hard,Outdoor,48,ATP250
+2009-741,Eastbourne,Grass,Outdoor,32,ATP250
+2009-403,Miami Masters,Hard,,96,
+2009-747,Beijing,Hard,Outdoor,32,ATP500
+2009-410,Monte Carlo Masters,Clay,Outdoor,56,Masters 1000
+2009-439,Umag,Clay,,32,
+2009-533,Costa Do Sauipe,Clay,Outdoor,32,ATP250
+2009-505,Viña del Mar,Clay,,28,
+2009-360,Casablanca,Clay,Outdoor,32,ATP250
+2009-404,Indian Wells Masters,Hard,,96,
+2009-407,Rotterdam,Hard,Indoor,32,ATP500
+2009-402,Memphis,Hard,Indoor,32,ATP250
+2009-560,US Open,Hard,Outdoor,128,Grand Slam
+2009-568,St. Petersburg,Hard,Indoor,32,ATP250
+2009-6003,Kuala Lumpur,Hard,Indoor,28,ATP250
+2009-311,Queen's Club,Grass,,56,
+2009-314,Gstaad,Clay,,32,
+2009-315,Newport,Grass,Outdoor,32,ATP250
+2009-316,Bastad,Clay,Outdoor,28,ATP250
+2009-496,Marseille,Hard,Indoor,32,ATP250
+2009-495,Dubai,Hard,,32,
+2009-5053,Belgrade,Clay,Outdoor,28,ATP250
+2009-2276,Zagreb,Hard,Indoor,32,ATP250
+2009-1536,Madrid Masters,Clay,,56,
+2009-352,Paris Masters,Hard,,48,
+2009-451,Doha,Hard,Outdoor,32,ATP250
+2009-440,s-Hertogenbosch,Grass,,32,
+2009-499,Delray Beach,Hard,Outdoor,32,ATP250
+2009-5014,Shanghai Masters,Hard,Outdoor,56,Masters 1000
+2009-773,Bucharest,Clay,Outdoor,32,ATP250
+2009-375,Lyon,Hard,Indoor,32,ATP250
+2009-573,Valencia,Hard,,32,
+2009-419,Indianapolis,Hard,Outdoor,32,ATP250
+2009-416,Rome Masters,Clay,,56,
+2009-414,Hamburg,Clay,Outdoor,48,ATP500
+2009-306,Kitzbuhel,Clay,Outdoor,32,ATP250
+2009-1720,Bangkok,Hard,Indoor,28,ATP250
+2009-341,Metz,Hard,Indoor,28,ATP250
+2009-580,Australian Open,Hard,Outdoor,128,Grand Slam
+2009-468,Estoril,Clay,,32,
+2009-339,Brisbane,Hard,Outdoor,32,ATP250
+2009-520,Roland Garros,Clay,,128,
+2009-422,Cincinnati Masters,Hard,,56,
+2009-423,Los Angeles,Hard,Outdoor,28,ATP250
+2009-421,Canada Masters,Hard,,56,
+2009-424,San Jose,Hard,Indoor,32,ATP250
+2009-425,Barcelona,Clay,Outdoor,56,ATP500
+2009-540,Wimbledon,Grass,Outdoor,128,Grand Slam
+2009-429,Stockholm,Hard,Indoor,32,ATP250
+2009-418,Washington,Hard,Outdoor,48,ATP500
+2009-337,Vienna,Hard,Indoor,32,ATP250
+2009-338,Sydney,Hard,Outdoor,28,ATP250
+2009-615,Dusseldorf,Clay,,32,
+2009-605,Tour Finals,Hard,,8,
+2009-D001,Davis Cup WG R1: ARG vs NED,Clay,,4,
+2009-D002,Davis Cup WG R1: CZE vs FRA,Carpet,,4,
+2009-D003,Davis Cup WG R1: USA vs SUI,Hard,,4,
+2009-D004,Davis Cup WG R1: CRO vs CHI,Hard,,4,
+2009-D005,Davis Cup WG R1: SWE vs ISR,Carpet,,4,
+2009-D006,Davis Cup WG R1: ROU vs RUS,Carpet,,4,
+2009-D007,Davis Cup WG R1: GER vs AUT,Hard,,4,
+2009-D008,Davis Cup WG R1: ESP vs SRB,Clay,,4,
+2009-D009,Davis Cup WG QF: CZE vs ARG,Carpet,,4,
+2009-D010,Davis Cup WG QF: CRO vs USA,Clay,,4,
+2009-D011,Davis Cup WG QF: ISR vs RUS,Hard,,4,
+2009-D012,Davis Cup WG QF: ESP vs GER,Clay,,4,
+2009-D013,Davis Cup WG SF: CRO vs CZE,Clay,,4,
+2009-D014,Davis Cup WG SF: ESP vs ISR,Clay,,4,
+2009-D015,Davis Cup WG F: ESP vs CZE,Clay,,4,
+2009-D016,Davis Cup G1 R1: COL vs URU,Clay,,4,
+2009-D017,Davis Cup G1 R1: CAN vs ECU,Hard,,4,
+2009-D018,Davis Cup G1 R2: COL vs BRA,Clay,,4,
+2009-D019,Davis Cup G1 R2: ECU vs PER,Clay,,4,
+2009-D020,Davis Cup G1 PO: PER vs CAN,Clay,,4,
+2009-D021,Davis Cup G1 PO: PER vs URU,Clay,,4,
+2009-D022,Davis Cup G1 R1: TPE vs KAZ,Carpet,,4,
+2009-D023,Davis Cup G1 R2: THA vs AUS,Hard,,4,
+2009-D024,Davis Cup G1 R2: TPE vs IND,Hard,,4,
+2009-D025,Davis Cup G1 PO: THA vs KAZ,Hard,,4,
+2009-D026,Davis Cup G1 R1: RSA vs MKD,Hard,,4,
+2009-D027,Davis Cup G1 R2: ITA vs SVK,Clay,,4,
+2009-D028,Davis Cup G1 R2: RSA vs BLR,Hard,,4,
+2009-D029,Davis Cup G1 R2: GBR vs UKR,Hard,,4,
+2009-D030,Davis Cup G1 R2: BEL vs POL,Clay,,4,
+2009-D031,Davis Cup G1 PO: BLR vs MKD,Hard,,4,
+2009-D032,Davis Cup G1 PO: SVK vs MKD,Hard,,4,
+2009-D033,Davis Cup G1 PO: GBR vs POL,Hard,,4,
+2009-D034,Davis Cup G2 R1: MEX vs JAM,Clay,,4,
+2009-D035,Davis Cup G2 R1: VEN vs AHO,Hard,,4,
+2009-D036,Davis Cup G2 R1: DOM vs GUA,Clay,,4,
+2009-D037,Davis Cup G2 R1: PAR vs BAH,Clay,,4,
+2009-D038,Davis Cup G2 R2: VEN vs MEX,Hard,,4,
+2009-D039,Davis Cup G2 R2: DOM vs PAR,Clay,,4,
+2009-D040,Davis Cup G2 R3: DOM vs VEN,Clay,,4,
+2009-D041,Davis Cup G2 R1: HKG vs PHI,Hard,,4,
+2009-D042,Davis Cup G2 R1: OMA vs PAK,Hard,,4,
+2009-D043,Davis Cup G2 R1: INA vs KUW,Hard,,4,
+2009-D044,Davis Cup G2 R1: NZL vs MAS,Hard,,4,
+2009-D045,Davis Cup G2 R2: PHI vs PAK,Clay,,4,
+2009-D046,Davis Cup G2 R2: NZL vs INA,Hard,,4,
+2009-D047,Davis Cup G2 R3: PHI vs NZL,Clay,,4,
+2009-D048,Davis Cup G2 R1: LTU vs GEO,Hard,,4,
+2009-D049,Davis Cup G2 R1: SLO vs EGY,Carpet,,4,
+2009-D050,Davis Cup G2 R1: LAT vs MDA,Carpet,,4,
+2009-D051,Davis Cup G2 R1: HUN vs BUL,Carpet,,4,
+2009-D052,Davis Cup G2 R1: DEN vs FIN,Hard,,4,
+2009-D053,Davis Cup G2 R1: MON vs MNE,Clay,,4,
+2009-D054,Davis Cup G2 R1: ALG vs IRL,Clay,,4,
+2009-D055,Davis Cup G2 R1: CYP vs POR,Hard,,4,
+2009-D056,Davis Cup G2 R2: SLO vs LTU,Clay,,4,
+2009-D057,Davis Cup G2 R2: BUL vs LAT,Clay,,4,
+2009-D058,Davis Cup G2 R2: FIN vs MON,Clay,,4,
+2009-D059,Davis Cup G2 R2: CYP vs IRL,Hard,,4,
+2009-D060,Davis Cup G2 R3: LAT vs SLO,Carpet,,4,
+2009-D061,Davis Cup G2 R3: FIN vs CYP,Carpet,,4,
+2009-D062,Davis Cup G1 R2: JPN vs CHN,Carpet,,4,
+2009-D063,Davis Cup G1 R2: UZB vs KOR,Clay,,4,
+2009-D064,Davis Cup G1 PO: KOR vs CHN,Hard,,4,
+2009-D065,Davis Cup G1 PO: CHN vs THA,Hard,,4,
+2009-D066,Davis Cup G2 PO: EGY vs GEO,Clay,,4,
+2009-D067,Davis Cup G2 PO: HUN vs MDA,Clay,,4,
+2009-D068,Davis Cup G2 PO: DEN vs MNE,Clay,,4,
+2009-D069,Davis Cup G2 PO: ALG vs POR,Clay,,4,
+2009-D070,Davis Cup G2 PO: AHO vs JAM,Hard,,4,
+2009-D071,Davis Cup G2 PO: BAH vs GUA,Hard,,4,
+2009-D072,Davis Cup G2 PO: HKG vs OMA,Hard,,4,
+2009-D073,Davis Cup G2 PO: MAS vs KUW,Hard,,4,
+2009-D075,Davis Cup G1 R3: UZB vs JPN,Clay,,4,
+2009-D076,Davis Cup WG PO: CHI vs AUT,Clay,,4,
+2009-D077,Davis Cup WG PO: BEL vs UKR,Clay,,4,
+2009-D078,Davis Cup WG PO: BRA vs ECU,Clay,,4,
+2009-D079,Davis Cup WG PO: NED vs FRA,Clay,,4,
+2009-D080,Davis Cup WG PO: RSA vs IND,Hard,,4,
+2009-D081,Davis Cup WG PO: SRB vs UZB,Hard,,4,
+2009-D082,Davis Cup WG PO: SWE vs ROU,Hard,,4,
+2009-D083,Davis Cup WG PO: ITA vs SUI,Clay,,4,
+2010-301,Auckland,Hard,Outdoor,28,ATP250
+2010-308,Munich,Clay,Outdoor,32,ATP250
+2010-1536,Madrid Masters,Clay,,56,
+2010-5053,Belgrade,Clay,Outdoor,28,ATP250
+2010-717,Houston,Clay,Outdoor,28,ATP250
+2010-540,Wimbledon,Grass,Outdoor,128,Grand Slam
+2010-468,Estoril,Clay,,28,
+2010-375,Montpellier,Hard,Indoor,28,ATP250
+2010-2276,Zagreb,Hard,Indoor,32,ATP250
+2010-573,Valencia,Hard,Indoor,32,ATP500
+2010-360,Casablanca,Clay,Outdoor,28,ATP250
+2010-6120,Nice,Clay,Outdoor,28,ATP250
+2010-440,s-Hertogenbosch,Grass,,28,
+2010-560,US Open,Hard,Outdoor,128,Grand Slam
+2010-773,Bucharest,Clay,Outdoor,28,ATP250
+2010-568,St. Petersburg,Hard,Indoor,32,ATP250
+2010-6116,Atlanta,Hard,Outdoor,28,ATP250
+2010-451,Doha,Hard,Outdoor,32,ATP250
+2010-3348,New Haven,Hard,Outdoor,48,ATP250
+2010-5012,Johannesburg,Hard,,32,
+2010-5014,Shanghai Masters,Hard,Outdoor,56,Masters 1000
+2010-580,Australian Open,Hard,Outdoor,128,Grand Slam
+2010-506,Buenos Aires,Clay,Outdoor,32,ATP250
+2010-429,Stockholm,Hard,Indoor,28,ATP250
+2010-505,Santiago,Clay,Outdoor,32,ATP250
+2010-500,Halle,Grass,Outdoor,32,ATP250
+2010-352,Paris Masters,Hard,,48,
+2010-421,Canada Masters,Hard,,56,
+2010-422,Cincinnati Masters,Hard,,56,
+2010-423,Los Angeles,Hard,Outdoor,28,ATP250
+2010-424,San Jose,Hard,Indoor,32,ATP250
+2010-425,Barcelona,Clay,,56,
+2010-338,Sydney,Hard,Outdoor,28,ATP250
+2010-339,Brisbane,Hard,Outdoor,32,ATP250
+2010-337,Vienna,Hard,Indoor,28,ATP250
+2010-741,Eastbourne,Grass,Outdoor,32,ATP250
+2010-533,Costa Do Sauipe,Clay,Outdoor,32,ATP250
+2010-747,Beijing,Hard,Outdoor,32,ATP500
+2010-439,Umag,Clay,Outdoor,28,ATP250
+2010-438,Moscow,Hard,Indoor,28,ATP250
+2010-341,Metz,Hard,Indoor,28,ATP250
+2010-329,Tokyo,Hard,Outdoor,32,ATP500
+2010-328,Basel,Hard,Indoor,32,ATP500
+2010-321,Stuttgart,Clay,,28,
+2010-807,Acapulco,Clay,Outdoor,32,ATP500
+2010-6003,Kuala Lumpur,Hard,,28,
+2010-520,Roland Garros,Clay,,128,
+2010-407,Rotterdam,Hard,Indoor,32,ATP500
+2010-404,Indian Wells Masters,Hard,,96,
+2010-402,Memphis,Hard,Indoor,32,ATP500
+2010-403,Miami Masters,Hard,,96,
+2010-1720,Bangkok,Hard,Indoor,28,ATP250
+2010-316,Bastad,Clay,Outdoor,28,ATP250
+2010-314,Gstaad,Clay,Outdoor,32,ATP250
+2010-315,Newport,Grass,Outdoor,32,ATP250
+2010-311,Queen's Club,Grass,,56,
+2010-499,Delray Beach,Hard,Outdoor,32,ATP250
+2010-495,Dubai,Hard,,32,
+2010-496,Marseille,Hard,Indoor,28,ATP250
+2010-891,Chennai,Hard,Outdoor,32,ATP250
+2010-410,Monte Carlo Masters,Clay,Outdoor,56,Masters 1000
+2010-414,Hamburg,Clay,Outdoor,48,ATP500
+2010-416,Rome Masters,Clay,,56,
+2010-418,Washington,Hard,Outdoor,48,ATP500
+2010-5059,Curitiba CH,Clay,,32,
+2010-615,Dusseldorf,Clay,,32,
+2010-605,Tour Finals,Hard,,8,
+2010-D001,Davis Cup G2 R1: LTU vs GBR,Hard,,4,
+2010-D002,Davis Cup G2 R1: IRL vs TUR,Carpet,,4,
+2010-D003,Davis Cup G2 R1: BUL vs MON,Hard,,4,
+2010-D004,Davis Cup G2 R1: NOR vs SLO,Hard,,4,
+2010-D005,Davis Cup G2 R1: POR vs DEN,Clay,,4,
+2010-D006,Davis Cup G2 R1: CYP vs EGY,Hard,,4,
+2010-D007,Davis Cup G2 R1: EST vs HUN,Hard,,4,
+2010-D008,Davis Cup G2 R1: MKD vs BIH,Clay,,4,
+2010-D009,Davis Cup WG R1: ESP vs SUI,Clay,,4,
+2010-D010,Davis Cup WG R1: FRA vs GER,Hard,,4,
+2010-D011,Davis Cup WG R1: RUS vs IND,Hard,,4,
+2010-D012,Davis Cup WG R1: SWE vs ARG,Hard,,4,
+2010-D013,Davis Cup WG R1: CRO vs ECU,Hard,,4,
+2010-D014,Davis Cup WG R1: SRB vs USA,Clay,,4,
+2010-D015,Davis Cup WG R1: CHI vs ISR,Clay,,4,
+2010-D016,Davis Cup WG R1: BEL vs CZE,Clay,,4,
+2010-D017,Davis Cup G1 R1: AUS vs TPE,Hard,,4,
+2010-D018,Davis Cup G1 R1: JPN vs PHI,Carpet,,4,
+2010-D019,Davis Cup G1 R1: CHN vs UZB,Hard,,4,
+2010-D020,Davis Cup G1 R1: KAZ vs KOR,Clay,,4,
+2010-D021,Davis Cup G1 R1: ITA vs BLR,Clay,,4,
+2010-D022,Davis Cup G1 R1: POL vs FIN,Hard,,4,
+2010-D023,Davis Cup G1 R1: UKR vs LAT,Hard,,4,
+2010-D024,Davis Cup G1 R2: AUT vs SVK,Hard,,4,
+2010-D025,Davis Cup G1 R2: NED vs ITA,Hard,,4,
+2010-D026,Davis Cup G1 R2: RSA vs FIN,Hard,,4,
+2010-D027,Davis Cup G1 R2: ROU vs UKR,Clay,,4,
+2010-D028,Davis Cup G2 R1: PER vs ESA,Clay,,4,
+2010-D029,Davis Cup G2 R1: BOL vs VEN,Clay,,4,
+2010-D030,Davis Cup G2 R1: PAR vs AHO,Clay,,4,
+2010-D031,Davis Cup G2 R1: MEX vs GUA,Clay,,4,
+2010-D032,Davis Cup G1 R1: DOM vs URU,Hard,,4,
+2010-D033,Davis Cup G1 R2: BRA vs URU,Clay,,4,
+2010-D034,Davis Cup G1 R2: COL vs CAN,Clay,,4,
+2010-D035,Davis Cup G2 R1: THA vs POC,Hard,,4,
+2010-D036,Davis Cup G2 R1: MAS vs INA,Hard,,4,
+2010-D037,Davis Cup G2 R1: PAK vs HKG,Hard,,4,
+2010-D038,Davis Cup G2 R1: SRI vs NZL,Clay,,4,
+2010-D039,Davis Cup WG QF: FRA vs ESP,Hard,,4,
+2010-D040,Davis Cup WG QF: RUS vs ARG,Hard,,4,
+2010-D041,Davis Cup WG QF: CRO vs SRB,Hard,,4,
+2010-D042,Davis Cup WG QF: CHI vs CZE,Clay,,4,
+2010-D043,Davis Cup WG SF: FRA vs ARG,Hard,,4,
+2010-D044,Davis Cup WG SF: SRB vs CZE,Hard,,4,
+2010-D045,Davis Cup WG F: SRB vs FRA,Hard,,4,
+2010-D046,Davis Cup G2 R2: VEN vs PER,Hard,,4,
+2010-D047,Davis Cup G2 R2: PAR vs MEX,Clay,,4,
+2010-D048,Davis Cup G2 R3: MEX vs VEN,Clay,,4,
+2010-D049,Davis Cup G2 PO: BOL vs ESA,Clay,,4,
+2010-D050,Davis Cup G2 PO: GUA vs AHO,Hard,,4,
+2010-D051,Davis Cup G1 R2: AUS vs JPN,Clay,,4,
+2010-D052,Davis Cup G1 R2: CHN vs KAZ,Hard,,4,
+2010-D053,Davis Cup G1 PO: TPE vs PHI,Hard,,4,
+2010-D054,Davis Cup G1 PO: KOR vs UZB,Hard,,4,
+2010-D055,Davis Cup G1 PO: KOR vs PHI,Hard,,4,
+2010-D056,Davis Cup G1 PO: CAN vs DOM,Hard,,4,
+2010-D057,Davis Cup G2 R2: INA vs THA,Hard,,4,
+2010-D058,Davis Cup G2 R2: NZL vs PAK,Hard,,4,
+2010-D059,Davis Cup G2 R3: THA vs NZL,Hard,,4,
+2010-D060,Davis Cup G2 PO: MAS vs POC,Hard,,4,
+2010-D061,Davis Cup G2 PO: SRI vs HKG,Clay,,4,
+2010-D062,Davis Cup G1 PO: BLR vs NED,Hard,,4,
+2010-D063,Davis Cup G1 PO: BLR vs SVK,Hard,,4,
+2010-D064,Davis Cup G1 PO: LAT vs POL,Carpet,,4,
+2010-D065,Davis Cup G2 R2: IRL vs LTU,Carpet,,4,
+2010-D066,Davis Cup G2 R2: SLO vs BUL,Clay,,4,
+2010-D067,Davis Cup G2 R2: POR vs CYP,Clay,,4,
+2010-D068,Davis Cup G2 R2: EST vs BIH,Clay,,4,
+2010-D069,Davis Cup G2 R3: LTU vs SLO,Hard,,4,
+2010-D070,Davis Cup G2 R3: POR vs BIH,Clay,,4,
+2010-D071,Davis Cup G2 PO: GBR vs TUR,Grass,,4,
+2010-D072,Davis Cup G2 PO: MON vs NOR,Clay,,4,
+2010-D073,Davis Cup G2 PO: EGY vs DEN,Clay,,4,
+2010-D074,Davis Cup G2 PO: HUN vs MKD,Clay,,4,
+2010-D075,Davis Cup WG PO: COL vs USA,Clay,,4,
+2010-D076,Davis Cup WG PO: ISR vs AUT,Hard,,4,
+2010-D077,Davis Cup WG PO: GER vs RSA,Clay,,4,
+2010-D078,Davis Cup WG PO: SWE vs ITA,Hard,,4,
+2010-D079,Davis Cup WG PO: IND vs BRA,Hard,,4,
+2010-D080,Davis Cup WG PO: AUS vs BEL,Hard,,4,
+2010-D081,Davis Cup WG PO: KAZ vs SUI,Hard,,4,
+2010-D082,Davis Cup WG PO: ROU vs ECU,Clay,,4,
+2011-440,s-Hertogenbosch,Grass,,32,
+2011-741,Eastbourne,Grass,Outdoor,32,ATP250
+2011-316,Bastad,Clay,Outdoor,28,ATP250
+2011-560,US Open,Hard,Outdoor,128,Grand Slam
+2011-314,Gstaad,Clay,Outdoor,28,ATP250
+2011-568,St. Petersburg,Hard,Indoor,32,ATP250
+2011-311,Queen's Club,Grass,,56,
+2011-2276,Zagreb,Hard,Indoor,28,ATP250
+2011-580,Australian Open,Hard,Outdoor,128,Grand Slam
+2011-468,Estoril,Clay,,28,
+2011-773,Bucharest,Clay,Outdoor,28,ATP250
+2011-422,Cincinnati Masters,Hard,,56,
+2011-573,Valencia,Hard,Indoor,32,ATP500
+2011-301,Auckland,Hard,Outdoor,28,ATP250
+2011-308,Munich,Clay,Outdoor,32,ATP250
+2011-6003,Kuala Lumpur,Hard,Indoor,28,ATP250
+2011-495,Dubai,Hard,,32,
+2011-496,Marseille,Hard,Indoor,28,ATP250
+2011-499,Delray Beach,Hard,Outdoor,32,ATP250
+2011-423,Los Angeles,Hard,Outdoor,28,ATP250
+2011-418,Washington,Hard,Outdoor,48,ATP500
+2011-315,Newport,Grass,Outdoor,32,ATP250
+2011-540,Wimbledon,Grass,Outdoor,128,Grand Slam
+2011-410,Monte Carlo Masters,Clay,Outdoor,56,Masters 1000
+2011-319,Kitzbuhel,Clay,,28,
+2011-414,Hamburg,Clay,,48,
+2011-416,Rome Masters,Clay,,56,
+2011-807,Acapulco,Clay,Outdoor,32,ATP500
+2011-6242,Winston-Salem,Hard,,48,
+2011-6120,Nice,Clay,,28,
+2011-337,Vienna,Hard,Indoor,28,ATP250
+2011-328,Basel,Hard,Indoor,32,ATP500
+2011-329,Tokyo,Hard,Outdoor,32,ATP500
+2011-321,Stuttgart,Clay,Outdoor,32,ATP250
+2011-891,Chennai,Hard,Outdoor,32,ATP250
+2011-717,Houston,Clay,Outdoor,28,ATP250
+2011-5053,Belgrade,Clay,,28,
+2011-403,Miami Masters,Hard,,96,
+2011-402,Memphis,Hard,Indoor,32,ATP500
+2011-407,Rotterdam,Hard,Indoor,32,ATP500
+2011-404,Indian Wells Masters,Hard,,96,
+2011-6116,Atlanta,Hard,Outdoor,28,ATP250
+2011-339,Brisbane,Hard,Outdoor,32,ATP250
+2011-338,Sydney,Hard,Outdoor,28,ATP250
+2011-520,Roland Garros,Clay,,128,
+2011-438,Moscow,Hard,Indoor,28,ATP250
+2011-1720,Bangkok,Hard,Indoor,28,ATP250
+2011-439,Umag,Clay,Outdoor,28,ATP250
+2011-1536,Madrid Masters,Clay,,56,
+2011-533,Costa Do Sauipe,Clay,Outdoor,28,ATP250
+2011-421,Canada Masters,Hard,,56,
+2011-425,Barcelona,Clay,,56,
+2011-424,San Jose,Hard,Indoor,32,ATP250
+2011-429,Stockholm,Hard,Indoor,28,ATP250
+2011-341,Metz,Hard,Indoor,28,ATP250
+2011-500,Halle,Grass,Outdoor,32,ATP250
+2011-506,Buenos Aires,Clay,Outdoor,32,ATP250
+2011-505,Santiago,Clay,Outdoor,32,ATP250
+2011-747,Beijing,Hard,Outdoor,32,ATP500
+2011-451,Doha,Hard,Outdoor,32,ATP250
+2011-5012,Johannesburg,Hard,,32,
+2011-5014,Shanghai Masters,Hard,,56,
+2011-360,Casablanca,Clay,Outdoor,28,ATP250
+2011-6406,ATP Challenger Tour Finals CH,Hard,,8,
+2011-615,Dusseldorf,Clay,,32,
+2011-605,Tour Finals,Hard,,16,
+2011-352,Paris Masters,Hard,,48,
+2011-D001,Davis Cup G2 R1: GBR vs TUN,Hard,,4,
+2011-D002,Davis Cup G2 R1: IRL vs LUX,Hard,,4,
+2011-D003,Davis Cup G2 R1: BLR vs BUL,Hard,,4,
+2011-D004,Davis Cup G2 R1: CYP vs HUN,Hard,,4,
+2011-D005,Davis Cup G2 R1: MAR vs BIH,Clay,,4,
+2011-D006,Davis Cup G2 R1: EST vs LTU,Hard,,4,
+2011-D007,Davis Cup G2 R1: DEN vs MON,Carpet,,4,
+2011-D008,Davis Cup G2 R1: GRE vs LAT,Clay,,4,
+2011-D009,Davis Cup WG R1: SRB vs IND,Hard,,4,
+2011-D010,Davis Cup WG R1: SWE vs RUS,Hard,,4,
+2011-D011,Davis Cup WG R1: CZE vs KAZ,Hard,,4,
+2011-D012,Davis Cup WG R1: ARG vs ROU,Clay,,4,
+2011-D013,Davis Cup WG R1: CHI vs USA,Clay,,4,
+2011-D014,Davis Cup WG R1: BEL vs ESP,Hard,,4,
+2011-D015,Davis Cup WG R1: CRO vs GER,Hard,,4,
+2011-D016,Davis Cup WG R1: AUT vs FRA,Clay,,4,
+2011-D017,Davis Cup G2 R1: PER vs AHO,Clay,,4,
+2011-D018,Davis Cup G2 R1: ESA vs DOM,Clay,,4,
+2011-D019,Davis Cup G2 R1: PUR vs PAR,Hard,,4,
+2011-D020,Davis Cup G2 R1: VEN vs HAI,Hard,,4,
+2011-D021,Davis Cup G1 R1: SLO vs FIN,Clay,,4,
+2011-D022,Davis Cup G1 R1: UKR vs NED,Hard,,4,
+2011-D023,Davis Cup G1 R1: POR vs SVK,Clay,,4,
+2011-D024,Davis Cup G1 R1: MEX vs CAN,Clay,,4,
+2011-D025,Davis Cup G1 R1: URU vs COL,Clay,,4,
+2011-D026,Davis Cup G1 R1: CHN vs TPE,Hard,,4,
+2011-D027,Davis Cup G1 R1: PHI vs JPN,Clay,,4,
+2011-D028,Davis Cup G1 R1: UZB vs NZL,Clay,,4,
+2011-D029,Davis Cup G2 R1: KOR vs SYR,Hard,,4,
+2011-D030,Davis Cup G2 R1: HKG vs PAK,Hard,,4,
+2011-D031,Davis Cup G2 R1: IRI vs INA,Clay,,4,
+2011-D032,Davis Cup G2 R1: POC vs THA,Hard,,4,
+2011-D033,Davis Cup G1 R2: ISR vs POL,Hard,,4,
+2011-D034,Davis Cup G1 R2: ITA vs SLO,Clay,,4,
+2011-D035,Davis Cup G1 R2: RSA vs NED,Hard,,4,
+2011-D036,Davis Cup G1 R2: SUI vs POR,Hard,,4,
+2011-D037,Davis Cup G1 PO: ECU vs MEX,Clay,,4,
+2011-D038,Davis Cup WG QF: SWE vs SRB,Hard,,4,
+2011-D039,Davis Cup WG QF: ARG vs KAZ,Clay,,4,
+2011-D040,Davis Cup WG QF: USA vs ESP,Hard,,4,
+2011-D041,Davis Cup WG QF: GER vs FRA,Clay,,4,
+2011-D042,Davis Cup WG SF: SRB vs ARG,Hard,,4,
+2011-D043,Davis Cup WG SF: ESP vs FRA,Clay,,4,
+2011-D044,Davis Cup WG F: ESP vs ARG,Clay,,4,
+2011-D045,Davis Cup WG PO: ROU vs CZE,Clay,,4,
+2011-D046,Davis Cup WG PO: RUS vs BRA,Hard,,4,
+2011-D047,Davis Cup WG PO: ISR vs CAN,Hard,,4,
+2011-D048,Davis Cup WG PO: RSA vs CRO,Hard,,4,
+2011-D049,Davis Cup WG PO: CHI vs ITA,Hard,,4,
+2011-D050,Davis Cup WG PO: JPN vs IND,Hard,,4,
+2011-D051,Davis Cup WG PO: BEL vs AUT,Hard,,4,
+2011-D052,Davis Cup WG PO: AUS vs SUI,Grass,,4,
+2011-D053,Davis Cup G1 R2: ECU vs CAN,Clay,,4,
+2011-D054,Davis Cup G1 R2: URU vs BRA,Clay,,4,
+2011-D055,Davis Cup G1 R2: CHN vs AUS,Hard,,4,
+2011-D056,Davis Cup G1 R2: JPN vs UZB,Hard,,4,
+2011-D057,Davis Cup G1 PO: NZL vs PHI,Hard,,4,
+2011-D058,Davis Cup G1 PO: PHI vs TPE,Clay,,4,
+2011-D059,Davis Cup G1 PO: FIN vs POL,Hard,,4,
+2011-D060,Davis Cup G1 PO: SVK vs UKR,Clay,,4,
+2011-D061,Davis Cup G2 R2: PER vs DOM,Clay,,4,
+2011-D062,Davis Cup G2 R2: PAR vs VEN,Clay,,4,
+2011-D063,Davis Cup G2 PO: ESA vs AHO,Clay,,4,
+2011-D064,Davis Cup G2 PO: PUR vs HAI,Hard,,4,
+2011-D065,Davis Cup G2 R2: KOR vs PAK,Hard,,4,
+2011-D066,Davis Cup G2 R2: THA vs INA,Hard,,4,
+2011-D067,Davis Cup G2 PO: HKG vs SYR,Hard,,4,
+2011-D068,Davis Cup G2 PO: POC vs IRI,Hard,,4,
+2011-D069,Davis Cup G2 R2: GBR vs LUX,Hard,,4,
+2011-D070,Davis Cup G2 R2: HUN vs BLR,Clay,,4,
+2011-D071,Davis Cup G2 R2: BIH vs EST,Hard,,4,
+2011-D072,Davis Cup G2 R2: DEN vs LAT,Clay,,4,
+2011-D073,Davis Cup G2 PO: IRL vs TUN,Hard,,4,
+2011-D074,Davis Cup G2 PO: BUL vs CYP,Carpet,,4,
+2011-D075,Davis Cup G2 PO: LTU vs MAR,Clay,,4,
+2011-D076,Davis Cup G2 PO: GRE vs MON,Clay,,4,
+2011-D077,Davis Cup G1 PO: MEX vs COL,Clay,,4,
+2011-D078,Davis Cup G2 R3: GBR vs HUN,Hard,,4,
+2011-D079,Davis Cup G2 R3: DEN vs BIH,Hard,,4,
+2011-D080,Davis Cup G2 R3: KOR vs THA,Hard,,4,
+2011-D081,Davis Cup G2 R3: PAR vs PER,Clay,,4,
+2012-418,Washington,Hard,Outdoor,32,ATP500
+2012-439,Umag,Clay,Outdoor,28,ATP250
+2012-410,Monte Carlo Masters,Clay,Outdoor,56,Masters 1000
+2012-416,Rome Masters,Clay,,56,
+2012-407,Rotterdam,Hard,Indoor,32,ATP500
+2012-6120,Nice,Clay,Outdoor,28,ATP250
+2012-315,Newport,Grass,Outdoor,32,ATP250
+2012-316,Bastad,Clay,Outdoor,28,ATP250
+2012-311,Queen's Club,Grass,,56,
+2012-319,Kitzbuhel,Clay,Outdoor,28,ATP250
+2012-568,St. Petersburg,Hard,Indoor,32,ATP250
+2012-429,Stockholm,Hard,Indoor,28,ATP250
+2012-424,San Jose,Hard,Indoor,28,ATP250
+2012-425,Barcelona,Clay,,56,
+2012-422,Cincinnati Masters,Hard,,56,
+2012-423,Los Angeles,Hard,Outdoor,28,ATP250
+2012-421,Canada Masters,Hard,,48,
+2012-414,Hamburg,Clay,Outdoor,32,ATP500
+2012-301,Auckland,Hard,Outdoor,28,ATP250
+2012-717,Houston,Clay,,28,
+2012-499,Delray Beach,Hard,Outdoor,32,ATP250
+2012-308,Munich,Clay,Outdoor,28,ATP250
+2012-1536,Madrid Masters,Clay,,56,
+2012-438,Moscow,Hard,,28,
+2012-533,Sao Paulo,Clay,Indoor,28,ATP250
+2012-402,Memphis,Hard,Indoor,32,ATP500
+2012-338,Sydney,Hard,Outdoor,28,ATP250
+2012-339,Brisbane,Hard,Outdoor,32,ATP250
+2012-314,Gstaad,Clay,Outdoor,28,ATP250
+2012-540,Wimbledon,Grass,Outdoor,128,Grand Slam
+2012-496,Marseille,Hard,Indoor,28,ATP250
+2012-403,Miami Masters,Hard,,96,
+2012-440,s-Hertogenbosch,Grass,,32,
+2012-495,Dubai,Hard,,32,
+2012-520,Roland Garros,Clay,,128,
+2012-5053,Belgrade,Clay,Outdoor,28,ATP250
+2012-329,Tokyo,Hard,Outdoor,32,ATP500
+2012-328,Basel,Hard,Indoor,32,ATP500
+2012-96,London Olympics,Grass,,64,
+2012-1720,Bangkok,Hard,Indoor,28,ATP250
+2012-451,Doha,Hard,Outdoor,32,ATP250
+2012-6003,Kuala Lumpur,Hard,Indoor,28,ATP250
+2012-2276,Zagreb,Hard,Indoor,32,ATP250
+2012-807,Acapulco,Clay,Outdoor,32,ATP500
+2012-573,Valencia,Hard,Indoor,32,ATP500
+2012-360,Casablanca,Clay,Outdoor,28,ATP250
+2012-505,Santiago,Clay,,28,
+2012-506,Buenos Aires,Clay,Outdoor,32,ATP250
+2012-891,Chennai,Hard,Outdoor,28,ATP250
+2012-6242,Winston-Salem,Hard,Outdoor,48,ATP250
+2012-352,Paris Masters,Hard,,48,
+2012-6116,Atlanta,Hard,Outdoor,28,ATP250
+2012-341,Metz,Hard,,28,
+2012-337,Vienna,Hard,Indoor,28,ATP250
+2012-500,Halle,Grass,Outdoor,28,ATP250
+2012-321,Stuttgart,Clay,Outdoor,28,ATP250
+2012-747,Beijing,Hard,Outdoor,32,ATP500
+2012-580,Australian Open,Hard,Outdoor,128,Grand Slam
+2012-741,Eastbourne,Grass,Outdoor,28,ATP250
+2012-468,Estoril,Clay,,28,
+2012-375,Montpellier,Hard,Indoor,28,ATP250
+2012-560,US Open,Hard,Outdoor,128,Grand Slam
+2012-404,Indian Wells Masters,Hard,,96,
+2012-773,Bucharest,Clay,Outdoor,28,ATP250
+2012-5014,Shanghai Masters,Hard,Outdoor,56,Masters 1000
+2012-615,Dusseldorf,Clay,,64,
+2012-605,Tour Finals,Hard,,8,
+2012-6406,ATP Challenger Tour Finals CH,Hard,,9,
+2012-D001,Davis Cup G2 R1: PHI vs POC,Hard,,4,
+2012-D002,Davis Cup G2 R1: LIB vs PAK,Clay,,4,
+2012-D003,Davis Cup G2 R1: HKG vs INA,Hard,,4,
+2012-D004,Davis Cup G2 R1: SRI vs THA,Clay,,4,
+2012-D005,Davis Cup WG R1: ESP vs KAZ,Clay,,4,
+2012-D006,Davis Cup WG R1: AUT vs RUS,Hard,,4,
+2012-D007,Davis Cup WG R1: CAN vs FRA,Hard,,4,
+2012-D008,Davis Cup WG R1: SUI vs USA,Clay,,4,
+2012-D009,Davis Cup WG R1: CZE vs ITA,Hard,,4,
+2012-D010,Davis Cup WG R1: SRB vs SWE,Hard,,4,
+2012-D011,Davis Cup WG R1: JPN vs CRO,Hard,,4,
+2012-D012,Davis Cup WG R1: GER vs ARG,Clay,,4,
+2012-D013,Davis Cup G1 R1: URU vs PER,Clay,,4,
+2012-D014,Davis Cup G1 R1: ECU vs COL,Clay,,4,
+2012-D015,Davis Cup G1 R1: GBR vs SVK,Hard,,4,
+2012-D016,Davis Cup G1 R1: NED vs FIN,Hard,,4,
+2012-D017,Davis Cup G1 R1: SLO vs DEN,Hard,,4,
+2012-D018,Davis Cup G1 R2: ISR vs POR,Hard,,4,
+2012-D019,Davis Cup G1 R2: GBR vs BEL,Hard,,4,
+2012-D020,Davis Cup G1 R2: NED vs ROU,Hard,,4,
+2012-D021,Davis Cup G1 R2: RSA vs SLO,Hard,,4,
+2012-D022,Davis Cup G1 R1: NZL vs UZB,Hard,,4,
+2012-D023,Davis Cup G1 R1: KOR vs TPE,Hard,,4,
+2012-D024,Davis Cup G1 R1: AUS vs CHN,Grass,,4,
+2012-D025,Davis Cup G1 R2: UZB vs IND,Clay,,4,
+2012-D026,Davis Cup G1 R2: AUS vs KOR,Hard,,4,
+2012-D027,Davis Cup G1 R2: URU vs CHI,Clay,,4,
+2012-D028,Davis Cup G1 R2: BRA vs COL,Clay,,4,
+2012-D029,Davis Cup G2 R1: UKR vs MON,Hard,,4,
+2012-D030,Davis Cup G2 R1: CYP vs MAR,Hard,,4,
+2012-D031,Davis Cup G2 R1: HUN vs IRL,Carpet,,4,
+2012-D032,Davis Cup G2 R1: EGY vs LAT,Clay,,4,
+2012-D033,Davis Cup G2 R1: BLR vs MDA,Hard,,4,
+2012-D034,Davis Cup G2 R1: TUR vs BIH,Hard,,4,
+2012-D035,Davis Cup G2 R1: EST vs LUX,Hard,,4,
+2012-D036,Davis Cup G2 R1: POL vs MAD,Carpet,,4,
+2012-D037,Davis Cup WG QF: ESP vs AUT,Clay,,4,
+2012-D038,Davis Cup WG QF: FRA vs USA,Clay,,4,
+2012-D039,Davis Cup WG QF: CZE vs SRB,Clay,,4,
+2012-D040,Davis Cup WG QF: ARG vs CRO,Clay,,4,
+2012-D041,Davis Cup WG SF: ESP vs USA,Clay,,4,
+2012-D042,Davis Cup WG SF: ARG vs CZE,Clay,,4,
+2012-D043,Davis Cup WG F: CZE vs ESP,Hard,,4,
+2012-D044,Davis Cup WG PO: KAZ vs UZB,Clay,,4,
+2012-D045,Davis Cup WG PO: GER vs AUS,Clay,,4,
+2012-D046,Davis Cup WG PO: JPN vs ISR,Hard,,4,
+2012-D047,Davis Cup WG PO: BEL vs SWE,Clay,,4,
+2012-D048,Davis Cup G1 PO: PER vs ECU,Clay,,4,
+2012-D049,Davis Cup G1 PO: IND vs NZL,Hard,,4,
+2012-D050,Davis Cup G1 PO: TPE vs CHN,Hard,,4,
+2012-D051,Davis Cup G1 PO: ROU vs FIN,Hard,,4,
+2012-D052,Davis Cup G2 R2: UKR vs CYP,Hard,,4,
+2012-D053,Davis Cup G2 R2: HUN vs LAT,Carpet,,4,
+2012-D054,Davis Cup G2 R2: BLR vs BIH,Hard,,4,
+2012-D055,Davis Cup G2 R2: POL vs EST,Carpet,,4,
+2012-D056,Davis Cup G2 R3: LAT vs UKR,Hard,,4,
+2012-D057,Davis Cup G2 R3: POL vs BLR,Hard,,4,
+2012-D058,Davis Cup G2 PO: MAR vs MON,Clay,,4,
+2012-D059,Davis Cup G2 PO: EGY vs IRL,Clay,,4,
+2012-D060,Davis Cup G2 PO: TUR vs MDA,Hard,,4,
+2012-D061,Davis Cup G2 PO: MAD vs LUX,Clay,,4,
+2012-D062,Davis Cup G2 R2: PHI vs PAK,Clay,,4,
+2012-D063,Davis Cup G2 R2: INA vs THA,Hard,,4,
+2012-D064,Davis Cup G2 PO: LIB vs POC,Clay,,4,
+2012-D065,Davis Cup G2 PO: HKG vs SRI,Hard,,4,
+2012-D066,Davis Cup G2 R3: INA vs PHI,Hard,,4,
+2012-D067,Davis Cup WG PO: CAN vs RSA,Hard,,4,
+2012-D068,Davis Cup WG PO: BRA vs RUS,Clay,,4,
+2012-D069,Davis Cup WG PO: ITA vs CHI,Clay,,4,
+2012-D070,Davis Cup WG PO: NED vs SUI,Clay,,4,
+2012-D071,Davis Cup G2 R1: BAR vs PAR,Hard,,4,
+2012-D072,Davis Cup G2 R1: MEX vs ESA,Clay,,4,
+2012-D073,Davis Cup G2 R1: DOM vs BOL,Hard,,4,
+2012-D074,Davis Cup G2 R1: VEN vs PUR,Hard,,4,
+2012-D075,Davis Cup G2 R2: MEX vs BAR,Clay,,4,
+2012-D076,Davis Cup G2 R2: VEN vs DOM,Hard,,4,
+2012-D077,Davis Cup G2 R3: DOM vs MEX,Clay,,4,
+2012-D078,Davis Cup G2 PO: ESA vs PAR,Hard,,4,
+2012-D079,Davis Cup G2 PO: PUR vs BOL,Hard,,4,
+2012-D080,Davis Cup G1 PO: SVK vs POR,Hard,,4,
+2013-319,Kitzbuhel,Clay,Outdoor,28,ATP250
+2013-440,s-Hertogenbosch,Grass,,32,
+2013-328,Basel,Hard,Indoor,32,ATP500
+2013-741,Eastbourne,Grass,Outdoor,28,ATP250
+2013-533,Sao Paulo,Clay,,28,
+2013-1720,Bangkok,Hard,Indoor,28,ATP250
+2013-6710,Power Horse Cup,Clay,Outdoor,28,ATP250
+2013-422,Cincinnati Masters,Hard,,56,
+2013-5014,Shanghai Masters,Hard,Outdoor,56,Masters 1000
+2013-316,Bastad,Clay,Outdoor,28,ATP250
+2013-338,Sydney,Hard,Outdoor,28,ATP250
+2013-337,Vienna,Hard,,28,
+2013-425,Barcelona,Clay,Outdoor,48,ATP500
+2013-424,San Jose,Hard,Indoor,28,ATP250
+2013-540,Wimbledon,Grass,Outdoor,128,Grand Slam
+2013-6120,Nice,Clay,Outdoor,28,ATP250
+2013-429,Stockholm,Hard,Indoor,28,ATP250
+2013-468,Estoril,Clay,,28,
+2013-496,Marseille,Hard,Indoor,28,ATP250
+2013-495,Dubai,Hard,,32,
+2013-499,Delray Beach,Hard,Outdoor,32,ATP250
+2013-506,Buenos Aires,Clay,Outdoor,32,ATP250
+2013-717,Houston,Clay,Outdoor,28,ATP250
+2013-2276,Zagreb,Hard,Indoor,28,ATP250
+2013-6242,Winston-Salem,Hard,Outdoor,48,ATP250
+2013-416,Rome Masters,Clay,,56,
+2013-414,Hamburg,Clay,Outdoor,48,ATP500
+2013-891,Chennai,Hard,Outdoor,28,ATP250
+2013-500,Halle,Grass,Outdoor,28,ATP250
+2013-329,Tokyo,Hard,Outdoor,32,ATP500
+2013-315,Newport,Grass,Outdoor,32,ATP250
+2013-314,Gstaad,Clay,Outdoor,28,ATP250
+2013-407,Rotterdam,Hard,Indoor,32,ATP500
+2013-403,Miami Masters,Hard,,96,
+2013-402,Memphis,Hard,Indoor,32,ATP500
+2013-560,US Open,Hard,Outdoor,128,Grand Slam
+2013-321,Stuttgart,Clay,Outdoor,28,ATP250
+2013-807,Acapulco,Clay,Outdoor,32,ATP500
+2013-773,Bucharest,Clay,Outdoor,28,ATP250
+2013-6718,Bogota,Hard,Outdoor,28,ATP250
+2013-573,Valencia,Hard,Indoor,32,ATP500
+2013-360,Casablanca,Clay,Outdoor,28,ATP250
+2013-747,Beijing,Hard,Outdoor,32,ATP500
+2013-311,Queen's Club,Grass,,56,
+2013-580,Australian Open,Hard,Outdoor,128,Grand Slam
+2013-439,Umag,Clay,Outdoor,28,ATP250
+2013-505,Santiago,Clay,,28,
+2013-375,Montpellier,Hard,Indoor,28,ATP250
+2013-404,Indian Wells Masters,Hard,,96,
+2013-6003,Kuala Lumpur,Hard,Indoor,28,ATP250
+2013-438,Moscow,Hard,Indoor,28,ATP250
+2013-339,Brisbane,Hard,Outdoor,28,ATP250
+2013-1536,Madrid Masters,Clay,,56,
+2013-308,Munich,Clay,Outdoor,28,ATP250
+2013-341,Metz,Hard,,28,
+2013-451,Doha,Hard,Outdoor,32,ATP250
+2013-6116,Atlanta,Hard,Outdoor,28,ATP250
+2013-568,St. Petersburg,Hard,Indoor,32,ATP250
+2013-418,Washington,Hard,Outdoor,48,ATP500
+2013-301,Auckland,Hard,Outdoor,28,ATP250
+2013-421,Canada Masters,Hard,,56,
+2013-520,Roland Garros,Clay,,128,
+2013-352,Paris Masters,Hard,,48,
+2013-410,Monte Carlo Masters,Clay,,56,
+2013-605,Tour Finals,Hard,,8,
+2013-6406,ATP Challenger Tour Finals CH,Clay,,8,
+2013-D001,Davis Cup WG R1: CAN vs ESP,Hard,,4,
+2013-D002,Davis Cup WG R1: ITA vs CRO,Clay,,4,
+2013-D003,Davis Cup WG R1: BEL vs SRB,Clay,,4,
+2013-D004,Davis Cup WG R1: USA vs BRA,Hard,,4,
+2013-D005,Davis Cup WG R1: FRA vs ISR,Hard,,4,
+2013-D006,Davis Cup WG R1: ARG vs GER,Clay,,4,
+2013-D007,Davis Cup WG R1: KAZ vs AUT,Clay,,4,
+2013-D008,Davis Cup WG R1: SUI vs CZE,Hard,,4,
+2013-D009,Davis Cup WG QF: CAN vs ITA,Hard,,4,
+2013-D010,Davis Cup WG QF: USA vs SRB,Hard,,4,
+2013-D011,Davis Cup WG QF: ARG vs FRA,Clay,,4,
+2013-D012,Davis Cup WG QF: KAZ vs CZE,Clay,,4,
+2013-D013,Davis Cup WG SF: SRB vs CAN,Clay,,4,
+2013-D014,Davis Cup WG SF: CZE vs ARG,Hard,,4,
+2013-D015,Davis Cup WG F: SRB vs CZE,Hard,,4,
+2013-D016,Davis Cup G1 R1: URU vs DOM,Clay,,4,
+2013-D017,Davis Cup G1 R2: ECU vs CHI,Hard,,4,
+2013-D018,Davis Cup G1 R2: COL vs URU,Hard,,4,
+2013-D019,Davis Cup G2 R1: MEX vs PUR,Hard,,4,
+2013-D020,Davis Cup G2 R1: ESA vs BAR,Clay,,4,
+2013-D021,Davis Cup G2 R1: VEN vs GUA,Hard,,4,
+2013-D022,Davis Cup G2 R1: PER vs HAI,Clay,,4,
+2013-D023,Davis Cup G1 R1: POL vs SLO,Hard,,4,
+2013-D024,Davis Cup G1 R1: ROU vs DEN,Hard,,4,
+2013-D025,Davis Cup G1 R1: UKR vs SVK,Hard,,4,
+2013-D026,Davis Cup G1 R2: GBR vs RUS,Hard,,4,
+2013-D027,Davis Cup G1 R2: POL vs RSA,Hard,,4,
+2013-D028,Davis Cup G1 R2: ROU vs NED,Hard,,4,
+2013-D029,Davis Cup G1 R2: UKR vs SWE,Hard,,4,
+2013-D030,Davis Cup G2 R1: NZL vs LIB,Hard,,4,
+2013-D031,Davis Cup G2 R1: SRI vs PAK,Clay,,4,
+2013-D032,Davis Cup G2 R1: KUW vs THA,Hard,,4,
+2013-D033,Davis Cup G2 R1: PHI vs SYR,Clay,,4,
+2013-D034,Davis Cup G2 R2: PAK vs NZL,Grass,,4,
+2013-D035,Davis Cup G2 R2: PHI vs THA,Clay,,4,
+2013-D036,Davis Cup G2 R3: PHI vs NZL,Clay,,4,
+2013-D037,Davis Cup G2 R2: ESA vs MEX,Hard,,4,
+2013-D038,Davis Cup G2 R2: PER vs VEN,Clay,,4,
+2013-D039,Davis Cup G2 R3: ESA vs VEN,Hard,,4,
+2013-D040,Davis Cup G1 PO: DOM vs CHI,Hard,,4,
+2013-D041,Davis Cup G1 PO: SLO vs RSA,Clay,,4,
+2013-D042,Davis Cup G1 PO: SVK vs SWE,Hard,,4,
+2013-D043,Davis Cup G2 PO: BAR vs PUR,Hard,,4,
+2013-D044,Davis Cup G2 PO: GUA vs HAI,Hard,,4,
+2013-D045,Davis Cup G2 PO: LIB vs SRI,Clay,,4,
+2013-D046,Davis Cup G2 PO: KUW vs SYR,Hard,,4,
+2013-D047,Davis Cup G2 R1: BUL vs FIN,Hard,,4,
+2013-D048,Davis Cup G2 R1: IRL vs EST,Hard,,4,
+2013-D049,Davis Cup G2 R1: TUN vs LAT,Hard,,4,
+2013-D050,Davis Cup G2 R1: MON vs BLR,Clay,,4,
+2013-D051,Davis Cup G2 R1: MDA vs HUN,Hard,,4,
+2013-D052,Davis Cup G2 R1: BIH vs LUX,Hard,,4,
+2013-D053,Davis Cup G2 R1: LTU vs CYP,Hard,,4,
+2013-D054,Davis Cup G2 R1: POR vs BEN,Clay,,4,
+2013-D055,Davis Cup G2 R2: IRL vs FIN,Hard,,4,
+2013-D056,Davis Cup G2 R2: MON vs LAT,Clay,,4,
+2013-D057,Davis Cup G2 R2: BIH vs MDA,Clay,,4,
+2013-D058,Davis Cup G2 R2: POR vs LTU,Clay,,4,
+2013-D059,Davis Cup G2 R3: LAT vs FIN,Hard,,4,
+2013-D060,Davis Cup G2 R3: MDA vs POR,Hard,,4,
+2013-D061,Davis Cup G2 PO: BUL vs EST,Clay,,4,
+2013-D062,Davis Cup G2 PO: TUN vs BLR,Clay,,4,
+2013-D063,Davis Cup G2 PO: HUN vs LUX,Hard,,4,
+2013-D064,Davis Cup G2 PO: CYP vs BEN,Hard,,4,
+2013-D065,Davis Cup G1 R1: TPE vs AUS,Hard,,4,
+2013-D066,Davis Cup G1 R1: UZB vs CHN,Clay,,4,
+2013-D067,Davis Cup G1 R1: IND vs KOR,Hard,,4,
+2013-D068,Davis Cup G1 R1: JPN vs INA,Hard,,4,
+2013-D069,Davis Cup G1 R2: UZB vs AUS,Clay,,4,
+2013-D070,Davis Cup G1 R2: JPN vs KOR,Hard,,4,
+2013-D071,Davis Cup G1 PO: CHN vs TPE,Hard,,4,
+2013-D072,Davis Cup G1 PO: IND vs INA,Hard,,4,
+2013-D073,Davis Cup G1 PO: TPE vs INA,Hard,,4,
+2013-D074,Davis Cup WG PO: ESP vs UKR,Clay,,4,
+2013-D075,Davis Cup WG PO: NED vs AUT,Clay,,4,
+2013-D076,Davis Cup WG PO: CRO vs GBR,Clay,,4,
+2013-D077,Davis Cup WG PO: SUI vs ECU,Hard,,4,
+2013-D078,Davis Cup WG PO: GER vs BRA,Hard,,4,
+2013-D079,Davis Cup WG PO: POL vs AUS,Clay,,4,
+2013-D080,Davis Cup WG PO: BEL vs ISR,Clay,,4,
+2013-D081,Davis Cup WG PO: JPN vs COL,Hard,,4,
+2013-D082,Davis Cup G1 PO: RUS vs RSA,Hard,,4,
+2014-301,Auckland,Hard,Outdoor,28,ATP250
+2014-403,Miami Masters,Hard,,96,
+2014-421,Canada Masters,Hard,,56,
+2014-500,Halle,Grass,Outdoor,28,ATP250
+2014-506,Buenos Aires,Clay,Outdoor,32,ATP250
+2014-416,Rome Masters,Clay,,56,
+2014-451,Doha,Hard,Outdoor,32,ATP250
+2014-321,Stuttgart,Clay,Outdoor,28,ATP250
+2014-6718,Bogota,Hard,Outdoor,28,ATP250
+2014-505,Vina del Mar,Clay,Outdoor,28,ATP250
+2014-337,Vienna,Hard,Indoor,28,ATP250
+2014-533,Sao Paulo,Clay,Indoor,28,ATP250
+2014-6967,Shenzhen,Hard,,28,
+2014-747,Beijing,Hard,,32,
+2014-360,Casablanca,Clay,Outdoor,28,ATP250
+2014-741,Eastbourne,Grass,Outdoor,28,ATP250
+2014-425,Barcelona,Clay,Outdoor,48,ATP500
+2014-414,Hamburg,Clay,Outdoor,48,ATP500
+2014-422,Cincinnati Masters,Hard,,56,
+2014-495,Dubai,Hard,,32,
+2014-316,Bastad,Clay,Outdoor,28,ATP250
+2014-438,Moscow,Hard,Indoor,28,ATP250
+2014-319,Kitzbuhel,Clay,Outdoor,28,ATP250
+2014-410,Monte Carlo Masters,Clay,Outdoor,56,Masters 1000
+2014-496,Marseille,Hard,Indoor,28,ATP250
+2014-468,Estoril,Clay,,28,
+2014-6120,Nice,Clay,Outdoor,28,ATP250
+2014-580,Australian Open,Hard,Outdoor,128,Grand Slam
+2014-339,Brisbane,Hard,Outdoor,28,ATP250
+2014-807,Acapulco,Hard,Outdoor,32,ATP500
+2014-573,Valencia,Hard,Indoor,32,ATP500
+2014-404,Indian Wells Masters,Hard,,96,
+2014-891,Chennai,Hard,Outdoor,28,ATP250
+2014-439,Umag,Clay,Outdoor,28,ATP250
+2014-5014,Shanghai Masters,Hard,Outdoor,56,Masters 1000
+2014-402,Memphis,Hard,Indoor,28,ATP250
+2014-6116,Atlanta,Hard,Outdoor,28,ATP250
+2014-499,Delray Beach,Hard,Outdoor,32,ATP250
+2014-338,Sydney,Hard,Outdoor,28,ATP250
+2014-407,Rotterdam,Hard,Indoor,32,ATP500
+2014-717,Houston,Clay,Outdoor,28,ATP250
+2014-311,Queen's Club,Grass,,56,
+2014-6932,Rio de Janeiro,Clay,,32,
+2014-375,Montpellier,Hard,Indoor,28,ATP250
+2014-328,Basel,Hard,Indoor,32,ATP500
+2014-329,Tokyo,Hard,Outdoor,32,ATP500
+2014-2276,Zagreb,Hard,Indoor,28,ATP250
+2014-308,Munich,Clay,Outdoor,28,ATP250
+2014-315,Newport,Grass,Outdoor,32,ATP250
+2014-6710,Dusseldorf,Clay,Outdoor,28,ATP250
+2014-773,Bucharest,Clay,Outdoor,28,ATP250
+2014-520,Roland Garros,Clay,,128,
+2014-540,Wimbledon,Grass,Outdoor,128,Grand Slam
+2014-1536,Madrid Masters,Clay,,56,
+2014-314,Gstaad,Clay,Outdoor,28,ATP250
+2014-429,Stockholm,Hard,Indoor,28,ATP250
+2014-6003,Kuala Lumpur,Hard,Indoor,28,ATP250
+2014-418,Washington,Hard,Outdoor,48,ATP500
+2014-560,US Open,Hard,Outdoor,128,Grand Slam
+2014-6242,Winston-Salem,Hard,Outdoor,48,ATP250
+2014-352,Paris Masters,Hard,,48,
+2014-341,Metz,Hard,,28,
+2014-440,s-Hertogenbosch,Grass,,32,
+2014-605,Tour Finals,Hard,,8,
+2014-D001,Davis Cup WG R1: CZE vs NED,,,4,
+2014-D002,Davis Cup WG R1: JPN vs CAN,,,4,
+2014-D003,Davis Cup WG R1: GER vs ESP,,,4,
+2014-D004,Davis Cup WG R1: FRA vs AUS,,,4,
+2014-D005,Davis Cup WG R1: USA vs GBR,,,4,
+2014-D006,Davis Cup WG R1: ARG vs ITA,,,4,
+2014-D007,Davis Cup WG R1: KAZ vs BEL,,,4,
+2014-D008,Davis Cup WG R1: SRB vs SUI,,,4,
+2014-D009,Davis Cup WG QF: JPN vs CZE,Hard,,4,
+2014-D010,Davis Cup WG QF: FRA vs GER,Hard,,4,
+2014-D011,Davis Cup WG QF: ITA vs GBR,Clay,,4,
+2014-D012,Davis Cup WG QF: SUI vs KAZ,Hard,,4,
+2014-D013,Davis Cup WG SF: FRA vs CZE,Clay,,4,
+2014-D014,Davis Cup WG SF: SUI vs ITA,Hard,,4,
+2014-D015,Davis Cup WG F: FRA vs SUI,Clay,,4,
+2014-D016,Davis Cup WG PO: IND vs SRB,Hard,,4,
+2014-D017,Davis Cup WG PO: BRA vs ESP,Clay,,4,
+2014-D018,Davis Cup WG PO: ISR vs ARG,Hard,,4,
+2014-D019,Davis Cup WG PO: CAN vs COL,Hard,,4,
+2014-D020,Davis Cup WG PO: USA vs SVK,Hard,,4,
+2014-D021,Davis Cup WG PO: AUS vs UZB,Grass,,4,
+2014-D022,Davis Cup WG PO: NED vs CRO,Clay,,4,
+2014-D023,Davis Cup WG PO: UKR vs BEL,Hard,,4,
+2014-D024,Davis Cup G2 R1: BAR vs CHI,,,4,
+2014-D025,Davis Cup G2 R1: PAR vs ESA,,,4,
+2014-D026,Davis Cup G2 R1: BOL vs PER,,,4,
+2014-D027,Davis Cup G2 R1: GUA vs MEX,,,4,
+2014-D028,Davis Cup G1 R1: ECU vs VEN,,,4,
+2014-D029,Davis Cup G1 R1: DOM vs URU,,,4,
+2014-D030,Davis Cup G1 R2: ECU vs BRA,Clay,,4,
+2014-D031,Davis Cup G1 R2: COL vs DOM,Clay,,4,
+2014-D032,Davis Cup G1 R1: CHN vs NZL,,,4,
+2014-D033,Davis Cup G1 R1: IND vs TPE,,,4,
+2014-D034,Davis Cup G1 R2: CHN vs UZB,Hard,,4,
+2014-D035,Davis Cup G1 R2: KOR vs IND,Hard,,4,
+2014-D036,Davis Cup G2 R2: BAR vs ESA,Hard,,4,
+2014-D037,Davis Cup G2 R2: MEX vs PER,Hard,,4,
+2014-D038,Davis Cup G2 R3: BAR vs MEX,Hard,,4,
+2014-D039,Davis Cup G2 PO: CHI vs PAR,Clay,,4,
+2014-D040,Davis Cup G2 PO: BOL vs GUA,Clay,,4,
+2014-D041,Davis Cup G1 PO: TPE vs KOR,Hard,,4,
+2014-D042,Davis Cup G1 PO: VEN vs URU,Hard,,4,
+2014-D043,Davis Cup G2 R1: SRI vs PHI,,,4,
+2014-D044,Davis Cup G2 R1: VIE vs PAK,Hard,,4,
+2014-D045,Davis Cup G2 R1: THA vs HKG,Hard,,4,
+2014-D046,Davis Cup G2 R1: KUW vs INA,,,4,
+2014-D047,Davis Cup G2 R2: PHI vs PAK,Clay,,4,
+2014-D048,Davis Cup G2 R2: THA vs KUW,Hard,,4,
+2014-D049,Davis Cup G2 R3: THA vs PAK,Hard,,4,
+2014-D050,Davis Cup G2 PO: VIE vs SRI,Hard,,4,
+2014-D051,Davis Cup G2 PO: INA vs HKG,Hard,,4,
+2014-D052,Davis Cup G1 R1: RUS vs POL,,,4,
+2014-D053,Davis Cup G1 R1: SLO vs POR,,,4,
+2014-D054,Davis Cup G1 R1: UKR vs ROU,,,4,
+2014-D055,Davis Cup G1 R1: SVK vs LAT,,,4,
+2014-D056,Davis Cup G1 R2: POL vs CRO,Hard,,4,
+2014-D057,Davis Cup G1 R2: SLO vs ISR,Clay,,4,
+2014-D058,Davis Cup G1 R2: SVK vs AUT,Hard,,4,
+2014-D059,Davis Cup G1 PO: ROU vs SWE,Clay,,4,
+2014-D060,Davis Cup G1 PO: LAT vs AUT,Hard,,4,
+2014-D061,Davis Cup G1 PO: RUS vs POR,Hard,,4,
+2014-D062,Davis Cup G2 R1: RSA vs MON,,,4,
+2014-D063,Davis Cup G2 R1: NOR vs LTU,,,4,
+2014-D064,Davis Cup G2 R1: FIN vs BUL,,,4,
+2014-D065,Davis Cup G2 R1: BIH vs GRE,,,4,
+2014-D066,Davis Cup G2 R1: BLR vs IRL,,,4,
+2014-D067,Davis Cup G2 R1: MDA vs EGY,,,4,
+2014-D068,Davis Cup G2 R1: MAR vs LUX,,,4,
+2014-D069,Davis Cup G2 R1: DEN vs CYP,,,4,
+2014-D070,Davis Cup G2 R2: RSA vs LTU,Hard,,4,
+2014-D071,Davis Cup G2 R2: FIN vs BIH,Hard,,4,
+2014-D072,Davis Cup G2 R2: MDA vs BLR,Clay,,4,
+2014-D073,Davis Cup G2 R2: DEN vs LUX,Hard,,4,
+2014-D074,Davis Cup G2 R3: BIH vs LTU,Hard,,4,
+2014-D075,Davis Cup G2 R3: DEN vs MDA,,,4,
+2014-D076,Davis Cup G2 PO: NOR vs MON,Hard,,4,
+2014-D077,Davis Cup G2 PO: GRE vs BUL,Clay,,4,
+2014-D078,Davis Cup G2 PO: IRL vs EGY,Hard,,4,
+2014-D079,Davis Cup G2 PO: MAR vs CYP,Clay,,4,
+2015-329,Tokyo,Hard,Outdoor,32,ATP500
+2015-429,Stockholm,Hard,Indoor,28,ATP250
+2015-439,Umag,Clay,Outdoor,28,ATP250
+2015-422,Cincinnati Masters,Hard,,56,
+2015-5014,Shanghai Masters,Hard,Outdoor,56,Masters 1000
+2015-352,Paris Masters,Hard,,48,
+2015-425,Barcelona,Clay,,48,
+2015-7163,Istanbul,Clay,Outdoor,28,ATP250
+2015-540,Wimbledon,Grass,Outdoor,128,Grand Slam
+2015-7161,Quito,Clay,Outdoor,28,ATP250
+2015-421,Canada Masters,Hard,,56,
+2015-6003,Kuala Lumpur,Hard,Indoor,28,ATP250
+2015-6120,Nice,Clay,Outdoor,28,ATP250
+2015-407,Rotterdam,Hard,Indoor,32,ATP500
+2015-891,Chennai,Hard,Outdoor,28,ATP250
+2015-404,Indian Wells Masters,Hard,,96,
+2015-403,Miami Masters,Hard,,96,
+2015-402,Memphis,Hard,Indoor,28,ATP250
+2015-339,Brisbane,Hard,Outdoor,28,ATP250
+2015-338,Sydney,Hard,Outdoor,28,ATP250
+2015-6718,Bogota,Hard,Outdoor,28,ATP250
+2015-440,s-Hertogenbosch,Grass,,28,
+2015-500,Halle,Grass,Outdoor,32,ATP500
+2015-495,Dubai,Hard,,32,
+2015-560,US Open,Hard,Outdoor,128,Grand Slam
+2015-6967,Shenzhen,Hard,,28,
+2015-773,Bucharest,Clay,Outdoor,28,ATP250
+2015-337,Vienna,Hard,,32,
+2015-311,London,Grass,,32,
+2015-6932,Rio de Janeiro,Clay,Outdoor,32,ATP500
+2015-315,Newport,Grass,Outdoor,32,ATP250
+2015-314,Gstaad,Clay,Outdoor,28,ATP250
+2015-741,Nottingham,Grass,Outdoor,48,ATP500
+2015-319,Kitzbuhel,Clay,,28,
+2015-580,Australian Open,Hard,Outdoor,128,Grand Slam
+2015-316,Bastad,Clay,Outdoor,28,ATP250
+2015-506,Buenos Aires,Clay,Outdoor,28,ATP250
+2015-807,Acapulco,Hard,Outdoor,32,ATP500
+2015-573,Valencia,Hard,Indoor,28,ATP500
+2015-6242,Winston-Salem,Hard,Outdoor,48,ATP250
+2015-2276,Zagreb,Hard,Indoor,28,ATP250
+2015-308,Munich,Clay,Outdoor,28,ATP250
+2015-418,Washington,Hard,Outdoor,48,ATP500
+2015-6116,Atlanta,Hard,Outdoor,28,ATP250
+2015-414,Hamburg,Clay,Outdoor,32,ATP500
+2015-1536,Madrid Masters,Clay,,56,
+2015-416,Rome Masters,Clay,,56,
+2015-375,Montpellier,Hard,Indoor,28,ATP250
+2015-410,Monte Carlo Masters,Clay,,56,
+2015-533,Sao Paulo,Clay,Indoor,28,ATP250
+2015-451,Doha,Hard,Outdoor,32,ATP250
+2015-360,Casablanca,Clay,Outdoor,28,ATP250
+2015-438,Moscow,Hard,Indoor,28,ATP250
+2015-341,Metz,Hard,Indoor,28,ATP250
+2015-717,Houston,Clay,Outdoor,28,ATP250
+2015-301,Auckland,Hard,Outdoor,28,ATP250
+2015-496,Marseille,Hard,Indoor,28,ATP250
+2015-322,Geneva,Clay,Outdoor,28,ATP250
+2015-321,Stuttgart,Grass,Outdoor,28,ATP250
+2015-7290,Estoril,Clay,Outdoor,28,ATP250
+2015-568,St. Petersburg,Hard,Indoor,28,ATP250
+2015-747,Beijing,Hard,Outdoor,32,ATP500
+2015-499,Delray Beach,Hard,Outdoor,32,ATP250
+2015-328,Basel,Hard,Indoor,32,ATP500
+2015-520,Roland Garros,Clay,,128,
+2015-605,Tour Finals,Hard,,8,
+2015-6406,Challenger Tour Finals,Clay,,8,
+2015-D001,Davis Cup WG R1: GER vs FRA,Hard,,4,
+2015-D002,Davis Cup WG R1: GBR vs USA,Hard,,4,
+2015-D003,Davis Cup WG R1: CZE vs AUS,Hard,,4,
+2015-D004,Davis Cup WG R1: KAZ vs ITA,Hard,,4,
+2015-D005,Davis Cup WG R1: ARG vs BRA,Clay,,4,
+2015-D006,Davis Cup WG R1: SRB vs CRO,Hard,,4,
+2015-D007,Davis Cup WG R1: CAN vs JPN,Hard,,4,
+2015-D008,Davis Cup WG R1: BEL vs SUI,Hard,,4,
+2015-D009,Davis Cup WG QF: GBR vs FRA,Grass,,4,
+2015-D010,Davis Cup WG QF: AUS vs KAZ,Grass,,4,
+2015-D011,Davis Cup WG QF: ARG vs SRB,Clay,,4,
+2015-D012,Davis Cup WG QF: BEL vs CAN,Clay,,4,
+2015-D013,Davis Cup WG SF: GBR vs AUS,Hard,,4,
+2015-D014,Davis Cup WG SF: BEL vs ARG,Hard,,4,
+2015-D015,Davis Cup WG F: BEL vs GBR,Clay,,4,
+2015-D016,Davis Cup G1 R1: BAR vs DOM,Hard,,4,
+2015-D017,Davis Cup G1 R2: URU vs COL,Clay,,4,
+2015-D018,Davis Cup G1 R2: DOM vs ECU,Clay,,4,
+2015-D019,Davis Cup G1 PO: BAR vs ECU,Hard,,4,
+2015-D020,Davis Cup G1 R1: THA vs KOR,Hard,,4,
+2015-D021,Davis Cup G1 R1: NZL vs CHN,Hard,,4,
+2015-D022,Davis Cup G1 R2: UZB vs KOR,Clay,,4,
+2015-D023,Davis Cup G1 R2: NZL vs IND,Hard,,4,
+2015-D024,Davis Cup G1 R1: RUS vs DEN,Hard,,4,
+2015-D025,Davis Cup G1 R1: SWE vs AUT,Hard,,4,
+2015-D026,Davis Cup G1 R1: SVK vs SLO,Hard,,4,
+2015-D027,Davis Cup G1 R1: ROU vs ISR,Hard,,4,
+2015-D028,Davis Cup G1 R1: POL vs LTU,Hard,,4,
+2015-D029,Davis Cup G1 R2: RUS vs ESP,Hard,,4,
+2015-D030,Davis Cup G1 R2: AUT vs NED,Clay,,4,
+2015-D031,Davis Cup G1 R2: ROU vs SVK,Clay,,4,
+2015-D032,Davis Cup G1 R2: POL vs UKR,Hard,,4,
+2015-D033,Davis Cup G1 PO: DEN vs ESP,Hard,,4,
+2015-D034,Davis Cup G1 PO: ISR vs SLO,Hard,,4,
+2015-D035,Davis Cup G1 PO: LTU vs UKR,Hard,,4,
+2015-D036,Davis Cup G2 R1: VEN vs CRC,Hard,,4,
+2015-D037,Davis Cup G2 R1: PUR vs ESA,Hard,,4,
+2015-D038,Davis Cup G2 R1: MEX vs BOL,Hard,,4,
+2015-D039,Davis Cup G2 R1: CHI vs PER,Clay,,4,
+2015-D040,Davis Cup G2 R2: VEN vs ESA,Hard,,4,
+2015-D041,Davis Cup G2 R2: CHI vs MEX,Clay,,4,
+2015-D042,Davis Cup G2 R3: CHI vs VEN,Clay,,4,
+2015-D043,Davis Cup G2 R1: TPE vs LIB,Hard,,4,
+2015-D044,Davis Cup G2 R1: PHI vs SRI,Clay,,4,
+2015-D045,Davis Cup G2 R1: INA vs IRI,Hard,,4,
+2015-D046,Davis Cup G2 R1: PAK vs KUW,Clay,,4,
+2015-D047,Davis Cup G2 R2: TPE vs PHI,Hard,,4,
+2015-D048,Davis Cup G2 R2: INA vs PAK,Hard,,4,
+2015-D049,Davis Cup G2 R3: PAK vs TPE,Hard,,4,
+2015-D050,Davis Cup G2 R1: TUR vs RSA,Hard,,4,
+2015-D051,Davis Cup G2 R1: IRL vs BLR,Hard,,4,
+2015-D052,Davis Cup G2 R1: POR vs MAR,Hard,,4,
+2015-D053,Davis Cup G2 R1: MON vs FIN,Clay,,4,
+2015-D054,Davis Cup G2 R1: ZIM vs BIH,Hard,,4,
+2015-D055,Davis Cup G2 R1: HUN vs MDA,Hard,,4,
+2015-D056,Davis Cup G2 R1: LUX vs MAD,Hard,,4,
+2015-D057,Davis Cup G2 R1: LAT vs BUL,Hard,,4,
+2015-D058,Davis Cup G2 R2: TUR vs BLR,Hard,,4,
+2015-D059,Davis Cup G2 R2: POR vs FIN,Clay,,4,
+2015-D060,Davis Cup G2 R2: HUN vs BIH,Clay,,4,
+2015-D061,Davis Cup G2 R2: LUX vs BUL,Clay,,4,
+2015-D062,Davis Cup G2 R3: POR vs BLR,Clay,,4,
+2015-D063,Davis Cup G2 R3: BUL vs HUN,Clay,,4,
+2015-D064,Davis Cup G2 PO: RSA vs IRL,Hard,,4,
+2015-D065,Davis Cup G2 PO: MON vs MAR,Clay,,4,
+2015-D066,Davis Cup G2 PO: ZIM vs MDA,Hard,,4,
+2015-D067,Davis Cup G2 PO: LAT vs MAD,Clay,,4,
+2015-D068,Davis Cup G2 PO: SRI vs LIB,Clay,,4,
+2015-D069,Davis Cup G2 PO: IRI vs KUW,Clay,,4,
+2015-D070,Davis Cup G2 PO: PUR vs CRC,Hard,,4,
+2015-D071,Davis Cup G2 PO: PER vs BOL,Clay,,4,
+2015-D072,Davis Cup G1 PO: BAR vs URU,Hard,,4,
+2015-D073,Davis Cup G1 PO: THA vs CHN,Hard,,4,
+2015-D074,Davis Cup WG PO: IND vs CZE,Hard,,4,
+2015-D075,Davis Cup WG PO: SUI vs NED,Hard,,4,
+2015-D076,Davis Cup WG PO: RUS vs ITA,Hard,,4,
+2015-D077,Davis Cup WG PO: UZB vs USA,Clay,,4,
+2015-D078,Davis Cup WG PO: COL vs JPN,Clay,,4,
+2015-D079,Davis Cup WG PO: DOM vs GER,Hard,,4,
+2015-D080,Davis Cup WG PO: BRA vs CRO,Clay,,4,
+2015-D081,Davis Cup WG PO: POL vs SVK,Hard,,4,
+2016-M020,Brisbane,Hard,Outdoor,32,ATP250
+2016-0891,Chennai,Hard,Outdoor,32,ATP250
+2016-0451,Doha,Hard,Outdoor,32,ATP250
+2016-0301,Auckland,Hard,Outdoor,32,ATP250
+2016-M001,Sydney,Hard,Outdoor,32,ATP250
+2016-580,Australian Open,Hard,Outdoor,128,Grand Slam
+2016-0375,Montpellier,Hard,Indoor,32,ATP250
+2016-7161,Quito,Clay,Outdoor,32,ATP250
+2016-7434,Sofia,Hard,Indoor,32,ATP250
+2016-0506,Buenos Aires,Clay,Outdoor,32,ATP250
+2016-0402,Memphis,Hard,Indoor,32,ATP250
+2016-0407,Rotterdam,Hard,Indoor,32,ATP500
+2016-0499,Delray Beach,Hard,Outdoor,32,ATP250
+2016-0496,Marseille,Hard,Indoor,32,ATP250
+2016-M052,Rio de Janeiro,Clay,Outdoor,32,ATP500
+2016-M004,Acapulco,Hard,Outdoor,32,ATP500
+2016-0495,Dubai,Hard,,32,
+2016-0533,Sao Paulo,Clay,,32,
+2016-M006,Indian Wells Masters,Hard,,128,
+2016-M007,Miami Masters,Hard,,128,
+2016-0717,Houston,Clay,Outdoor,32,ATP250
+2016-0360,Marrakech,Clay,Outdoor,32,ATP250
+2016-0410,Monte Carlo Masters,Clay,Outdoor,64,Masters 1000
+2016-0425,Barcelona,Clay,Outdoor,64,ATP500
+2016-0773,Bucharest,Clay,Outdoor,32,ATP250
+2016-7290,Estoril,Clay,Outdoor,32,ATP250
+2016-7163,Istanbul,Clay,Outdoor,32,ATP250
+2016-0308,Munich,Clay,Outdoor,32,ATP250
+2016-M021,Madrid Masters,Clay,,64,
+2016-M009,Rome Masters,Clay,,64,
+2016-0322,Geneva,Clay,Outdoor,32,ATP250
+2016-6120,Nice,Clay,Outdoor,32,ATP250
+2016-520,Roland Garros,Clay,,128,
+2016-M010,s-Hertogenbosch,Grass,,32,
+2016-0321,Stuttgart,Grass,Outdoor,32,ATP250
+2016-0500,Halle,Grass,Outdoor,32,ATP500
+2016-0311,London,Grass,Indoor,32,Masters Cup
+2016-0741,Nottingham,Grass,Outdoor,64,ATP500
+2016-540,Wimbledon,Grass,Outdoor,128,Grand Slam
+2016-0316,Bastad,Clay,,32,
+2016-0414,Hamburg,Clay,Outdoor,32,ATP500
+2016-0315,Newport,Grass,Outdoor,32,ATP250
+2016-0314,Gstaad,Clay,Outdoor,32,ATP250
+2016-0319,Kitzbuhel,Clay,Outdoor,32,ATP250
+2016-0439,Umag,Clay,Outdoor,32,ATP250
+2016-M035,Washington,Hard,Outdoor,64,ATP500
+2016-0421,Canada Masters,Hard,,64,
+2016-6116,Atlanta,Hard,Outdoor,32,ATP250
+2016-7480,Los Cabos,Hard,Outdoor,32,ATP250
+2016-O16,Olympics,Hard,,64,
+<<<<<<< HEAD
+=======
+,,,,,
+>>>>>>> a400c4f3afa41651994afaf786d31ed077dfbd09
+2016-M024,Cincinnati Masters,Hard,,64,
+2016-6242,Winston-Salem,Hard,Outdoor,64,ATP250
+2016-560,Us Open,Hard,,128,
+2016-0341,Metz,Hard,Indoor,32,ATP250
+2016-7581,Chengdu,Hard,,32,
+2016-6967,Shenzhen,Hard,,32,
+2016-0568,St.Petersburg,Hard,,32,
+2016-M015,Beijing,Hard,Outdoor,32,ATP500
+2016-0329,Tokyo,Hard,Outdoor,32,ATP500
+2016-5014,Shanghai Masters,Hard,Outdoor,64,Masters 1000
+2016-7485,Antwerp,Hard,Indoor,32,ATP250
+2016-M014,Moscow,Hard,Indoor,32,ATP250
+2016-0429,Stockholm,Hard,Indoor,32,ATP250
+2016-0328,Basel,Hard,Indoor,32,ATP500
+2016-0337,Vienna,Hard,Indoor,32,ATP500
+2016-0352,Paris Masters,Hard,,64,
+2016-0605,London,Hard,Indoor,8,Masters Cup
+2016-M-DC-2016-G1-AM-M-BAR-ECU-01,Davis Cup G1 R1: BAR vs ECU,Clay,,4,
+2016-M-DC-2016-G1-AM-M-BRA-ECU-01,Davis Cup G1 R2: BRA vs ECU,Hard,,4,
+2016-M-DC-2016-G1-AM-M-CHI-COL-01,Davis Cup G1 R2: CHI vs COL,Clay,,4,
+2016-M-DC-2016-G1-AM-M-CHI-DOM-01,Davis Cup G1 R1: CHI vs DOM,Clay,,4,
+2016-M-DC-2016-G1-AO-M-CHN-UZB-01,Davis Cup G1 R2: CHN vs UZB,Clay,,4,
+2016-M-DC-2016-G1-AO-M-IND-KOR-01,Davis Cup G1 R2: IND vs KOR,Grass,,4,
+2016-M-DC-2016-G1-AO-M-NZL-KOR-01,Davis Cup G1 R1: NZL vs KOR,Hard,,4,
+2016-M-DC-2016-G1-AO-M-PAK-CHN-01,Davis Cup G1 R1: PAK vs CHN,Clay,,4,
+2016-M-DC-2016-G1-EPA-M-ESP-ROU-01,Davis Cup G1 R2: ESP vs ROU,Hard,,4,
+2016-M-DC-2016-G1-EPA-M-HUN-ISR-01,Davis Cup G1 R1: HUN vs ISR,Clay,,4,
+2016-M-DC-2016-G1-EPA-M-HUN-SVK-01,Davis Cup G1 R2: HUN vs SVK,Clay,,4,
+2016-M-DC-2016-G1-EPA-M-POR-AUT-01,Davis Cup G1 R1: POR vs AUT,Hard,,4,
+2016-M-DC-2016-G1-EPA-M-ROU-SLO-01,Davis Cup G1 R1: ROU vs SLO,Hard,,4,
+2016-M-DC-2016-G1-EPA-M-RUS-NED-01,Davis Cup G1 R2: RUS vs NED,Hard,,4,
+2016-M-DC-2016-G1-EPA-M-RUS-SWE-01,Davis Cup G1 R1: RUS vs SWE,Hard,,4,
+2016-M-DC-2016-G1-EPA-M-UKR-AUT-01,Davis Cup G1 R2: UKR vs AUT,Hard,,4,
+2016-M-DC-2016-G2-AM-M-ESA-VEN-01,Davis Cup G2 R2: ESA vs VEN,Hard,,4,
+2016-M-DC-2016-G2-AM-M-MEX-GUA-01,Davis Cup G2 R1: MEX vs GUA,Hard,,4,
+2016-M-DC-2016-G2-AM-M-PAR-VEN-01,Davis Cup G2 R1: PAR vs VEN,Hard,,4,
+2016-M-DC-2016-G2-AM-M-PER-MEX,Davis Cup G2 R2: PER vs MEX,Clay,,4,
+2016-M-DC-2016-G2-AM-M-PER-VEN-01,Davis Cup G2 R3: PER vs VEN,Clay,,4,
+2016-M-DC-2016-G2-AM-M-PUR-ESA-01,Davis Cup G2 R1: PUR vs ESA,Hard,,4,
+2016-M-DC-2016-G2-AM-M-URU-PER-01,Davis Cup G2 R1: URU vs PER,Clay,,4,
+2016-M-DC-2016-G2-AO-M-PHI-KUW-01,Davis Cup G2 R1: PHI vs KUW,Clay,,4,
+2016-M-DC-2016-G2-AO-M-SRI-THA-01,Davis Cup G2 R1: SRI vs THA,Hard,,4,
+2016-M-DC-2016-G2-AO-M-TPE-MAS-01,Davis Cup G2 R1: TPE vs MAS,Hard,,4,
+2016-M-DC-2016-G2-AO-M-TPE-PHI-01,Davis Cup G2 R2: TPE vs PHI,Clay,,4,
+2016-M-DC-2016-G2-AO-M-TPE-THA-01,Davis Cup G2 R3: TPE vs THA,Hard,,4,
+2016-M-DC-2016-G2-AO-M-VIE-INA-01,Davis Cup G2 R1: VIE vs INA,Hard,,4,
+2016-M-DC-2016-G2-AO-M-VIE-THA-01,Davis Cup G2 R2: VIE vs THA,Hard,,4,
+2016-M-DC-2016-G2-EPA-M-BIH-TUN-01,Davis Cup G2 R1: BIH vs TUN,Carpet,,4,
+2016-M-DC-2016-G2-EPA-M-BLR-DEN-01,Davis Cup G2 R3: BLR vs DEN,Hard,,4,
+2016-M-DC-2016-G2-EPA-M-BUL-TUR-01,Davis Cup G2 R1: BUL vs TUR,Hard,,4,
+2016-M-DC-2016-G2-EPA-M-EGY-BLR-01,Davis Cup G2 R1: EGY vs BLR,Clay,,4,
+2016-M-DC-2016-G2-EPA-M-FIN-DEN-01,Davis Cup G2 R2: FIN vs DEN,Carpet,,4,
+2016-M-DC-2016-G2-EPA-M-GEO-DEN-01,Davis Cup G2 R1: GEO vs DEN,Carpet,,4,
+2016-M-DC-2016-G2-EPA-M-LAT-BLR-01,Davis Cup G2 R2: LAT vs BLR,Hard,,4,
+2016-M-DC-2016-G2-EPA-M-LTU-BIH-01,Davis Cup G2 R3: LTU vs BIH,Hard,,4,
+2016-M-DC-2016-G2-EPA-M-LTU-NOR-01,Davis Cup G2 R1: LTU vs NOR,Hard,,4,
+2016-M-DC-2016-G2-EPA-M-LTU-RSA-01,Davis Cup G2 R2: LTU vs RSA,Clay,,4,
+2016-M-DC-2016-G2-EPA-M-MON-LAT-01,Davis Cup G2 R1: MON vs LAT,Hard,,4,
+2016-M-DC-2016-G2-EPA-M-RSA-LUX-01,Davis Cup G2 R1: RSA vs LUX,Hard,,4,
+2016-M-DC-2016-G2-EPA-M-TUR-BIH-01,Davis Cup G2 R2: TUR vs BIH,Clay,,4,
+2016-M-DC-2016-G2-EPA-M-ZIM-FIN-01,Davis Cup G2 R1: ZIM vs FIN,Hard,,4,
+2016-M-DC-2016-WG-M-ARG-CRO-01,Davis Cup WG F: ARG vs CRO,Hard,,4,
+2016-M-DC-2016-WG-M-ARG-POL-01,Davis Cup WG R1: ARG vs POL,Hard,,4,
+2016-M-DC-2016-WG-M-CAN-FRA-01,Davis Cup WG R1: CAN vs FRA,Clay,,4,
+2016-M-DC-2016-WG-M-CRO-BEL-01,Davis Cup WG R1: CRO vs BEL,Clay,,4,
+2016-M-DC-2016-WG-M-FRA-CRO-01,Davis Cup WG SF: FRA vs CRO,Hard,,4,
+2016-M-DC-2016-WG-M-FRA-CZE-01,Davis Cup WG QF: FRA vs CZE,Hard,,4,
+2016-M-DC-2016-WG-M-GBR-ARG-01,Davis Cup WG SF: GBR vs ARG,Hard,,4,
+2016-M-DC-2016-WG-M-GBR-JPN-01,Davis Cup WG R1: GBR vs JPN,Hard,,4,
+2016-M-DC-2016-WG-M-GBR-SRB-01,Davis Cup WG QF: GBR vs SRB,Clay,,4,
+2016-M-DC-2016-WG-M-GER-CZE-01,Davis Cup WG R1: GER vs CZE,Hard,,4,
+2016-M-DC-2016-WG-M-ITA-ARG-01,Davis Cup WG QF: ITA vs ARG,Clay,,4,
+2016-M-DC-2016-WG-M-SRB-KAZ-01,Davis Cup WG R1: SRB vs KAZ,Hard,,4,
+2016-M-DC-2016-WG-M-SUI-ITA-01,Davis Cup WG R1: SUI vs ITA,Clay,,4,
+2016-M-DC-2016-WG-M-USA-AUS-01,Davis Cup WG R1: USA vs AUS,Grass,,4,
+2016-M-DC-2016-WG-M-USA-CRO-01,Davis Cup WG QF: USA vs CRO,Hard,,4,
+2016-M-DC-2016-WG-PO-AUS-SVK-01,Davis Cup WG PO: AUS vs SVK,Grass,,4,
+2016-M-DC-2016-WG-PO-BEL-BRA-01,Davis Cup WG PO: BEL vs BRA,Hard,,4,
+2016-M-DC-2016-WG-PO-CAN-CHI-01,Davis Cup WG PO: CAN vs CHI,Hard,,4,
+2016-M-DC-2016-WG-PO-ESP-IND-01,Davis Cup WG PO: ESP vs IND,Hard,,4,
+2016-M-DC-2016-WG-PO-GER-POL-01,Davis Cup WG PO: GER vs POL,Clay,,4,
+2016-M-DC-2016-WG-PO-JPN-UKR-01,Davis Cup WG PO: JPN vs UKR,Hard,,4,
+2016-M-DC-2016-WG-PO-KAZ-RUS-01,Davis Cup WG PO: KAZ vs RUS,Hard,,4,
+2016-M-DC-2016-WG-PO-SUI-UZB-01,Davis Cup WG PO: SUI vs UZB,Clay,,4,
+2017-M020,Brisbane,Hard,Outdoor,32,ATP250
+2017-0891,Chennai,Hard,Outdoor,32,ATP250
+2017-0451,Doha,Hard,Outdoor,32,ATP250
+2017-0301,Auckland,Hard,Outdoor,32,ATP250
+2017-M001,Sydney,Hard,Outdoor,32,ATP250
+2017-580,Australian Open,Hard,Outdoor,128,Grand Slam
+2017-0375,Montpellier,Hard,Indoor,32,ATP250
+2017-7161,Quito,Clay,Outdoor,32,ATP250
+2017-7434,Sofia,Hard,Indoor,32,ATP250
+2017-0506,Buenos Aires,Clay,Outdoor,32,ATP250
+2017-0402,Memphis,Hard,Indoor,32,ATP250
+2017-0407,Rotterdam,Hard,Indoor,32,ATP500
+2017-0499,Delray Beach,Hard,Outdoor,32,ATP250
+2017-0496,Marseille,Hard,Indoor,32,ATP250
+2017-6932,Rio De Janeiro,Clay,,32,
+2017-M004,Acapulco,Hard,Outdoor,32,ATP500
+2017-0495,Dubai,Hard,,32,
+2017-0533,Sao Paulo,Clay,Indoor,32,ATP250
+2017-M006,Indian Wells Masters,Hard,,128,
+2017-M007,Miami Masters,Hard,,128,
+2017-0717,Houston,Clay,Outdoor,32,ATP250
+2017-0360,Marrakech,Clay,Outdoor,32,ATP250
+2017-0410,Monte Carlo,Clay,,64,
+2017-0425,Barcelona,Clay,Outdoor,64,ATP500
+2017-7648,Budapest,Clay,Outdoor,32,ATP250
+2017-7290,Estoril,Clay,Outdoor,32,ATP250
+2017-7163,Istanbul,Clay,Outdoor,32,ATP250
+2017-0308,Munich,Clay,Outdoor,32,ATP250
+2017-M021,Madrid,Clay,Outdoor,64,Masters 1000
+2017-M009,Rome,Clay,Outdoor,64,Masters 1000
+2017-0322,Geneva,Clay,Outdoor,32,ATP250
+2017-7694,Lyon,Clay,Outdoor,32,ATP250
+2017-520,Roland Garros,Clay,,128,
+2017-M010,'S-Hertogenbosch,Grass,,32,
+2017-0321,Stuttgart,Grass,Outdoor,32,ATP250
+2017-0500,Halle,Grass,Outdoor,32,ATP500
+2017-0311,London,Grass,,32,
+2017-7650,Antalya,Grass,Outdoor,32,ATP250
+2017-M016,Eastbourne,Grass,Outdoor,32,ATP250
+2017-540,Wimbledon,Grass,Outdoor,128,Grand Slam
+2017-0316,Bastad,Clay,Outdoor,32,ATP250
+2017-0315,Newport,Grass,Outdoor,32,ATP250
+2017-0439,Umag,Clay,Outdoor,32,ATP250
+2017-6116,Atlanta,Hard,Outdoor,32,ATP250
+2017-0314,Gstaad,Clay,Outdoor,32,ATP250
+2017-0414,Hamburg,Clay,Outdoor,32,ATP500
+2017-0319,Kitzbuhel,Clay,Outdoor,32,ATP250
+2017-7480,Los Cabos,Hard,Outdoor,32,ATP250
+2017-M035,Washington,Hard,Outdoor,64,ATP500
+2017-0421,Canada Masters,Hard,,64,
+2017-M024,Cincinnati Masters,Hard,,64,
+2017-6242,Winston-Salem,Hard,Outdoor,64,ATP250
+2017-560,Us Open,Hard,,128,
+2017-0341,Metz,Hard,Indoor,32,ATP250
+2017-0568,St. Petersburg,Hard,Indoor,32,ATP250
+2017-7581,Chengdu,Hard,Outdoor,32,ATP250
+2017-6967,Shenzhen,Hard,,32,
+2017-M015,Beijing ,Hard,,32,
+2017-0329,Tokyo,Hard,Outdoor,32,ATP500
+2017-5014,Shanghai Masters,Hard,Outdoor,64,Masters 1000
+2017-7485,Antwerp,Hard,Indoor,32,ATP250
+2017-M014,Moscow,Hard,Indoor,32,ATP250
+2017-0429,Stockholm,Hard,Indoor,32,ATP250
+2017-0328,Basel,Hard,Indoor,32,ATP500
+2017-0337,Vienna,Hard,Indoor,32,ATP500
+2017-0352,Paris Masters,Hard,,64,
+2017-0605,London,Hard,Indoor,8,Masters Cup
+2017-M-DC-2017-G1-AM-M-BRA-ECU-01,Davis Cup G1 R2: BRA vs ECU,Clay,,4,
+2017-M-DC-2017-G1-AM-M-CHI-COL-01,Davis Cup G1 R2: CHI vs COL,Clay,,4,
+2017-M-DC-2017-G1-AM-M-DOM-CHI-01,Davis Cup G1 R1: DOM vs CHI,Hard,,4,
+2017-M-DC-2017-G1-AM-M-PER-ECU-01,Davis Cup G1 R1: PER vs ECU,None,,4,
+2017-M-DC-2017-G1-AO-M-KAZ-CHN-01,Davis Cup G1 R2: KAZ vs CHN,Clay,,4,
+2017-M-DC-2017-G1-AO-M-NZL-IND-01,Davis Cup G1 R1: NZL vs IND,None,,4,
+2017-M-DC-2017-G1-AO-M-TPE-CHN-01,Davis Cup G1 R1: TPE vs CHN,None,,4,
+2017-M-DC-2017-G1-AO-M-UZB-IND-01,Davis Cup G1 R2: UZB vs IND,Hard,,4,
+2017-M-DC-2017-G1-AO-M-UZB-KOR-01,Davis Cup G1 R1: UZB vs KOR,None,,4,
+2017-M-DC-2017-G1-EPA-M-BLR-AUT-01,Davis Cup G1 R2: BLR vs AUT,Hard,,4,
+2017-M-DC-2017-G1-EPA-M-ISR-POR-01,Davis Cup G1 R1: ISR vs POR,None,,4,
+2017-M-DC-2017-G1-EPA-M-NED-BIH-01,Davis Cup G1 R2: NED vs BIH,Hard,,4,
+2017-M-DC-2017-G1-EPA-M-POL-BIH-01,Davis Cup G1 R1: POL vs BIH,Hard,,4,
+2017-M-DC-2017-G1-EPA-M-POR-UKR-01,Davis Cup G1 R2: POR vs UKR,Clay,,4,
+2017-M-DC-2017-G1-EPA-M-ROU-BLR-01,Davis Cup G1 R1: ROU vs BLR,None,,4,
+2017-M-DC-2017-G1-EPA-M-SVK-HUN-01,Davis Cup G1 R2: SVK vs HUN,None,,4,
+2017-M-DC-2017-G2-AM-M-BAH-VEN-01,Davis Cup G2 R1: BAH vs VEN,None,,4,
+2017-M-DC-2017-G2-AM-M-BAR-GUA-01,Davis Cup G2 R2: BAR vs GUA,Hard,,4,
+2017-M-DC-2017-G2-AM-M-BAR-PAR-01,Davis Cup G2 R1: BAR vs PAR,None,,4,
+2017-M-DC-2017-G2-AM-M-BAR-VEN-01,Davis Cup G2 R3: BAR vs VEN,Hard,,4,
+2017-M-DC-2017-G2-AM-M-BOL-ESA-01,Davis Cup G2 R1: BOL vs ESA,None,,4,
+2017-M-DC-2017-G2-AM-M-ESA-VEN-01,Davis Cup G2 R2: ESA vs VEN,Hard,,4,
+2017-M-DC-2017-G2-AM-M-MEX-GUA-01,Davis Cup G2 R1: MEX vs GUA,None,,4,
+2017-M-DC-2017-G2-AO-M-INA-PHI-01,Davis Cup G2 R1: INA vs PHI,None,,4,
+2017-M-DC-2017-G2-AO-M-KUW-THA-01,Davis Cup G2 R1: KUW vs THA,None,,4,
+2017-M-DC-2017-G2-AO-M-PAK-IRI-01,Davis Cup G2 R1: PAK vs IRI,Hard,,4,
+2017-M-DC-2017-G2-AO-M-PAK-THA-01,Davis Cup G2 R3: PAK vs THA,Grass,,4,
+2017-M-DC-2017-G2-AO-M-PHI-THA-01,Davis Cup G2 R2: PHI vs THA,Hard,,4,
+2017-M-DC-2017-G2-AO-M-VIE-HKG-01,Davis Cup G2 R1: VIE vs HKG,None,,4,
+2017-M-DC-2017-G2-EPA-M-DEN-RSA-01,Davis Cup G2 R3: DEN vs RSA,Hard,,4,
+2017-M-DC-2017-G2-EPA-M-EST-RSA-01,Davis Cup G2 R1: EST vs RSA,None,,4,
+2017-M-DC-2017-G2-EPA-M-FIN-GEO-01,Davis Cup G2 R1: FIN vs GEO,None,,4,
+2017-M-DC-2017-G2-EPA-M-LTU-GEO,Davis Cup G2 R2: LTU vs GEO,Hard,,4,
+2017-M-DC-2017-G2-EPA-M-LTU-MAD-01,Davis Cup G2 R1: LTU vs MAD,None,,4,
+2017-M-DC-2017-G2-EPA-M-MAR-DEN-01,Davis Cup G2 R1: MAR vs DEN,None,,4,
+2017-M-DC-2017-G2-EPA-M-MON-SLO-01,Davis Cup G2 R1: MON vs SLO,None,,4,
+2017-M-DC-2017-G2-EPA-M-NOR-DEN-01,Davis Cup G2 R2: NOR vs DEN,Hard,,4,
+2017-M-DC-2017-G2-EPA-M-NOR-LAT-01,Davis Cup G2 R1: NOR vs LAT,None,,4,
+2017-M-DC-2017-G2-EPA-M-RSA-SLO-01,Davis Cup G2 R2: RSA vs SLO,Hard,,4,
+2017-M-DC-2017-G2-EPA-M-SWE-LTU-01,Davis Cup G2 R3: SWE vs LTU,Clay,,4,
+2017-M-DC-2017-G2-EPA-M-SWE-TUN-01,Davis Cup G2 R1: SWE vs TUN,Hard,,4,
+2017-M-DC-2017-G2-EPA-M-SWE-TUR-01,Davis Cup G2 R2: SWE vs TUR,Clay,,4,
+2017-M-DC-2017-G2-EPA-M-TUR-CYP-01,Davis Cup G2 R1: TUR vs CYP,None,,4,
+2017-M-DC-2017-WG-M-ARG-ITA-01,Davis Cup WG R1: ARG vs ITA,Clay,,4,
+2017-M-DC-2017-WG-M-AUS-USA-01,Davis Cup WG QF: AUS vs USA,Hard,,4,
+2017-M-DC-2017-WG-M-BEL-AUS-01,Davis Cup WG SF: BEL vs AUS,Clay,,4,
+2017-M-DC-2017-WG-M-BEL-FRA-01,Davis Cup WG F: BEL vs FRA,Hard,,4,
+2017-M-DC-2017-WG-M-BEL-GER-01,Davis Cup WG R1: BEL vs GER,Hard,,4,
+2017-M-DC-2017-WG-M-CAN-GBR-01,Davis Cup WG R1: CAN vs GBR,Hard,,4,
+2017-M-DC-2017-WG-M-CZE-AUS-01,Davis Cup WG R1: CZE vs AUS,Hard,,4,
+2017-M-DC-2017-WG-M-ESP-CRO-01,Davis Cup WG R1: ESP vs CRO,Hard,,4,
+2017-M-DC-2017-WG-M-FRA-GBR-01,Davis Cup WG QF: FRA vs GBR,Clay,,4,
+2017-M-DC-2017-WG-M-FRA-SRB-01,Davis Cup WG SF: FRA vs SRB,Clay,,4,
+2017-M-DC-2017-WG-M-ITA-BEL-01,Davis Cup WG QF: ITA vs BEL,Hard,,4,
+2017-M-DC-2017-WG-M-JPN-FRA-01,Davis Cup WG R1: JPN vs FRA,Hard,,4,
+2017-M-DC-2017-WG-M-RUS-SRB-01,Davis Cup WG R1: RUS vs SRB,Hard,,4,
+2017-M-DC-2017-WG-M-SRB-ESP-01,Davis Cup WG QF: SRB vs ESP,Hard,,4,
+2017-M-DC-2017-WG-M-SUI-USA-01,Davis Cup WG R1: SUI vs USA,Hard,,4,
+2017-M-DC-2017-WG-PO-ARG-KAZ-01,Davis Cup WG PO: ARG vs KAZ,Hard,,4,
+2017-M-DC-2017-WG-PO-CAN-IND-01,Davis Cup WG PO: CAN vs IND,Hard,,4,
+2017-M-DC-2017-WG-PO-CRO-COL-01,Davis Cup WG PO: CRO vs COL,Clay,,4,
+2017-M-DC-2017-WG-PO-CZE-NED-01,Davis Cup WG PO: CZE vs NED,Clay,,4,
+2017-M-DC-2017-WG-PO-GER-POR-01,Davis Cup WG PO: GER vs POR,Clay,,4,
+2017-M-DC-2017-WG-PO-JPN-BRA-01,Davis Cup WG PO: JPN vs BRA,Hard,,4,
+2017-M-DC-2017-WG-PO-RUS-HUN-01,Davis Cup WG PO: RUS vs HUN,Clay,,4,
+2017-M-DC-2017-WG-PO-SUI-BLR-01,Davis Cup WG PO: SUI vs BLR,Hard,,4,
+2018-M020,Brisbane,Hard,Outdoor,32,ATP250
+2018-0451,Doha,Hard,Outdoor,32,ATP250
+2018-0891,Pune,Hard,Outdoor,32,ATP250
+2018-0301,Auckland,Hard,Outdoor,32,ATP250
+2018-M001,Sydney,Hard,Outdoor,32,ATP250
+2018-580,Australian Open,Hard,Outdoor,128,Grand Slam
+2018-0375,Montpellier,Hard,Indoor,32,ATP250
+2018-7161,Quito,Clay,,32,
+2018-7434,Sofia,Hard,Indoor,32,ATP250
+2018-0506,Buenos Aires,Clay,Outdoor,32,ATP250
+2018-0424,New York,Hard,Indoor,32,ATP250
+2018-0407,Rotterdam,Hard,Indoor,32,ATP500
+2018-0499,Delray Beach,Hard,Outdoor,32,ATP250
+2018-0496,Marseille,Hard,Indoor,32,ATP250
+2018-6932,Rio De Janeiro,Clay,,32,
+2018-M004,Acapulco,Hard,Outdoor,32,ATP500
+2018-0495,Dubai,Hard,,32,
+2018-0533,Sao Paulo,Clay,Indoor,32,ATP250
+2018-M006,Indian Wells Masters,Hard,,128,
+2018-M007,Miami Masters,Hard,,128,
+2018-0717,Houston,Clay,Outdoor,32,ATP250
+2018-0360,Marrakech,Clay,Outdoor,32,ATP250
+2018-0410,Monte Carlo Masters,Clay,Outdoor,64,Masters 1000
+2018-0425,Barcelona,Clay,Outdoor,64,ATP500
+2018-7648,Budapest,Clay,Outdoor,32,ATP250
+2018-7290,Estoril,Clay,Outdoor,32,ATP250
+2018-7163,Istanbul,Clay,Outdoor,32,ATP250
+2018-0308,Munich,Clay,Outdoor,32,ATP250
+2018-M021,Madrid Masters,Clay,,64,
+2018-M009,Rome Masters,Clay,,64,
+2018-0322,Geneva,Clay,Outdoor,32,ATP250
+2018-7694,Lyon,Clay,Outdoor,32,ATP250
+2018-520,Roland Garros,Clay,,128,
+2018-M010,S-Hertogenbosch,Grass,,32,
+2018-0321,Stuttgart,Grass,Outdoor,32,ATP250
+2018-0500,Halle,Grass,Outdoor,32,ATP500
+2018-0311,London,Grass,,32,
+2018-7650,Antalya,Grass,Outdoor,32,ATP250
+2018-M016,Eastbourne,Grass,Outdoor,32,ATP250
+2018-540,Wimbledon,Grass,Outdoor,128,Grand Slam
+2018-0316,Bastad,Clay,Outdoor,32,ATP250
+2018-0315,Newport,Grass,,32,
+2018-0439,Umag,Clay,,32,
+2018-6116,Atlanta,Hard,Outdoor,32,ATP250
+2018-0314,Gstaad,Clay,Outdoor,32,ATP250
+2018-0414,Hamburg,Clay,Outdoor,32,ATP500
+2018-7480,Cabo San Lucas,Hard,,32,
+2018-0319,Kitzbuhel,Clay,Outdoor,32,ATP250
+2018-M035,Washington,Hard,Outdoor,64,ATP500
+2018-0421,Canada Masters,Hard,,64,
+2018-M024,Cincinnati Masters,Hard,,64,
+2018-6242,Winston Salem,Hard,,64,
+2018-560,Us Open,Hard,,128,
+2018-0341,Metz,Hard,Indoor,32,ATP250
+2018-0568,St. Petersburg,Hard,Indoor,32,ATP250
+2018-M-DC-2018-G1-AM-M-ARG-CHI-01,Davis Cup G1 R2: ARG vs CHI,Clay,,4,
+2018-M-DC-2018-G1-AM-M-CHI-ECU-01,Davis Cup G1 R1: CHI vs ECU,Clay,,4,
+2018-M-DC-2018-G1-AM-M-COL-BAR-01,Davis Cup G1 R1: COL vs BAR,Hard,,4,
+2018-M-DC-2018-G1-AM-M-COL-BRA-01,Davis Cup G1 R2: COL vs BRA,Hard,,4,
+2018-M-DC-2018-G1-AM-M-DOM-BRA-01,Davis Cup G1 R1: DOM vs BRA,Hard,,4,
+2018-M-DC-2018-G1-AO-M-CHN-NZL-01,Davis Cup G1 R1: CHN vs NZL,Hard,,4,
+2018-M-DC-2018-G1-AO-M-IND-CHN-01,Davis Cup G1 R2: IND vs CHN,Hard,,4,
+2018-M-DC-2018-G1-AO-M-KOR-PAK-01,Davis Cup G1 R1: KOR vs PAK,Grass,,4,
+2018-M-DC-2018-G1-AO-M-PAK-UZB-01,Davis Cup G1 R2: PAK vs UZB,Grass,,4,
+2018-M-DC-2018-G1-EPA-M-AUT-BLR-01,Davis Cup G1 R1: AUT vs BLR,Clay,,4,
+2018-M-DC-2018-G1-EPA-M-AUT-RUS-01,Davis Cup G1 R2: AUT vs RUS,Hard,,4,
+2018-M-DC-2018-G1-EPA-M-BIH-SVK-01,Davis Cup G1 R2: BIH vs SVK,Clay,,4,
+2018-M-DC-2018-G1-EPA-M-CZE-ISR-01,Davis Cup G1 R2: CZE vs ISR,Clay,,4,
+2018-M-DC-2018-G1-EPA-M-POR-SWE-01,Davis Cup G1 R2: POR vs SWE,Hard,,4,
+2018-M-DC-2018-G1-EPA-M-RSA-ISR-01,Davis Cup G1 R1: RSA vs ISR,Hard,,4,
+2018-M-DC-2018-G1-EPA-M-UKR-SWE-01,Davis Cup G1 R1: UKR vs SWE,Hard,,4,
+2018-M-DC-2018-G2-AM-M-BOL-PER-01,Davis Cup G2 R1: BOL vs PER,Clay,,4,
+2018-M-DC-2018-G2-AM-M-ESA-URU-01,Davis Cup G2 R1: ESA vs URU,Hard,,4,
+2018-M-DC-2018-G2-AM-M-MEX-PER-01,Davis Cup G2 R2: MEX vs PER,Hard,,4,
+2018-M-DC-2018-G2-AM-M-PUR-MEX-01,Davis Cup G2 R1: PUR vs MEX,Hard,,4,
+2018-M-DC-2018-G2-AM-M-URU-MEX-01,Davis Cup G2 R3: URU vs MEX,Clay,,4,
+2018-M-DC-2018-G2-AM-M-VEN-GUA-01,Davis Cup G2 R1: VEN vs GUA,Hard,,4,
+2018-M-DC-2018-G2-AM-M-VEN-URU-01,Davis Cup G2 R2: VEN vs URU,Clay,,4,
+2018-M-DC-2018-G2-AO-M-HKG-LBN-01,Davis Cup G2 R2: HKG vs LBN,Hard,,4,
+2018-M-DC-2018-G2-AO-M-IRI-HKG-01,Davis Cup G2 R1: IRI vs HKG,Hard,,4,
+2018-M-DC-2018-G2-AO-M-LBN-TPE-01,Davis Cup G2 R1: LBN vs TPE,Hard,,4,
+2018-M-DC-2018-G2-AO-M-PHI-INA-01,Davis Cup G2 R1: PHI vs INA,Hard,,4,
+2018-M-DC-2018-G2-AO-M-THA-LBN-01,Davis Cup G2 R3: THA vs LBN,Hard,,4,
+2018-M-DC-2018-G2-AO-M-THA-PHI-01,Davis Cup G2 R2: THA vs PHI,Clay,,4,
+2018-M-DC-2018-G2-AO-M-THA-SRI-01,Davis Cup G2 R1: THA vs SRI,Clay,,4,
+2018-M-DC-2018-G2-EPA-M-EGY-DEN-01,Davis Cup G2 R2: EGY vs DEN,Hard,,4,
+2018-M-DC-2018-G2-EPA-M-EGY-FIN-01,Davis Cup G2 R3: EGY vs FIN,Clay,,4,
+2018-M-DC-2018-G2-EPA-M-EGY-NOR-01,Davis Cup G2 R1: EGY vs NOR,Hard,,4,
+2018-M-DC-2018-G2-EPA-M-EST-LTU-01,Davis Cup G2 R1: EST vs LTU,Hard,,4,
+2018-M-DC-2018-G2-EPA-M-FIN-LTU-01,Davis Cup G2 R2: FIN vs LTU,Hard,,4,
+2018-M-DC-2018-G2-EPA-M-GEO-MAR-01,Davis Cup G2 R1: GEO vs MAR,Clay,,4,
+2018-M-DC-2018-G2-EPA-M-IRL-DEN-01,Davis Cup G2 R1: IRL vs DEN,Hard,,4,
+2018-M-DC-2018-G2-EPA-M-POL-ZIM-01,Davis Cup G2 R2: POL vs ZIM,Hard,,4,
+2018-M-DC-2018-G2-EPA-M-ROU-LUX-01,Davis Cup G2 R1: ROU vs LUX,Hard,,4,
+2018-M-DC-2018-G2-EPA-M-ROU-MAR-01,Davis Cup G2 R2: ROU vs MAR,Hard,,4,
+2018-M-DC-2018-G2-EPA-M-ROU-POL-01,Davis Cup G2 R3: ROU vs POL,Clay,,4,
+2018-M-DC-2018-G2-EPA-M-SLO-POL-01,Davis Cup G2 R1: SLO vs POL,Hard,,4,
+2018-M-DC-2018-G2-EPA-M-TUN-FIN-01,Davis Cup G2 R1: TUN vs FIN,Hard,,4,
+2018-M-DC-2018-G2-EPA-M-TUR-ZIM-01,Davis Cup G2 R1: TUR vs ZIM,Hard,,4,
+2018-M-DC-2018-WG-M-AUS-GER-01,Davis Cup WG R1: AUS vs GER,Hard,,4,
+2018-M-DC-2018-WG-M-CAN-CRO-01,Davis Cup WG R1: CAN vs CRO,Clay,,4,
+2018-M-DC-2018-WG-M-CRO-USA-01,Davis Cup WG SF: CRO vs USA,Clay,,4,
+2018-M-DC-2018-WG-M-ESP-GER-01,Davis Cup WG QF: ESP vs GER,Clay,,4,
+2018-M-DC-2018-WG-M-FRA-ESP-01,Davis Cup WG SF: FRA vs ESP,Hard,,4,
+2018-M-DC-2018-WG-M-FRA-ITA-01,Davis Cup WG QF: FRA vs ITA,Clay,,4,
+2018-M-DC-2018-WG-M-FRA-NED-01,Davis Cup WG R1: FRA vs NED,Hard,,4,
+2018-M-DC-2018-WG-M-GBR-ESP-01,Davis Cup WG R1: GBR vs ESP,Clay,,4,
+2018-M-DC-2018-WG-M-HUN-BEL-01,Davis Cup WG R1: HUN vs BEL,Hard,,4,
+2018-M-DC-2018-WG-M-ITA-JPN-01,Davis Cup WG R1: ITA vs JPN,Hard,,4,
+2018-M-DC-2018-WG-M-KAZ-CRO-01,Davis Cup WG QF: KAZ vs CRO,Clay,,4,
+2018-M-DC-2018-WG-M-KAZ-SUI-01,Davis Cup WG R1: KAZ vs SUI,Hard,,4,
+2018-M-DC-2018-WG-M-USA-BEL-01,Davis Cup WG QF: USA vs BEL,Hard,,4,
+2018-M-DC-2018-WG-M-USA-SRB-01,Davis Cup WG R1: USA vs SRB,Clay,,4,
+2018-M-DC-2018-WG-PO-ARG-COL-01,Davis Cup WG PO: ARG vs COL,Clay,,4,
+2018-M-DC-2018-WG-PO-AUT-AUS-01,Davis Cup WG PO: AUT vs AUS,Clay,,4,
+2018-M-DC-2018-WG-PO-CAN-NED-01,Davis Cup WG PO: CAN vs NED,Hard,,4,
+2018-M-DC-2018-WG-PO-GBR-UZB-01,Davis Cup WG PO: GBR vs UZB,Hard,,4,
+2018-M-DC-2018-WG-PO-HUN-CZE-01,Davis Cup WG PO: HUN vs CZE,Clay,,4,
+2018-M-DC-2018-WG-PO-JPN-BIH-01,Davis Cup WG PO: JPN vs BIH,Hard,,4,
+2018-M-DC-2018-WG-PO-SRB-IND-01,Davis Cup WG PO: SRB vs IND,Clay,,4,
+2018-M-DC-2018-WG-PO-SUI-SWE-01,Davis Cup WG PO: SUI vs SWE,Hard,,4,
