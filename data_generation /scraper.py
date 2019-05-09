@@ -5,6 +5,7 @@ import pandas as pd
 def scrape_rank_weeks():
     """
         Scrapes the ATP Website for ranking weeks.
+        
     """
     weeks_url = "http://www.atpworldtour.com/en/rankings/singles"
     weeks_tree = html_parse_tree(weeks_url)
@@ -19,7 +20,17 @@ def scrape_rank_weeks():
 def scrape_ranking_at_week(week, max_rank):
     """
         Scrapes the ATP Website for a precise weekly ranking.
-    """
+        
+        Args:
+        ----- 
+        :week: (str) Date of the week,
+        :max_rank: (int) Max rank to be scrapped.
+        
+        Returns:
+        --------
+        :rankings_df: DataFrame containing the ranking for the specified week. 
+                      (cols: rank, rank_points, name, age)
+    """ 
 
     week_url = "http://www.atpworldtour.com/en/rankings/singles?rankDate=" + week + "&rankRange=1-3000"
     week_tree = html_parse_tree(week_url)
