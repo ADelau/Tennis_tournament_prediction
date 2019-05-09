@@ -1,3 +1,6 @@
+"""
+Credits: The code is a modified version of @serve-and-volley's code.
+"""
 from lxml import html
 import requests
 import re
