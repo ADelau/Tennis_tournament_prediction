@@ -273,7 +273,7 @@ class DatasetMaker:
             for i, odd in enumerate(self.ODDS):
                 final[odd] = odds[:, i]
 
-        return final.sort_values(by='date')
+        return final.sort_index()
 
     def _compute_stats(self, winner_id, loser_id, surface, date):
 
